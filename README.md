@@ -29,3 +29,4 @@ https://github.com/hslatman/awesome-industrial-control-system-security
 https://github.com/Cugu/awesome-forensics
 https://github.com/caesar0301/awesome-pcaptools
 https://github.com/hslatman/awesome-threat-intelligence
+https://github.com/udpsec/awesome-hacking-lists
