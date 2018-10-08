@@ -1,32 +1,32 @@
-https://github.com/jekil/awesome-hacking
-https://github.com/qazbnm456/awesome-web-security
-https://github.com/vitalysim/Awesome-Hacking-Resources
-https://github.com/arthurwayne/awesome-pentester
-https://github.com/andrewjkerr/security-cheatsheets
-https://github.com/FabioBaroni/awesome-exploit-development
-https://github.com/yeyintminthuhtut/Awesome-Red-Teaming
-https://github.com/carpedm20/awesome-hacking
-https://gist.github.com/cmartinbaughman/5877945
-https://github.com/meitar/awesome-lockpicking
-https://github.com/meirwah/awesome-incident-response
-https://github.com/paralax/awesome-honeypots
-https://github.com/rshipp/awesome-malware-analysis
-https://github.com/apsdehal/awesome-ctf
-https://github.com/sbilly/awesome-security
-https://github.com/paragonie/awesome-appsec
-https://github.com/ashishb/android-security-awesome
-https://github.com/qazbnm456/awesome-cve-poc
-https://github.com/enaqx/awesome-pentest/
-https://github.com/coreb1t/BruteX/tree/master/wordlists
-https://github.com/govolution/betterdefaultpasslist
-https://github.com/djadmin/awesome-bug-bounty
-https://github.com/danielmiessler/SecLists
-https://github.com/onlurking/awesome-infosec
-https://github.com/InQuest/awesome-yara
-https://github.com/PaulSec/awesome-sec-talks
-https://github.com/infoslack/awesome-web-hacking
-https://github.com/hslatman/awesome-industrial-control-system-security
-https://github.com/Cugu/awesome-forensics
-https://github.com/caesar0301/awesome-pcaptools
-https://github.com/hslatman/awesome-threat-intelligence
-https://github.com/udpsec/awesome-hacking-lists
+- https://github.com/jekil/awesome-hacking
+- https://github.com/qazbnm456/awesome-web-security
+- https://github.com/vitalysim/Awesome-Hacking-Resources
+- https://github.com/arthurwayne/awesome-pentester
+- https://github.com/andrewjkerr/security-cheatsheets
+- https://github.com/FabioBaroni/awesome-exploit-development
+- https://github.com/yeyintminthuhtut/Awesome-Red-Teaming
+- https://github.com/carpedm20/awesome-hacking
+- https://gist.github.com/cmartinbaughman/5877945
+- https://github.com/meitar/awesome-lockpicking
+- https://github.com/meirwah/awesome-incident-response
+- https://github.com/paralax/awesome-honeypots
+- https://github.com/rshipp/awesome-malware-analysis
+- https://github.com/apsdehal/awesome-ctf
+- https://github.com/sbilly/awesome-security
+- https://github.com/paragonie/awesome-appsec
+- https://github.com/ashishb/android-security-awesome
+- https://github.com/qazbnm456/awesome-cve-poc
+- https://github.com/enaqx/awesome-pentest/
+- https://github.com/coreb1t/BruteX/tree/master/wordlists
+- https://github.com/govolution/betterdefaultpasslist
+- https://github.com/djadmin/awesome-bug-bounty
+- https://github.com/danielmiessler/SecLists
+- https://github.com/onlurking/awesome-infosec
+- https://github.com/InQuest/awesome-yara
+- https://github.com/PaulSec/awesome-sec-talks
+- https://github.com/infoslack/awesome-web-hacking
+- https://github.com/hslatman/awesome-industrial-control-system-security
+- https://github.com/Cugu/awesome-forensics
+- https://github.com/caesar0301/awesome-pcaptools
+- https://github.com/hslatman/awesome-threat-intelligence
+- https://github.com/udpsec/awesome-hacking-lists
