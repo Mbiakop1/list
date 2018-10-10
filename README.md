@@ -641,7 +641,8 @@
   * [Binary Defense IP Ban List](https://www.binarydefense.com/banlist.txt) - Public IP blacklist.
   * [Blocklist Ipsets](https://github.com/firehol/blocklist-ipsets) - Public IP blacklist.
   * [ThreatTracker](https://github.com/michael-yip/ThreatTracker) - Python based IOC tracker.
-  * [malc0de](http://malc0de.com/database/) - Searchable incident database.
+  * [malc0de Database](http://malc0de.com/database/) - Searchable incident database.
+  * [malc0de DNSSinkhole](http://malc0de.com/bl/) - List of domains that have been identified as distributing malware during the past 30 days.
   * [Malware Domain List](http://www.malwaredomainlist.com/) - Search and share malicious URLs.
   * [Machinae](https://github.com/hurricanelabs/machinae) - Multipurpose OSINT tool using threat intelligence feeds.
   * [Mxtoolbox](https://mxtoolbox.com/) - Email domain and DNS lookup.
