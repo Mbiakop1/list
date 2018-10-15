@@ -480,8 +480,8 @@
   * [BetterCAP](https://www.bettercap.org/) - Modular, portable and easily extensible MITM framework.
 
   #### Wireless Network Tools
+  * [WiFi Pumpkin](https://github.com/P0cL4bs/WiFi-Pumpkin) - All in one Wi-Fi exploitation and spoofing utility.
   * [Aircrack-ng](http://www.aircrack-ng.org/) - Set of tools for auditing wireless networks.
-  * [Airodump-ng](https://www.aircrack-ng.org/doku.php?id=airodump-ng) - Individual component within Aircrack-ng just for capturing raw 802.11 frames.
   * [Wifite](https://github.com/derv82/wifite) - Automated wireless attack tool.
   * [Fluxion](https://github.com/FluxionNetwork/fluxion) - Suite of automated social engineering based WPA attacks.
   * [NetStumbler](http://www.netstumbler.com/downloads/) - WLAN scanning tool.
