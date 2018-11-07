@@ -616,6 +616,7 @@
   * [GetVulnerableGPO](https://github.com/gpoguy/GetVulnerableGPO/) - PowerShell based utility for finding vulnerable GPOs.
   * [Luckystrike](https://github.com/curi0usJack/luckystrike) - PowerShell based utility for the creation of malicious Office macro documents.
   * [Commentator](https://github.com/clr2of8/Commentator) - PowerShell script for adding comments to MS Office documents, and these comments can contain code to be executed.
+  * [Hyena](https://www.systemtools.com/hyena/download.htm) - NetBIOS exploitation.
 
   #### GNU/Linux Utilities
   * [Linux Exploit Suggester](https://github.com/PenturaLabs/Linux_Exploit_Suggester) - Heuristic reporting on potentially viable exploits for a given GNU/Linux system.
