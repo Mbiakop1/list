@@ -1,3 +1,66 @@
+# GoVanguard InfoSec Encyclopedia
+
+This is an ongoing compilation of resources we have found helpful and tools we use.
+
+* Introduction
+* Table of Contents
+* Resources
+* Tools Used
+* Our Open Source Software
+
+## Table of Contents
+
+- [Resources](#resources)
+  - [Information Security Certifications](#information-security-certifications)
+  - [Books](#books)
+  - [Conferences](#conferences)
+  - [Online Videos](#online-vidoes)
+  - [Illustrations and Presentations](#illustrations-and-presentations)
+  - [Clearnet Exploit Databases](#clearnet-exploit-databases)
+  - [Malware Samples and Databases](#malware-samples-and-databases)
+  - [Awesome Master Lists](#awesome-master-lists)
+
+- [Tools](#tools)
+  - [Penetration Testing OS Distributions](#penetration-testing-os-distributions)
+  - [Multi-paradigm Frameworks](#multi-paradigm-frameworks)
+  - [Training Utilities and Resources](#training-utilities-and-resources)
+  - [Network Reconnaissance Tools](#network-reconnaissance-tools)
+  - [Network Vulnerability Scanners](#network-vulnerability-scanners)
+  - [Web Vulnerability Scanners](#web-vulnerability-scanners)
+  - [Web Exploitation](#web-exploitation)
+  - [Network Tools](#network-tools)
+  - [Protocol Analyzers and Sniffers](#protocol-analyzers-and-sniffers)
+  - [Proxies and MITM Tools](#proxies-and-mitm-tools)
+  - [Wireless Network Tools](#wireless-network-tools)
+  - [Transport Layer Security Tools](#transport-layer-security-tools)
+  - [Cryptography](#cryptography)
+  - [Post-Exploitation](#post-exfiltration)
+  - [Exfiltration Tools](#exfiltration-tools)
+  - [Static Analyzers](#static-analyzers)
+  - [Dynamic Analyzers](#dynamic-analyzers)
+  - [Hex Editors](#hex-editors)
+  - [File Format Analysis Tools](#file-format-analysis-tools)
+  - [Anti-Virus Evasion Tools](#anti-virus-evasion-tools)
+  - [Hash Cracking Tools](#hash-cracking-tools)
+  - [Windows Utilities](#windows-utilities)
+  - [GNU Linux Utilities](#gnu-linux-utilities)
+  - [macOS Utilities](#macos-utilities)
+  - [Social Engineering Tools](#social-engineering-tools)
+  - [OSINT Tools](#osint-tools)
+  - [Anonymity Tools](#anonymity-tools)
+  - [Reverse Engineering Tools](#reverse-engineering-tools)
+  - [Side-channel Tools](#side-channel-tools)
+  - [Forensic Tools](#forensic-tools)
+  - [Memory Analysis](#memory-analysis)
+  - [Incident Response](#incident-response)
+  - [Honeypot Tools](#honeypot-tools)
+  - [Monitoring and IDS-IPS](#monitoring-and-ids-ips)
+  - [Other](#other)
+- [Reports](#reports)
+
+
+
+
 ### Information Security Certifications
 
   - Kali Linux Certified Professional (KLCP) (https://home.pearsonvue.com/kali)
@@ -305,8 +368,7 @@
   - Packet Storm Security (https://packetstormsecurity.com/)
   - Awesome CVE PoC (https://github.com/qazbnm456/awesome-cve-poc)
   
-### Malware Samples and Databases
-  - InfoSec - CERT-PA (https://infosec.cert-pa.it/analyze/submission.html)
+   - InfoSec - CERT-PA (https://infosec.cert-pa.it/analyze/submission.html)
   - Contagio (http://contagiodump.blogspot.com/)
   - MalwareDB (http://malwaredb.malekal.com/)
   - MalShare (https://malshare.com/)
@@ -318,6 +380,34 @@
   - VirusShare (https://virusshare.com/)
   - VX Vault (http://vxvault.net/ViriList.php)
   - Zeus Trojan source code (https://github.com/Visgean/Zeus)
+
+### Awesome Master Lists
+* [Red Teaming](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming) 
+* [Web Security](https://github.com/qazbnm456/awesome-web-security)
+* [Hacking Resources](https://github.com/vitalysim/Awesome-Hacking-Resources)
+* [Lockpicking](https://github.com/meitar/awesome-lockpicking )
+* [PenTesting](https://github.com/arthurwayne/awesome-pentester)
+* [Exploit Development](https://github.com/FabioBaroni/awesome-exploit-development)
+* [Hacking](https://github.com/jekil/awesome-hacking)
+* [Also Hacking](https://github.com/carpedm20/awesome-hacking)
+* [Incident Response](https://github.com/meirwah/awesome-incident-response)
+* [Honeypot](https://github.com/paralax/awesome-honeypots)
+* [Malware Analysis](https://github.com/rshipp/awesome-malware-analysis)
+* [Capture The Flag](https://github.com/apsdehal/awesome-ctf)
+* [Security](https://github.com/sbilly/awesome-security)
+* [Application Security](https://github.com/paragonie/awesome-appsec)
+* [Android Security Analysis](https://github.com/ashishb/android-security-awesome) 
+* [CVE Proof of Concepts](https://github.com/qazbnm456/awesome-cve-poc)
+* [Penetration Testing](https://github.com/enaqx/awesome-pentest/) - Supported by Netsparker
+* [Bug Bounty](https://github.com/djadmin/awesome-bug-bounty)
+* [YARA](https://github.com/InQuest/awesome-yara)
+* [Security Talks](https://github.com/PaulSec/awesome-sec-talks)
+* [Industrial Control System Security](https://github.com/hslatman/awesome-industrial-control-system-security)
+* [Forensics](https://github.com/Cugu/awesome-forensics)
+* [Packet Capture Tools](https://github.com/caesar0301/awesome-pcaptools)
+* [Threat Intelligence](https://github.com/hslatman/awesome-threat-intelligence)
+* [Hacking Lists](https://github.com/udpsec/awesome-hacking-lists)
+* [SecLists](https://github.com/danielmiessler/SecLists) - Useful security related lists to reference/work off of in a pentest
 
 ### Tools
 
@@ -333,7 +423,7 @@
   * [The Pentesters Framework](https://github.com/trustedsec/ptf) - Distro organized around the Penetration Testing Execution Standard (PTES), providing a curated collection of utilities that eliminates often unused toolchains.
   * [AttifyOS](https://github.com/adi0x90/attifyos) - GNU/Linux distribution focused on tools useful during Internet of Things (IoT) security assessments.
 
-  #### Multi-paradigm Frameworks
+#### Multi-paradigm Frameworks
   * [Metasploit](https://www.metasploit.com/) - Software for offensive security teams to help verify vulnerabilities and manage security assessments.
   * [Armitage](http://fastandeasyhacking.com/) - Java-based GUI front-end for the Metasploit Framework.
   * [Faraday](https://github.com/infobyte/faraday) - Multiuser integrated pentesting environment for red teams performing cooperative penetration tests, security audits, and risk assessments.
@@ -343,7 +433,7 @@
   * [Rupture](https://github.com/dionyziz/rupture) - Multipurpose tool capable of man-in-the-middle attacks, BREACH attacks and other compression-based crypto attacks.
   * [Mobile Security Framework (MobSF)](https://github.com/MobSF/Mobile-Security-Framework-MobSF/) - Automated mobile application pentesting framework capable of static analysis, dynamic analysis, malware analysis, and web API testing.
 
-  #### Training Utilities and Resources
+#### Training Utilities and Resources
   * [Damn Vulnerable Web Application (DVWA)](https://github.com/Night46/spYDyishai/) - Purposely vulnerable PHP/MySQL web application.
   * [OWASP Damn Vulnerable Web Sockets (DVWS)](https://github.com/interference-security/DVWS/) - Vulnerable web application which works on web sockets for client-server communication.
   * [OWASP NodeGoat](https://github.com/OWASP/NodeGoat/) - Includes Node.js web applications for learning the OWASP top 10.
@@ -381,7 +471,7 @@
   * [Windows Path Traversal Cheat Sheet](https://www.gracefulsecurity.com/path-traversal-cheat-sheet-windows/)
   * [Hacker101](https://www.hacker101.com/) - Online training resource.
 
-  #### Network Reconnaissance Tools
+#### Network Reconnaissance Tools
   * [Shodan](https://shodan.io/) - Database containing information on all accessible domains on the internet obtained from passive scanning.
   * [zmap](https://zmap.io/) - Open source network scanner that enables researchers to easily perform Internet-wide network studies.
   * [nmap](https://nmap.org/) - Free security scanner for network exploration & security audits.
@@ -395,13 +485,13 @@
   * [Pentest-Tools](https://pentest-tools.com/home) - Online suite of various different pentest related tools.
   * [Ruler](https://github.com/sensepost/ruler) - Tool for remotely interacting with Exchange servers.
 
-  #### Network Vulnerability Scanners
+#### Network Vulnerability Scanners
   * [OpenVAS](http://www.openvas.org/) - Open source implementation of the popular Nessus vulnerability assessment system.
   * [Nessus](https://www.tenable.com/products/nessus/nessus-professional) - Commercial network vulnerability scanner.
   * [Nexpose](https://www.rapid7.com/products/nexpose/) - Commercial vulnerability and risk management assessment engine that integrates with Metasploit, sold by Rapid7.
   * [Vuls](https://github.com/future-architect/vuls) - Agentless Linux/FreeBSD vulnerability scanner written in Go.
 
-  #### Web Vulnerability Scanners
+#### Web Vulnerability Scanners
   * [Netsparker Web Application Security Scanner](https://www.netsparker.com/) - Commercial web application security scanner to automatically find many different types of security flaws.
   * [OWASP Zed Attack Proxy (ZAP)](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project) - Feature-rich, scriptable HTTP intercepting proxy and fuzzer for penetration testing web applications.
   * [Burp Suite](https://portswigger.net/burp) - Commercial web vulnerability scanner, with limited community edition.
@@ -412,7 +502,7 @@
   * [SQLmate](https://github.com/UltimateHackers/sqlmate) - A friend of sqlmap that identifies sqli vulnerabilities based on a given dork and website (optional).
   * [ASafaWeb](https://asafaweb.com) - Free online web vulnerability scanner.
 
-  #### Web Exploitation
+#### Web Exploitation
   * [Browser Exploitation Framework (BeEF)](https://github.com/beefproject/beef) - Command and control server for delivering exploits to commandeered Web browsers.
   * [Wordpress Exploit Framework](https://github.com/rastating/wordpress-exploit-framework) - Ruby framework for developing and using modules which aid in the penetration testing of WordPress powered websites and systems.
   * [WPSploit](https://github.com/espreto/wpsploit) - Exploit WordPress-powered websites with Metasploit.
@@ -438,7 +528,7 @@
   * [webscreenshot](https://github.com/maaaaz/webscreenshot) - A simple script to take screenshots from a list of websites.
   * [IIS-Shortname-Scanner](https://github.com/irsdl/IIS-ShortName-Scanner) - Command line tool to exploit the Windows IIS tilde information disclosure vulnerability.
 
-  #### Network Tools
+#### Network Tools
   * [Network-Tools.com](http://network-tools.com/) - Website offering an interface to numerous basic network utilities like `ping`, `traceroute`, `whois`, and more.
   * [Intercepter-NG](http://sniff.su/) - Multifunctional network toolkit.
   * [SPARTA](https://sparta.secforce.com/) - Graphical interface offering scriptable, configurable access to existing network infrastructure scanning and enumeration tools.
@@ -459,7 +549,7 @@
   * [FireAway](https://github.com/tcstool/Fireaway/) - Firewall audit and security bypass tool.
   * [enumdb](https://github.com/m8r0wn/enumdb) - MySQL and MSSQL bruteforce utilityl
 
-  #### Protocol Analyzers and Sniffers
+#### Protocol Analyzers and Sniffers
   * [tcpdump/libpcap](http://www.tcpdump.org/) - Common packet analyzer that runs under the command line.
   * [Wireshark](https://www.wireshark.org/) - Widely-used graphical, cross-platform network protocol analyzer.
   * [Yersinia](https://tools.kali.org/vulnerability-analysis/yersinia) - Packet and protocol analyzer with MITM capability.
@@ -468,7 +558,7 @@
   * [Dshell](https://github.com/USArmyResearchLab/Dshell) - Network forensic analysis framework.
   * [Chaosreader](http://chaosreader.sourceforge.net/) - Universal TCP/UDP snarfing tool that dumps session data from various protocols.
 
-  #### Proxies and MITM Tools
+#### Proxies and MITM Tools
   * [Responder](https://github.com/SpiderLabs/Responder) - Open source NBT-NS, LLMNR, and MDNS poisoner.
   * [Responder-Windows](https://github.com/lgandx/Responder-Windows) - Windows version of the above NBT-NS/LLMNR/MDNS poisoner.
   * [MITMf](https://github.com/byt3bl33d3r/MITMf) - Multipurpose man-in-the-middle framework.
@@ -481,7 +571,7 @@
   * [Ettercap](http://www.ettercap-project.org) - Comprehensive, mature suite for machine-in-the-middle attacks.
   * [BetterCAP](https://www.bettercap.org/) - Modular, portable and easily extensible MITM framework.
 
-  #### Wireless Network Tools
+#### Wireless Network Tools
   * [Aircrack-ng](http://www.aircrack-ng.org/) - Set of tools for auditing wireless networks.
   * [WiFi Pumpkin](https://github.com/P0cL4bs/WiFi-Pumpkin) - All in one Wi-Fi exploitation and spoofing utility.
   * [MANA Toolkit](https://github.com/sensepost/mana) - Rogue AP and man-in-the-middle utility.
@@ -490,7 +580,7 @@
   * [NetStumbler](http://www.netstumbler.com/downloads/) - WLAN scanning tool.
   * [Kismet](https://www.patreon.com/kismetwireless) - Wireless network discovery tool.
 
-  #### Transport Layer Security Tools
+#### Transport Layer Security Tools
   * [tlssled](https://tools.kali.org/information-gathering/tlssled) - Comprehensive TLS/SSL testing suite.
   * [SSLscan](https://github.com/rbsec/sslscan) - Quick command line SSL/TLS analyzer.
   * [SSLyze](https://github.com/nabla-c0d3/sslyze) - Fast and comprehensive TLS/SSL configuration analyzer to help identify security mis-configurations.
@@ -498,12 +588,12 @@
   * [crackpkcs12](https://github.com/crackpkcs12/crackpkcs12) - Multithreaded program to crack PKCS#12 files (`.p12` and `.pfx` extensions), such as TLS/SSL certificates.
   * [spoodle](https://github.com/avicoder/spoodle) - Mass subdomain + POODLE vulnerability scanner.
 
-  #### Cryptography
+#### Cryptography
   * [FeatherDuster](https://github.com/nccgroup/featherduster) - Analysis tool for discovering flaws in cryptography.
   * [rsatool](https://github.com/ius/rsatool) - Tool for calculating RSA and RSA-CRT parameters.
   * [xortool](https://github.com/hellman/xortool/) - XOR cipher analysis tool.
 
-  #### Post-Exploitation
+#### Post-Exploitation
   * [CrackMapExec](https://github.com/byt3bl33d3r/CrackMapExec/) - Multipurpose post-exploitation suite containing many plugins.
   * [DBC2](https://github.com/Arno0x/DBC2/) - Multipurpose post-exploitation tool.
   * [Empire](https://github.com/EmpireProject/Empire/) - PowerShell based (Windows) and Python based (Linux/OS X) post-exploitation framework.
@@ -521,7 +611,7 @@
   * [Fathomless](https://github.com/xor-function/fathomless) - A collection of post-exploitation tools for both Linux and Windows systems.
   * [Portia](https://github.com/milo2012/portia) - Automated post-exploitation tool for lateral movement and privilege escalation.
 
-  #### Exfiltration Tools
+#### Exfiltration Tools
   * [HTTPTunnel](https://tools.kali.org/maintaining-access/httptunnel) - Tunnel data over pure HTTP GET/POST requests.
   * [Data Exfiltration Toolkit (DET)](https://github.com/PaulSec/DET) - Proof of concept to perform data exfiltration using either single or multiple channel(s) at the same time.
   * [mimikatz](http://blog.gentilkiwi.com/mimikatz) - Credentials extraction tool for Windows operating system.
@@ -535,7 +625,7 @@
   * [mallory](https://github.com/justmao945/mallory) - HTTP/HTTPS proxy over SSH.
   * [spYDyishai](https://github.com/Night46/spYDyishai/) - Local Google credentials exfiltration tool, written in Python.
 
-  #### Static Analyzers
+#### Static Analyzers
   * [OWASP Dependency Check](https://www.owasp.org/index.php/OWASP_Dependency_Check) - Open source static analysis tool that enumerates dependencies used by Java and .NET software code (with experimental support for Python, Ruby, Node.js, C, and C++) and lists security vulnerabilities associated with the depedencies. 
   * [VisualCodeGrepper](https://github.com/nccgroup/VCG) - Open source static code analysis tool with support for Java, C, C++, C#, PL/SQL, VB, and PHP. VisualCodeGrepper also conforms to OWASP best practices.
   * [Veracode](https://www.veracode.com/) - Commercial cloud platform for static code analysis, dynamic code analysis, dependency/plugin analysis, and more.
@@ -558,7 +648,7 @@
   * [Yara](https://github.com/VirusTotal/yara) - Static pattern analysis tool for malware researchers.
     * [Icewater](https://github.com/SupportIntelligence/Icewater) - 16,432 free Yara rules.
 
-  #### Dynamic Analyzers
+#### Dynamic Analyzers
   * [Cheat Engine](https://www.cheatengine.org/) - Memory debugger and hex editor for running applications.
   * [Cuckoo](https://github.com/cuckoosandbox) - Automated dynamic malware analysis tool.
   * [ConDroid](https://github.com/JulianSchuette/ConDroid) - Android dynamic application analysis tool.
@@ -570,17 +660,17 @@
   * [Androl4b](https://github.com/sh4hin/Androl4b/) - Android security virtual machine based on Ubuntu-MATE for reverse engineering and malware analysis.
   * [idb](http://www.idbtool.com/) - iOS app security analyzer.
   
-  #### Hex Editors
+#### Hex Editors
   * [HexEdit.js](https://hexed.it) - Browser-based hex editing.
   * [Hexinator](https://hexinator.com/) - World's finest (proprietary, commercial) Hex Editor.
   * [Frhed](http://frhed.sourceforge.net/) - Binary file editor for Windows.
 
-  #### File Format Analysis Tools
+#### File Format Analysis Tools
   * [Kaitai Struct](http://kaitai.io/) - File formats and network protocols dissection language and web IDE, generating parsers in C++, C#, Java, JavaScript, Perl, PHP, Python, Ruby.
   * [Veles](https://codisec.com/veles/) - Binary data visualization and analysis tool.
   * [Hachoir](http://hachoir3.readthedocs.io/) - Python library to view and edit a binary stream as tree of fields and tools for metadata extraction.
 
-  #### Anti-Virus Evasion Tools
+#### Anti-Virus Evasion Tools
   * [shellsploit](https://github.com/Exploit-install/shellsploit-framework) - Generates custom shellcode, backdoors, injectors, optionally obfuscates every byte via encoders.
   * [Hyperion](http://nullsecurity.net/tools/binary.html) - Runtime encryptor for 32-bit portable executables ("PE `.exe`s").
   * [AntiVirus Evasion Tool (AVET)](https://github.com/govolution/avet) - Post-process exploits containing executable files targeted for Windows machines to avoid being recognized by antivirus software.
@@ -591,7 +681,7 @@
   * [Windows-SignedBinary](https://github.com/vysec/Windows-SignedBinary) - AV evasion tool for binary files.
   * [SigThief](https://github.com/secretsquirrel/SigThief) - Stealing signatures to evade AV.
 
-  #### Hash Cracking Tools
+#### Hash Cracking Tools
   * [Hashcat](http://hashcat.net/hashcat/) - Fast hash cracking utility with support for most known hashes as well as OpenCL and CUDA acceleration.
   * [John the Ripper](http://www.openwall.com/john/) - Fast password cracker.
   * [John the Ripper Jumbo edition](https://github.com/magnumripper/JohnTheRipper) - Community enhanced version of John the Ripper.
@@ -600,7 +690,7 @@
   * [JWT Cracker](https://github.com/lmammino/jwt-cracker) - Simple HS256 JWT token brute force cracker.
   * [Rar Crack](http://rarcrack.sourceforge.net) - RAR bruteforce cracker.
 
-  #### Windows Utilities
+#### Windows Utilities
   * [Sysinternals Suite](https://technet.microsoft.com/en-us/sysinternals/bb842062) - The Sysinternals Troubleshooting Utilities.
   * [PowerSploit](https://github.com/PowerShellMafia/PowerSploit) - PowerShell Post-Exploitation Framework.
   * [Headstart](https://github.com/GoVanguard/script-win-privescalate-headstart) - Lazy man's Windows privilege escalation tool utilizing PowerSploit.
@@ -618,20 +708,20 @@
   * [Commentator](https://github.com/clr2of8/Commentator) - PowerShell script for adding comments to MS Office documents, and these comments can contain code to be executed.
   * [Hyena](https://www.systemtools.com/hyena/download.htm) - NetBIOS exploitation.
 
-  #### GNU/Linux Utilities
+#### GNU Linux Utilities
   * [Linux Exploit Suggester](https://github.com/PenturaLabs/Linux_Exploit_Suggester) - Heuristic reporting on potentially viable exploits for a given GNU/Linux system.
   * [Linus](https://cisofy.com/lynis/) - Security auditing tool for Linux and macOS.
   * [vuls](https://github.com/future-architect/vuls) - Linux/FreeBSD agentless vulnerability scanner.
   * [Mempodipper](https://www.exploit-db.com/exploits/18411/) - Linux Kernel 2.6.39 < 3.2.2 local privilege escalation script.
 
-  #### macOS Utilities
+#### macOS Utilities
   * [Bella](https://github.com/Trietptm-on-Security/Bella) - Pure Python post-exploitation data mining and remote administration tool for macOS.
   * [Linus](https://cisofy.com/lynis/) - Security auditing tool for Linux and macOS.
 
-  #### Social Engineering Tools
+#### Social Engineering Tools
   * [GoVanguard/list-socialengineering-resources](https://github.com/GoVanguard/list-socialengineering-resources#social-engineering-tools) - GoVanguard's list of social engineering resources.
 
-  #### OSINT Tools
+#### OSINT Tools
   * [Shodan](https://www.shodan.io/) - World's first search engine for Internet-connected devices.
   * [Maltego](http://www.paterva.com/web7/) - Proprietary software for open source intelligence and forensics, from Paterva.
   * [Alienvault Open Threat Exchange (OTX)](https://otx.alienvault.com/) - Live threat feed.
@@ -682,13 +772,13 @@
   * [Linkedin2Username](https://gitlab.com/initstring/linkedin2username) - Web scraper that uses valid LinkedIn credentials to put together a list of employees for a specified company.
   * [Raven](https://github.com/0x09AL/raven) - LinkedIn information gathering tool.
 
-  #### Anonymity Tools
+#### Anonymity Tools
   * [Tor](https://www.torproject.org/) - Free software and onion routed overlay network that helps you defend against traffic analysis.
   * [I2P](https://geti2p.net/) - The Invisible Internet Project.
   * [OnionScan](https://onionscan.org/) - Tool for investigating the Dark Web by finding operational security issues introduced by Tor hidden service operators.
   * [What Every Browser Knows About You](http://webkay.robinlinus.com/) - Comprehensive detection page to test your own Web browser's configuration for privacy and identity leaks.
 
-  #### Reverse Engineering Tools
+#### Reverse Engineering Tools
   * [VirusTotal](https://www.virustotal.com/#/home/upload) - Online malware scanner.
   * [PacketTotal](https://packettotal.com/) - Online pcap file analyzer.
   * [NetworkTotal](https://www.networktotal.com/index.html) - Online pcap file analyzer.
@@ -731,10 +821,10 @@
   * [xortool](https://github.com/hellman/xortool) - Tool for guessing XOR keys.
   * [VirtualDeobfuscator](https://github.com/jnraber/VirtualDeobfuscator) - Reverse engineering tool for virtualization wrappers.
 
-  #### Side-channel Tools
+#### Side-channel Tools
   * [ChipWhisperer](http://chipwhisperer.com) - Complete open-source toolchain for side-channel power analysis and glitching attacks.
 
-  #### Forensic Tools
+#### Forensic Tools
   * [SIFT Workstation](https://digital-forensics.sans.org/community/downloads) - Linux distro (with optional VM) for digital forensics.
   * [SANS Investigative Forensics Toolkit (SIFT)](https://github.com/sans-dfir/sift) - Linux VM for digital forensics.
   * [DEFT Linux](http://www.deftlinux.net/) - Linux distro for digital forensics analysis.
@@ -770,7 +860,7 @@
   * [Chrome URL Dumper](https://github.com/eLoopWoo/chrome-url-dumper) - Python based agent that gathers and dumps Chrome history (URLs).
   * [Hindsight](https://github.com/obsidianforensics/hindsight) - Chrome/Chromium browser forensics tool.
   
-  #### Memory Analysis
+#### Memory Analysis
   * [Volatility](https://github.com/volatilityfoundation/volatility) - Advanced memory forensics framework.
   * [VolatilityBot](https://github.com/mkorman90/VolatilityBot) - Automation tool utilizing Volatility.
   * [Evolve](https://github.com/JamesHabben/evolve) - Web interface for Volatility advanced memory forensics framework.
@@ -782,7 +872,7 @@
   * [Microsoft User Mode Process Dumper](https://www.microsoft.com/en-us/download/details.aspx?id=4060) - Dumps any running Win32 processes memory image on the fly.
   * [PMDump](http://www.ntsecurity.nu/toolbox/pmdump/) - Tool for dumping memory contents of a process without stopping the process.
 
-  #### Incident Response
+#### Incident Response
   * [Osquery](https://osquery.io/) - Multiplatform framework for querying operating systems similar to SQL queries.
   * [RedHunt OS](https://github.com/redhuntlabs/RedHunt-OS) - Purposely vulnerable Linux VM.
   * [APT Simulator](https://github.com/NextronSystems/APTSimulator) - Windows Batch Script that makes a system appear compromised.
@@ -807,7 +897,7 @@
   * [Redline](https://www.fireeye.com/services/freeware/redline.html) - Investigative tool able to scan processes, memory, file system metadata, and more.
   * [Zentral](https://github.com/zentralopensource/zentral) - Monitors system events using osquery.
 
-  #### Honeypot Tools
+#### Honeypot Tools
   * [Modern Honey Network (mhn)](https://github.com/threatstream/mhn/) - Multipurpose honeypot with centralized management and many integrations.
   * [dionaea](https://github.com/DinoTools/dionaea) - Multipurpose honeypot.
   * [glutton](https://github.com/mushorg/glutton/) - Multipurpose honeypot.
@@ -831,7 +921,7 @@
   * [glastopf](https://github.com/mushorg/glastopf/) - Python based web application honeypot.
   * [smart-honeypot](https://github.com/freak3dot/smart-honeypot/) - PHP based honeypot.
   
-  #### Monitoring and IDS/IPS
+#### Monitoring and IDS-IPS
   * [Security Onion](https://github.com/Security-Onion-Solutions/security-onion) - Linux distro for monitoring.
   * [Snort](https://www.snort.org/) - Open source NIPS/NIDS.
   * [OSSEC](http://www.ossec.net/) - Open source HIDS.
@@ -840,7 +930,7 @@
   * [SSHWATCH](https://github.com/marshyski/sshwatch) - SSH IPS.
   * [Elastic Stack](https://www.elastic.co/products) - Also known as the ELK stack, the combination of Elasticsearch, Logstash, and Kibana, for monitoring and logging.
 
-  #### Other
+#### Other
   * [Kayak Car Hacking Tool](https://github.com/ParrotSec/car-hacking-tools) - Tool for Kayak car hacking.
   * [ROPgadget](https://github.com/JonathanSalwan/ROPgadget/) - Python based tool to aid in ROP exploitation.
   * [Shellen](https://github.com/merrychap/shellen) - Interactive shellcoding environment.
@@ -852,7 +942,10 @@
   * [fuzzbox](https://github.com/iSECPartners/fuzzbox/) - Multi-codec media fuzzing tool.
   * [melkor-android](https://github.com/anestisb/melkor-android/) - Android fuzzing tool for ELF file formats.
   * [BruteX Wordlists](https://github.com/coreb1t/BruteX/tree/master/wordlists) - Wordlist repo.
+  * [Google Hacking Master List](https://gist.github.com/cmartinbaughman/5877945)
+
 
 ### Reports
   - GoVanguard sample reports (https://github.com/GoVanguard/doc-infosec-report-samples)
   - Offensive Security sample pentest report (https://www.offensive-security.com/reports/sample-penetration-testing-report.pdf)
+  
