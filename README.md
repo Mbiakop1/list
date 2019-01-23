@@ -527,6 +527,7 @@ This is an ongoing compilation of resources we have found helpful and tools we u
   * [EyeWitness](https://github.com/ChrisTruncer/EyeWitness) - Tool to take screenshots of websites, provide some server header info, and identify default credentials if possible.
   * [webscreenshot](https://github.com/maaaaz/webscreenshot) - A simple script to take screenshots from a list of websites.
   * [IIS-Shortname-Scanner](https://github.com/irsdl/IIS-ShortName-Scanner) - Command line tool to exploit the Windows IIS tilde information disclosure vulnerability.
+  * [lyncsmash](https://github.com/nyxgeek/lyncsmash) - a collection of tools to enumerate and attack self-hosted Skype for Business and Microsoft Lync installations
 
 #### Network Tools
   * [Network-Tools.com](http://network-tools.com/) - Website offering an interface to numerous basic network utilities like `ping`, `traceroute`, `whois`, and more.
@@ -624,6 +625,7 @@ This is an ongoing compilation of resources we have found helpful and tools we u
   * [PANHunt](https://github.com/Dionach/PANhunt) - Search file systems for credit cards.
   * [mallory](https://github.com/justmao945/mallory) - HTTP/HTTPS proxy over SSH.
   * [spYDyishai](https://github.com/Night46/spYDyishai/) - Local Google credentials exfiltration tool, written in Python.
+  * [MailSniper](https://github.com/dafthack/MailSniper) - Search through email in a Microsoft Exchange environment for specific terms (passwords, insider intel, network architecture information, etc.).
 
 #### Static Analyzers
   * [OWASP Dependency Check](https://www.owasp.org/index.php/OWASP_Dependency_Check) - Open source static analysis tool that enumerates dependencies used by Java and .NET software code (with experimental support for Python, Ruby, Node.js, C, and C++) and lists security vulnerabilities associated with the depedencies. 
