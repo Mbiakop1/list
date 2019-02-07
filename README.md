@@ -773,6 +773,7 @@ This is an ongoing compilation of resources we have found helpful and tools we u
   * [CloudFrunt](https://github.com/MindPointGroup/cloudfrunt) - Tool for identifying misconfigured CloudFront domains.
   * [Linkedin2Username](https://gitlab.com/initstring/linkedin2username) - Web scraper that uses valid LinkedIn credentials to put together a list of employees for a specified company.
   * [Raven](https://github.com/0x09AL/raven) - LinkedIn information gathering tool.
+  * [InfoByIp](https://www.infobyip.com/ipbulklookup.php) - Domain and IP bulk lookup tool.
 
 #### Anonymity Tools
   * [Tor](https://www.torproject.org/) - Free software and onion routed overlay network that helps you defend against traffic analysis.
