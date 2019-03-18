@@ -425,6 +425,7 @@ This is an ongoing compilation of resources we have found helpful and tools we u
 
 #### Multi-paradigm Frameworks
   * [Metasploit](https://www.metasploit.com/) - Software for offensive security teams to help verify vulnerabilities and manage security assessments.
+  * [Mad-Metasploit](https://www.hahwul.com/p/mad-metasploit.html) - Additional scripts for Metasploit.
   * [Armitage](http://fastandeasyhacking.com/) - Java-based GUI front-end for the Metasploit Framework.
   * [Faraday](https://github.com/infobyte/faraday) - Multiuser integrated pentesting environment for red teams performing cooperative penetration tests, security audits, and risk assessments.
   * [ExploitPack](https://github.com/juansacco/exploitpack) - Graphical tool for automating penetration tests that ships with many pre-packaged exploits.
