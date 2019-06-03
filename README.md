@@ -528,7 +528,8 @@ This is an ongoing compilation of resources we have found helpful and tools we u
   * [EyeWitness](https://github.com/ChrisTruncer/EyeWitness) - Tool to take screenshots of websites, provide some server header info, and identify default credentials if possible.
   * [webscreenshot](https://github.com/maaaaz/webscreenshot) - A simple script to take screenshots from a list of websites.
   * [IIS-Shortname-Scanner](https://github.com/irsdl/IIS-ShortName-Scanner) - Command line tool to exploit the Windows IIS tilde information disclosure vulnerability.
-  * [lyncsmash](https://github.com/nyxgeek/lyncsmash) - a collection of tools to enumerate and attack self-hosted Skype for Business and Microsoft Lync installations
+  * [lyncsmash](https://github.com/nyxgeek/lyncsmash) - A collection of tools to enumerate and attack self-hosted Skype for Business and Microsoft Lync installations
+  * [LFISuite](https://github.com/D35m0nd142/LFISuite) - A tool designed to exploit Local File Include vulnerabilities.
 
 #### Network Tools
   * [Network-Tools.com](http://network-tools.com/) - Website offering an interface to numerous basic network utilities like `ping`, `traceroute`, `whois`, and more.
