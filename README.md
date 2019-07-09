@@ -408,6 +408,7 @@ This is an ongoing compilation of resources we have found helpful and tools we u
 * [Threat Intelligence](https://github.com/hslatman/awesome-threat-intelligence)
 * [Hacking Lists](https://github.com/udpsec/awesome-hacking-lists)
 * [SecLists](https://github.com/danielmiessler/SecLists) - Useful security related lists to reference/work off of in a pentest
+* [Starting Up Security](https://scrty.io/) - A collection of information security essays and links to help growing teams manage risks.
 
 ### Tools
 
