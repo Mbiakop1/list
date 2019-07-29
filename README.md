@@ -691,6 +691,7 @@ This is an ongoing compilation of resources we have found helpful and tools we u
   * [Hashcat](http://hashcat.net/hashcat/) - Fast hash cracking utility with support for most known hashes as well as OpenCL and CUDA acceleration.
   * [John the Ripper](http://www.openwall.com/john/) - Fast password cracker.
   * [John the Ripper Jumbo edition](https://github.com/magnumripper/JohnTheRipper) - Community enhanced version of John the Ripper.
+  * [Mentalist](https://github.com/sc0tfree/mentalist) - Unique GUI based password wordlist generator compatible with CeWL and John the Ripper.
   * [CeWL](https://digi.ninja/projects/cewl.php) - Generates custom wordlists by spidering a target's website and collecting unique words.
   * [CrackStation](https://crackstation.net/) - Online password cracker.
   * [JWT Cracker](https://github.com/lmammino/jwt-cracker) - Simple HS256 JWT token brute force cracker.
