@@ -288,12 +288,12 @@ This is an ongoing compilation of resources we have found helpful and tools we u
   - Complete Ethical Hacking Course By HackerSploit - Part1 of 126 - (https://www.youtube.com/watch?v=tHd8k54kVs8&list=PLBf0hzazHTGOEuhPQSnq-Ej8jRyXxfYvl)
 
 ### Informative Youtube Channels
-  - Motasem Hamdan - (https://www.youtube.com/channel/UCNSdU_1ehXtGclimTVckHmQ/videos)
-  - Loi Liang Yang - (https://www.youtube.com/channel/UC1szFCBUWXY3ESff8dJjjzw/videos)
-  - Null Byte - (https://www.youtube.com/channel/UCgTNupxATBfWmfehv21ym-g)
-  - Computerphile - (https://www.youtube.com/user/Computerphile/videos?view=0&sort=p&shelf_id=2)
-  - Thenewboston - (https://www.youtube.com/user/thenewboston/playlists)
-  - Hak5 - (https://www.youtube.com/user/Hak5Darren/featured)
+  * [Motasem Hamdan] (https://www.youtube.com/channel/UCNSdU_1ehXtGclimTVckHmQ/videos)
+  * [Loi Liang Yang] (https://www.youtube.com/channel/UC1szFCBUWXY3ESff8dJjjzw/videos)
+  * [Null Byte] (https://www.youtube.com/channel/UCgTNupxATBfWmfehv21ym-g)
+  * [Computerphile] (https://www.youtube.com/user/Computerphile/videos?view=0&sort=p&shelf_id=2)
+  * [Thenewboston] (https://www.youtube.com/user/thenewboston/playlists)
+  * [Hak5] (https://www.youtube.com/user/Hak5Darren/featured)
 
 ### Illustrations and Presentations
   - Introduction to Metasploit: Exploiting Web Applications (https://www.slideshare.net/DennisMaldonado5/metasploit-for-web-workshop)
@@ -1047,4 +1047,4 @@ This is an ongoing compilation of resources we have found helpful and tools we u
 ### Reports
   - GoVanguard sample reports (https://github.com/GoVanguard/doc-infosec-report-samples)
   - Offensive Security sample pentest report (https://www.offensive-security.com/reports/sample-penetration-testing-report.pdf)
- 
+  
