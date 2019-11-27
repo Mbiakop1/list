@@ -15,6 +15,8 @@ This is an ongoing compilation of resources we have found helpful and tools we u
   - [Books](#books)
   - [Conferences](#conferences)
   - [Online Videos](#online-vidoes)
+  - [Free Online Courses](#free-online-courses)
+  - [Informative Youtube Channels](#informative-youtube-channels)
   - [Illustrations and Presentations](#illustrations-and-presentations)
   - [Clearnet Exploit Databases](#clearnet-exploit-databases)
   - [Malware Samples and Databases](#malware-samples-and-databases)
@@ -278,6 +280,20 @@ This is an ongoing compilation of resources we have found helpful and tools we u
   - Internet of Things: IoT Research Methodology (https://www.youtube.com/watch?v=iQCaGxnY4LM)
   - Rapid7 Whiteboard Wednesday Series (https://www.youtube.com/playlist?list=PLMrgKzfE1aINBOpJXCkqPdWcT7YCPZYL3)
   - Spear Phishing with Cobalt Strike (https://www.youtube.com/watch?v=V7UJjVcq2Ao)
+  
+### Free Online Courses
+  - CompTIA Network+ Certification Video Course By PowerCert Animated Videos - (https://www.youtube.com/watch?v=vrh0epPAC5w)
+  - CompTIA Security+ SY0-501 Training Course By Professor Messer - (https://www.youtube.com/playlist?list=PLG49S3nxzAnnVhoAaL4B6aMFDQ8_gdxAy)
+  - Complete Ethical Hacking Course by Joseph Delgadillo - 8 hour course - (https://www.youtube.com/watch?v=fDeLtKUxTmM)
+  - Complete Ethical Hacking Course By HackerSploit - Part1 of 126 - (https://www.youtube.com/watch?v=tHd8k54kVs8&list=PLBf0hzazHTGOEuhPQSnq-Ej8jRyXxfYvl)
+
+### Informative Youtube Channels
+  - Motasem Hamdan - (https://www.youtube.com/channel/UCNSdU_1ehXtGclimTVckHmQ/videos)
+  - Loi Liang Yang - (https://www.youtube.com/channel/UC1szFCBUWXY3ESff8dJjjzw/videos)
+  - Null Byte - (https://www.youtube.com/channel/UCgTNupxATBfWmfehv21ym-g)
+  - Computerphile - (https://www.youtube.com/user/Computerphile/videos?view=0&sort=p&shelf_id=2)
+  - Thenewboston - (https://www.youtube.com/user/thenewboston/playlists)
+  - Hak5 - (https://www.youtube.com/user/Hak5Darren/featured)
 
 ### Illustrations and Presentations
   - Introduction to Metasploit: Exploiting Web Applications (https://www.slideshare.net/DennisMaldonado5/metasploit-for-web-workshop)
@@ -1007,9 +1023,28 @@ This is an ongoing compilation of resources we have found helpful and tools we u
   * [melkor-android](https://github.com/anestisb/melkor-android/) - Android fuzzing tool for ELF file formats.
   * [BruteX Wordlists](https://github.com/coreb1t/BruteX/tree/master/wordlists) - Wordlist repo.
   * [Google Hacking Master List](https://gist.github.com/cmartinbaughman/5877945)
+  * [Cortex](https://thehive-project.org) - Cortex allows you to analyze observables such as IP and email addresses, URLs, domain names, files or hashes one by one or in bulk mode using a Web interface. Analysts can also automate these operations using its REST API.
+  * [Crits](https://crits.github.io/) - a web-based tool which combines an analytic engine with a cyber threat database 
+  * [Diffy](https://github.com/Netflix-Skunkworks/diffy) - a DFIR tool developed by Netflix's SIRT that allows an investigator to quickly scope a compromise across cloud instances (Linux instances on AWS, currently) during an incident and efficiently triaging those instances for followup actions by showing differences against a baseline. 
+  * [domfind](https://github.com/diogo-fernan/domfind) - domfind  * [is a Python DNS crawler for finding identical domain names under different TLDs.
+  * [Fenrir](https://github.com/Neo23x0/Fenrir) - Fenrir is a simple IOC scanner. It allows scanning any Linux/Unix/OSX system for IOCs in plain bash. Created by the creators of THOR and LOKI
+  * [Fileintel](https://github.com/keithjjones/fileintel) - Pull intelligence per file hash
+  * [HELK](https://github.com/Cyb3rWard0g/HELK) - Threat Hunting platform
+  * [Hindsight](https://github.com/obsidianforensics/hindsight) - Internet history forensics for Google Chrome/Chromium
+  * [Hostintel](https://github.com/keithjjones/hostintel) - Pull intelligence per host
+  * [imagemounter](https://github.com/ralphje/imagemounter) - Command line utility and Python package to ease the (un)mounting of forensic disk images
+  * [Kansa](https://github.com/davehull/Kansa/) - Kansa is a modular incident response framework in Powershell
+  * [rastrea2r](https://github.com/aboutsecurity/rastrea2r) - allows one to scan disks and memory for IOCs using YARA on Windows, Linux and OS X
+  * [RaQet](https://raqet.github.io/) - RaQet is an unconventional remote acquisition and triaging tool that allows triage a disk of a remote computer (client) that is restarted with a purposely built forensic operating system
+  * [Stalk](https://www.percona.com/doc/percona-toolkit/2.2/pt-stalk.html) - Collect forensic data about MySQL when problems occur
+  * [SearchGiant](https://github.com/jadacyrus/searchgiant_cli) - a commandline utility to acquire forensic data from cloud services
+  * [Stenographer](https://github.com/google/stenographer) - Stenographer is a packet capture solution which aims to quickly spool all packets to disk, then provide simple, fast access to subsets of those packets. It stores as much history as it possible, managing disk usage, and deleting when disk limits are hit. It's ideal for capturing the traffic just before and during an incident, without the need explicit need to store all of the network traffic
+  * [sqhunter](https://github.com/0x4d31/sqhunter) - a threat hunter based on osquery and Salt Open (SaltStack) that can issue ad-hoc or distributed queries without the need for osquery's tls plugin. sqhunter allows you to query open network sockets and check them against threat intelligence sources. 
+  * [traceroute-circl](https://github.com/CIRCL/traceroute-circl) - traceroute-circl is an extended traceroute to support the activities of CSIRT (or CERT) operators. Usually CSIRT team have to handle incidents based on IP addresses received. Created by Computer Emergency Responce Center Luxembourg
+  * [X-Ray 2.0](https://www.raymond.cc/blog/xray/) - A Windows utility (poorly maintained or no longer maintained) to submit virus samples to AV vendors
 
 
 ### Reports
   - GoVanguard sample reports (https://github.com/GoVanguard/doc-infosec-report-samples)
   - Offensive Security sample pentest report (https://www.offensive-security.com/reports/sample-penetration-testing-report.pdf)
-  
+ 
