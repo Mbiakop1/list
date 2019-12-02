@@ -1058,6 +1058,6 @@ If you're new to InfoSec and are looking for a concentrated list of reasources t
   * [GoVanguard sample reports](https://github.com/GoVanguard/doc-infosec-report-samples)
   * [Offensive Security sample pentest report](https://www.offensive-security.com/reports/sample-penetration-testing-report.pdf)
   
-###Our Open Source Tools
+### Our Open Source Tools
   * [Legion]
   * [Spearhead]
