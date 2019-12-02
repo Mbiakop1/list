@@ -1,13 +1,16 @@
 # GoVanguard InfoSec Encyclopedia
 
-This is an ongoing compilation of resources we have found helpful and tools we use.
-If you're new to InfoSec and are looking for a concentrated list of reasources to get started, check out [Getting into InfoSec and Cybersecurity](https://github.com/GoVanguard/Getting-into-InfoSec-and-Cybersecurity)
-
 * Introduction
 * Table of Contents
 * Resources
 * Tools Used
+* Our Reports
 * Our Open Source Software
+
+##Introduction
+
+This is an ongoing compilation of resources we have found helpful and tools we use.
+If you're new to InfoSec and are looking for a concentrated list of reasources to get started, check out [Getting into InfoSec and Cybersecurity](https://github.com/GoVanguard/Getting-into-InfoSec-and-Cybersecurity)
 
 ## Table of Contents
 
@@ -59,7 +62,14 @@ If you're new to InfoSec and are looking for a concentrated list of reasources t
   * [Honeypot Tools](#honeypot-tools)
   * [Monitoring and IDS-IPS](#monitoring-and-ids-ips)
   * [Other](#other)
-- [Reports](#reports)
+  
+- [Our Reports](#our-reports)
+  * [GoVanguard sample reports](#govanguard-sample-reports)
+  * [Offensive Security sample pentest report](#offensive-security-sample-pentest-report)
+  
+- [Our Open Source Tools](#our-open-source-tools)
+  * [Legion](#legion)
+  * [Spearhead](#spearhead)
 
 
 ### Resources
@@ -1047,7 +1057,10 @@ If you're new to InfoSec and are looking for a concentrated list of reasources t
   * [X-Ray 2.0](https://www.raymond.cc/blog/xray/) - A Windows utility (poorly maintained or no longer maintained) to submit virus samples to AV vendors
 
 
-### Reports
+### Our Reports
   * [GoVanguard sample reports](https://github.com/GoVanguard/doc-infosec-report-samples)
   * [Offensive Security sample pentest report](https://www.offensive-security.com/reports/sample-penetration-testing-report.pdf)
   
+###Our Open Source Tools
+  * [Legion]
+  * [Spearhead]
