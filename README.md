@@ -1,8 +1,7 @@
 # GoVanguard InfoSec Encyclopedia
 
- This is an ongoing compilation of resources we have found helpful and tools we use.
- If you're new to InfoSec and are looking for a concentrated list of reasources to get started, check out [Getting into InfoSec and Cybersecurity](https://github.com/GoVanguard/Getting-into-InfoSec-and-Cybersecurity)
-
+This is an ongoing compilation of resources we have found helpful and tools we use.
+If you're new to InfoSec and are looking for a concentrated list of reasources to get started, check out [Getting into InfoSec and Cybersecurity](https://github.com/GoVanguard/Getting-into-InfoSec-and-Cybersecurity)
 
 * Introduction
 * Table of Contents
@@ -484,12 +483,12 @@
   * [SecLists](https://github.com/danielmiessler/SecLists) - Useful security related lists to reference/work off of in a pentest
   * [Starting Up Security](https://scrty.io/) - A collection of information security essays and links to help growing teams manage risks.
 
- ### MITRE ATT&CK
+### MITRE ATT&CK
    * [MITRE ATT&CK](https://attack.mitre.org/tactics/enterprise/) - Knowledge base MITRE ATT&CK™ is a globally-accessible knowledge base of adversary tactics and techniques based on real-world observations and is used as a foundation for methodologies in the private sector, in government, and in the cybersecurity community.
 
 ### Tools
 
-  #### Penetration Testing OS Distributions
+#### Penetration Testing OS Distributions
   * [Parrot Security OS](https://www.parrotsec.org/) - Distribution similar to Kali using the same repositories, but with additional features such as Tor and I2P integration.
   * [Kali](https://www.kali.org/) - GNU/Linux distribution designed for digital forensics and penetration testing.
   * [ArchStrike](https://archstrike.org/) - Arch GNU/Linux repository for security professionals and enthusiasts.
