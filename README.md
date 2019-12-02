@@ -11,54 +11,54 @@ This is an ongoing compilation of resources we have found helpful and tools we u
 ## Table of Contents
 
 - [Resources](#resources)
-  - [Information Security Certifications](#information-security-certifications)
-  - [Books](#books)
-  - [Conferences](#conferences)
-  - [Online Videos](#online-vidoes)
-  - [Free Online Courses](#free-online-courses)
-  - [Informative Youtube Channels](#informative-youtube-channels)
-  - [Illustrations and Presentations](#illustrations-and-presentations)
-  - [Clearnet Exploit Databases](#clearnet-exploit-databases)
-  - [Malware Samples and Databases](#malware-samples-and-databases)
-  - [Awesome Master Lists](#awesome-master-lists)
-  - [MITRE ATT&CK](#https://attack.mitre.org/tactics/enterprise/)
+  * [Information Security Certifications](#information-security-certifications)
+  * [Books](#books)
+  * [Conferences](#conferences)
+  * [Online Videos](#online-vidoes)
+  * [Free Online Courses](#free-online-courses)
+  * [Informative Youtube Channels](#informative-youtube-channels)
+  * [Illustrations and Presentations](#illustrations-and-presentations)
+  * [Clearnet Exploit Databases](#clearnet-exploit-databases)
+  * [Malware Samples and Databases](#malware-samples-and-databases)
+  * [Awesome Master Lists](#awesome-master-lists)
+  * [MITRE ATT&CK](#https://attack.mitre.org/tactics/enterprise/)
 
 - [Tools](#tools)
-  - [Penetration Testing OS Distributions](#penetration-testing-os-distributions)
-  - [Multi-paradigm Frameworks](#multi-paradigm-frameworks)
-  - [Training Utilities and Resources](#training-utilities-and-resources)
-  - [Network Reconnaissance Tools](#network-reconnaissance-tools)
-  - [Network Vulnerability Scanners](#network-vulnerability-scanners)
-  - [Web Vulnerability Scanners](#web-vulnerability-scanners)
-  - [Web Exploitation](#web-exploitation)
-  - [Network Tools](#network-tools)
-  - [Protocol Analyzers and Sniffers](#protocol-analyzers-and-sniffers)
-  - [Proxies and MITM Tools](#proxies-and-mitm-tools)
-  - [Wireless Network Tools](#wireless-network-tools)
-  - [Transport Layer Security Tools](#transport-layer-security-tools)
-  - [Cryptography](#cryptography)
-  - [Post-Exploitation](#post-exfiltration)
-  - [Exfiltration Tools](#exfiltration-tools)
-  - [Static Analyzers](#static-analyzers)
-  - [Dynamic Analyzers](#dynamic-analyzers)
-  - [Hex Editors](#hex-editors)
-  - [File Format Analysis Tools](#file-format-analysis-tools)
-  - [Anti-Virus Evasion Tools](#anti-virus-evasion-tools)
-  - [Hash Cracking Tools](#hash-cracking-tools)
-  - [Windows Utilities](#windows-utilities)
-  - [GNU Linux Utilities](#gnu-linux-utilities)
-  - [macOS Utilities](#macos-utilities)
-  - [Social Engineering Tools](#social-engineering-tools)
-  - [OSINT Tools](#osint-tools)
-  - [Anonymity Tools](#anonymity-tools)
-  - [Reverse Engineering Tools](#reverse-engineering-tools)
-  - [Side-channel Tools](#side-channel-tools)
-  - [Forensic Tools](#forensic-tools)
-  - [Memory Analysis](#memory-analysis)
-  - [Incident Response](#incident-response)
-  - [Honeypot Tools](#honeypot-tools)
-  - [Monitoring and IDS-IPS](#monitoring-and-ids-ips)
-  - [Other](#other)
+  * [Penetration Testing OS Distributions](#penetration-testing-os-distributions)
+  * [Multi-paradigm Frameworks](#multi-paradigm-frameworks)
+  * [Training Utilities and Resources](#training-utilities-and-resources)
+  * [Network Reconnaissance Tools](#network-reconnaissance-tools)
+  * [Network Vulnerability Scanners](#network-vulnerability-scanners)
+  * [Web Vulnerability Scanners](#web-vulnerability-scanners)
+  * [Web Exploitation](#web-exploitation)
+  * [Network Tools](#network-tools)
+  * [Protocol Analyzers and Sniffers](#protocol-analyzers-and-sniffers)
+  * [Proxies and MITM Tools](#proxies-and-mitm-tools)
+  * [Wireless Network Tools](#wireless-network-tools)
+  * [Transport Layer Security Tools](#transport-layer-security-tools)
+  * [Cryptography](#cryptography)
+  * [Post-Exploitation](#post-exfiltration)
+  * [Exfiltration Tools](#exfiltration-tools)
+  * [Static Analyzers](#static-analyzers)
+  * [Dynamic Analyzers](#dynamic-analyzers)
+  * [Hex Editors](#hex-editors)
+  * [File Format Analysis Tools](#file-format-analysis-tools)
+  * [Anti-Virus Evasion Tools](#anti-virus-evasion-tools)
+  * [Hash Cracking Tools](#hash-cracking-tools)
+  * [Windows Utilities](#windows-utilities)
+  * [GNU Linux Utilities](#gnu-linux-utilities)
+  * [macOS Utilities](#macos-utilities)
+  * [Social Engineering Tools](#social-engineering-tools)
+  * [OSINT Tools](#osint-tools)
+  * [Anonymity Tools](#anonymity-tools)
+  * [Reverse Engineering Tools](#reverse-engineering-tools)
+  * [Side-channel Tools](#side-channel-tools)
+  * [Forensic Tools](#forensic-tools)
+  * [Memory Analysis](#memory-analysis)
+  * [Incident Response](#incident-response)
+  * [Honeypot Tools](#honeypot-tools)
+  * [Monitoring and IDS-IPS](#monitoring-and-ids-ips)
+  * [Other](#other)
 - [Reports](#reports)
 
 
@@ -66,226 +66,226 @@ This is an ongoing compilation of resources we have found helpful and tools we u
 
 ### Information Security Certifications
 
-  - Kali Linux Certified Professional (KLCP) (https://home.pearsonvue.com/kali)
-  - CompTIA Security+ (https://certification.comptia.org/certifications/security)
-  - Certified Ethical Hacker (https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/)
-  - Certified Penetration Testing Engineer (CPTE) (https://mile2.com/penetration-testing-ethical-hacking/cpte.html)
-  - GIAC Security Essentials (GSEC) (https://www.giac.org/certification/security-essentials-gsec)
-  - Offensive Security Certified Professional (OSCP) (https://www.offensive-security.com/information-security-certifications/oscp-offensive-security-certified-professional/)
-  - Offensive Security Wireless Professional (OSWP) (https://www.offensive-security.com/information-security-certifications/oswp-offensive-security-wireless-professional/)
-  - Offensive Security Certified Expert (OSCE) (https://www.offensive-security.com/information-security-certifications/osce-offensive-security-certified-expert/)
-  - Offensive Security Exploitation Expert (OSEE) (https://www.offensive-security.com/information-security-certifications/osee-offensive-security-exploitation-expert/)
-  - Offensive Security Web Expert (OSWE) (https://www.offensive-security.com/information-security-certifications/oswe-offensive-security-web-expert/)
-  - Certified Information Systems Security Professional (CISSP) (https://www.isc2.org/Certifications/CISSP)
+  * [Kali Linux Certified Professional (KLCP)](https://home.pearsonvue.com/kali)
+  * [CompTIA Security+](https://certification.comptia.org/certifications/security)
+  * [Certified Ethical Hacker (https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/)
+  * [Certified Penetration Testing Engineer (CPTE)](https://mile2.com/penetration-testing-ethical-hacking/cpte.html)
+  * [GIAC Security Essentials (GSEC)](https://www.giac.org/certification/security-essentials-gsec)
+  * [Offensive Security Certified Professional (OSCP)](https://www.offensive-security.com/information-security-certifications/oscp-offensive-security-certified-professional/)
+  * [Offensive Security Wireless Professional (OSWP)](https://www.offensive-security.com/information-security-certifications/oswp-offensive-security-wireless-professional/)
+  * [Offensive Security Certified Expert (OSCE)](https://www.offensive-security.com/information-security-certifications/osce-offensive-security-certified-expert/)
+  * [Offensive Security Exploitation Expert (OSEE)](https://www.offensive-security.com/information-security-certifications/osee-offensive-security-exploitation-expert/)
+  * [Offensive Security Web Expert (OSWE)](https://www.offensive-security.com/information-security-certifications/oswe-offensive-security-web-expert/)
+  * [Certified Information Systems Security Professional (CISSP)](https://www.isc2.org/Certifications/CISSP)
 
 ### Books
-  - Kali Linux Revealed (https://kali.training/downloads/Kali-Linux-Revealed-1st-edition.pdf)
-  - CompTIA Security+ SY0-501 Certification Study Guide (https://certification.comptia.org/training/self-study/books/security-sy0-501-study-guide)
-  - Advanced Penetration Testing: Hacking the World's Most Secure Networks 
-  - CEH Certified Ethical Hacker All-in-One Exam Guide
-  - Penetration Testing: A Hands-On Introduction to Hacking
-  - The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws
-  - Hacking: The Art of Exploitation
-  - The Beginner's Guide to Information Security
-  - Essentials of Cybersecurity
-  - Essentials of Enterprise Network Security (https://res.cloudinary.com/peerlyst/image/upload/v1499385854/post-attachments/Essentials_of_Enterprise_Network_Security_wiqsvc.pdf)
-  - CISSP: Certified Information Systems Security Professional Study Guide
-  - CISSP (ISC)2 Certified Information Systems Security Professional Official Study Guide
-  - CISSP All-in-One Exam Guide
-  - The Shellcoder's Handbook: Discovering and Exploiting Security Holes
-  - The Cyber Skill Gap
-  - A Bug Hunter's Diary: A Guided Tour Through the Wilds of Software Security
-  - The Art of Deception: Controlling the Human Element of Security
-  - Practical Malware Analysis: A Hands-On Guide to Dissecting Malicious Software
-  - Windows Internals
-  - The IDA Pro Book: The Unofficial Guide to the World's Most Popular Disassembler
-  - Black Hat Python: Python Programming for Hackers and Pentesters
-  - Understanding Cryptography: A Textbook for Students and Practitioners
-  - Hacking Exposed 7
-  - Blue Team Handbook: Incident Response Edition: A condensed field guide for the Cyber Security Incident Responder
-  - Cybersecurity - Protecting Critical Infrastructures from Cyber Attack and Cyber Warfare
-  - Cybersecurity and Cyberwar: What Everyone Needs to Know
-  - TCP/IP Illustrated
-  - Web Application Vulnerabilities: Detect, Exploit, Prevent
-  - Thinking Security: Stopping Next Year's Hackers
-  - Countdown to Zero Day: Stuxnet and the Launch of the World's First Digital Weapon
-  - Cyber War: The Next Threat to National Security and What to Do About It
-  - Cyberspies: The Secret History of Surveillance, Hacking, and Digital Espionage
-  - Cybersecurity and Human Rights in the Age of Cyberveillance
-  - Bulletproof SSL and TLS: Understanding and Deploying SSL/TLS and PKI to Secure Servers and Web Applications
-  - We Are Anonymous: Inside the Hacker World of LulzSec, Anonymous, and the Global Cyber Insurgency
-  - Ghost in the Wires: My Adventures as the World's Most Wanted Hacker
-  - Future Crimes: Inside the Digital Underground and the Battle for Our Connected World
-  - Worm: The First Digital World War
-  - Spam Nation: The Inside Story of Organized Cybercrime-from Global Epidemic to Your Front Door
-  - Reversing: Secrets of Reverse Engineering
-  - Rtfm: Red Team Field Manual
-  - Linux Shell Scripting Cookbook
-  - A Short Course on Computer Viruses
-  - Protection and Security on the Information Superhighway
-  - AVIEN Malware Defense Guide for the Enterprise
-  - The Ncsa Guide to PC and Lan Security
-  - Applied Cryptography: Protocols, Algorithms and Source Code in C
-  - Cryptography Engineering: Design Principles and Practical Applications
-  - The Code Book: The Science of Secrecy from Ancient Egypt to Quantum Cryptography
-  - The Art of Computer Virus Research and Defense
-  - Information Assurance Handbook: Effective Computer Security and Risk Management Strategies
-  - The Hacker Playbook: Practical Guide To Penetration Testing
-  - Applied Network Security Monitoring: Collection, Detection, and Analysis
-  - Security Metrics, A Beginner's Guide
-  - Network Security Through Data Analysis: Building Situational Awareness 
-  - Protecting Your Internet Identity: Are You Naked Online?
-  - Hacked Again
-  - The Computer Incident Response Planning Handbook: Executable Plans for Protecting Information at Risk
-  - The Tao of Network Security Monitoring: Beyond Intrusion Detection
-  - Surreptitious Software: Obfuscation, Watermarking, and Tamperproofing for Software Protection
-  - Secure Programming HOWTO (https://dwheeler.com/secure-programs/Secure-Programs-HOWTO/index.html)
-  - Network Forensics: Tracking Hackers through Cyberspace
-  - The Art of Memory Forensics
-  - Practice of Network Security Monitoring
-  - Dfir intro (https://medium.com/@sroberts/introduction-to-dfir-d35d5de4c180/)
-  - The Practice of Network Security Monitoring: Understanding Incident Detection and Response 9 (http://www.amazon.com/gp/product/1593275099)
-  - Practical Lock Picking by Deviant Ollam, 2012 (https://www.elsevier.com/books/practical-lock-picking/ollam/978-1-59749-989-7)
-  - Keys to the Kingdom by Deviant Ollam, 2012 (https://www.elsevier.com/books/keys-to-the-kingdom/ollam/978-1-59749-983-5)
-  - CIA Lock Picking Field Operative Training Manual (https://www.scribd.com/doc/7207/CIA-Lock-Picking-Field-Operative-Training-Manual)
-  - Lock Picking: Detail Overkill by Solomon (https://www.dropbox.com/s/y39ix9u9qpqffct/Lockpicking%20Detail%20Overkill.pdf?dl=0)
-  - Eddie the Wire books (https://www.dropbox.com/sh/k3z4dm4vyyojp3o/AAAIXQuwMmNuCch_StLPUYm-a?dl=0)
-  - The Art of Exploitation by Jon Erickson, 2008 (https://www.nostarch.com/hacking2.htm)
-  - Metasploit: The Penetration Tester's Guide by David Kennedy et al., 2011 (https://www.nostarch.com/metasploit)
-  - Penetration Testing: A Hands-On Introduction to Hacking by Georgia Weidman, 2014 (https://www.nostarch.com/pentesting)
-  - Rtfm: Red Team Field Manual by Ben Clark, 2014 (http://www.amazon.com/Rtfm-Red-Team-Field-Manual/dp/1494295504/)
-  - The Hacker Playbook by Peter Kim, 2014 (http://www.amazon.com/The-Hacker-Playbook-Practical-Penetration/dp/1494932636/)
-  - The Basics of Hacking and Penetration Testing by Patrick Engebretson, 2013 (https://www.elsevier.com/books/the-basics-of-hacking-and-penetration-testing/engebretson/978-1-59749-655-1)
-  - Professional Penetration Testing by Thomas Wilhelm, 2013 (https://www.elsevier.com/books/professional-penetration-testing/wilhelm/978-1-59749-993-4)
-  - Advanced Penetration Testing for Highly-Secured Environments by Lee Allen, 2012 (http://www.packtpub.com/networking-and-servers/advanced-penetration-testing-highly-secured-environments-ultimate-security-gu)
-  - Violent Python by TJ O'Connor, 2012 (https://www.elsevier.com/books/violent-python/unknown/978-1-59749-957-6)
-  - Fuzzing: Brute Force Vulnerability Discovery by Michael Sutton et al., 2007 (http://www.fuzzing.org/)
-  - Black Hat Python: Python Programming for Hackers and Pentesters by Justin Seitz, 2014 (http://www.amazon.com/Black-Hat-Python-Programming-Pentesters/dp/1593275900)
-  - Penetration Testing: Procedures & Methodologies by EC-Council, 2010 (http://www.amazon.com/Penetration-Testing-Procedures-Methodologies-EC-Council/dp/1435483677)
-  - Unauthorised Access: Physical Penetration Testing For IT Security Teams by Wil Allsopp, 2010 (http://www.amazon.com/Unauthorised-Access-Physical-Penetration-Security-ebook/dp/B005DIAPKE)
-  - Advanced Persistent Threat Hacking: The Art and Science of Hacking Any Organization by Tyler Wrightson, 2014 (http://www.amazon.com/Advanced-Persistent-Threat-Hacking-Organization/dp/0071828362)
-  - Bug Hunter's Diary by Tobias Klein, 2011 (https://www.nostarch.com/bughunter)
-  - Advanced Penetration Testing by Wil Allsopp, 2017 (https://www.amazon.com/Advanced-Penetration-Testing-Hacking-Networks/dp/1119367689/)
-  - The Database Hacker's Handbook, David Litchfield et al., 2005 (http://www.wiley.com/WileyCDA/WileyTitle/productCd-0764578014.html)
-  - The Shellcoders Handbook by Chris Anley et al., 2007 (http://www.wiley.com/WileyCDA/WileyTitle/productCd-047008023X.html)
-  - The Mac Hacker's Handbook by Charlie Miller & Dino Dai Zovi, 2009 (http://www.wiley.com/WileyCDA/WileyTitle/productCd-0470395362.html)
-  - The Web Application Hackers Handbook by D. Stuttard, M. Pinto, 2011 (http://www.wiley.com/WileyCDA/WileyTitle/productCd-1118026470.html)
-  - iOS Hackers Handbook by Charlie Miller et al., 2012 (http://www.wiley.com/WileyCDA/WileyTitle/productCd-1118204123.html)
-  - Android Hackers Handbook by Joshua J. Drake et al., 2014 (http://www.wiley.com/WileyCDA/WileyTitle/productCd-111860864X.html)
-  - The Browser Hackers Handbook by Wade Alcorn et al., 2014 (http://www.wiley.com/WileyCDA/WileyTitle/productCd-1118662091.html)
-  - The Mobile Application Hackers Handbook by Dominic Chell et al., 2015 (http://www.wiley.com/WileyCDA/WileyTitle/productCd-1118958500.html)
-  - Car Hacker's Handbook by Craig Smith, 2016 (https://www.nostarch.com/carhacking)
-  - Holistic Info-Sec for Web Developers (bundle) (https://leanpub.com/b/holisticinfosecforwebdevelopers)
-  - Nmap Network Scanning by Gordon Fyodor Lyon, 2009 (https://nmap.org/book/)
-  - Practical Packet Analysis by Chris Sanders, 2011 (https://www.nostarch.com/packet2.htm)
-  - Wireshark Network Analysis by by Laura Chappell & Gerald Combs, 2012 (http://www.wiresharkbook.com/)
-  - Network Forensics: Tracking Hackers through Cyberspace by Sherri Davidoff & Jonathan Ham, 2012 (http://www.amazon.com/Network-Forensics-Tracking-Hackers-Cyberspace-ebook/dp/B008CG8CYU/)
-  - Network Security Assessment by Chris McNab (https://www.amazon.com/Network-Security-Assessment-Know-Your-ebook/dp/B0043EWUR0)
-  - Practical Malware Analysis by Michael Sikorski & Andrew Honig, 2012 (https://www.nostarch.com/malware)
-  - The Art of Memory Forensics by Michael Hale Ligh et al., 2014 (http://www.wiley.com/WileyCDA/WileyTitle/productCd-1118825098.html)
-  - Malware Analyst's Cookbook and DVD by Michael Hale Ligh et al., 2010 (http://www.wiley.com/WileyCDA/WileyTitle/productCd-0470613033.html)
-  - Windows Internals by Mark Russinovich et al., 2012 (http://www.amazon.com/Windows-Internals-Part-Developer-Reference/dp/0735648735/)
-  - Complete Guide to Shodan (https://leanpub.com/shodan)
-  - A Search Engine Backed by Internet-Wide Scanning - Ariana Mirian (https://censys.io/static/censys.pdf)
-  - Reverse Engineering for Beginners by Dennis Yurichev (http://beginners.re/)
-  - Hacking the Xbox by Andrew Huang, 2003 (https://www.nostarch.com/xbox.htm)
-  - The IDA Pro Book by Chris Eagle, 2011 (https://www.nostarch.com/idapro2.htm)
-  - Practical Reverse Engineering by Bruce Dang et al., 2014 (http://www.wiley.com/WileyCDA/WileyTitle/productCd-1118787315.html)
-  - Gray Hat Hacking The Ethical Hacker's Handbook by Daniel Regalado et al., 2015 (http://www.amazon.com/Hacking-Ethical-Hackers-Handbook-Edition/dp/0071832386)
-  - The Art of Deception by Kevin D. Mitnick & William L. Simon, 2002 (http://www.wiley.com/WileyCDA/WileyTitle/productCd-0471237124.html)
-  - The Art of Intrusion by Kevin D. Mitnick & William L. Simon, 2005 (http://www.wiley.com/WileyCDA/WileyTitle/productCd-0764569597.html)
-  - Ghost in the Wires by Kevin D. Mitnick & William L. Simon, 2011 (http://www.hachettebookgroup.com/titles/kevin-mitnick/ghost-in-the-wires/9780316134477/)
-  - No Tech Hacking by Johnny Long & Jack Wiles, 2008 (https://www.elsevier.com/books/no-tech-hacking/mitnick/978-1-59749-215-7)
-  - Social Engineering: The Art of Human Hacking by Christopher Hadnagy, 2010 (http://www.wiley.com/WileyCDA/WileyTitle/productCd-0470639539.html)
-  - Unmasking the Social Engineer: The Human Element of Security by Christopher Hadnagy, 2014 (http://www.wiley.com/WileyCDA/WileyTitle/productCd-1118608577.html)
-  - Social Engineering in IT Security: Tools, Tactics, and Techniques by Sharon Conheady, 2014 (https://www.mhprofessional.com/product.php?isbn=0071818464)
+  * [Kali Linux Revealed](https://kali.training/downloads/Kali-Linux-Revealed-1st-edition.pdf)
+  * [CompTIA Security+ SY0-501 Certification Study Guide](https://certification.comptia.org/training/self-study/books/security-sy0-501-study-guide)
+  * Advanced Penetration Testing: Hacking the World's Most Secure Networks 
+  * CEH Certified Ethical Hacker All-in-One Exam Guide
+  * Penetration Testing: A Hands-On Introduction to Hacking
+  * The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws
+  * Hacking: The Art of Exploitation
+  * The Beginner's Guide to Information Security
+  * Essentials of Cybersecurity
+  * [Essentials of Enterprise Network Security](https://res.cloudinary.com/peerlyst/image/upload/v1499385854/post-attachments/Essentials_of_Enterprise_Network_Security_wiqsvc.pdf)
+  * CISSP: Certified Information Systems Security Professional Study Guide
+  * CISSP](ISC)2 Certified Information Systems Security Professional Official Study Guide
+  * CISSP All-in-One Exam Guide
+  * The Shellcoder's Handbook: Discovering and Exploiting Security Holes
+  * The Cyber Skill Gap
+  * A Bug Hunter's Diary: A Guided Tour Through the Wilds of Software Security
+  * The Art of Deception: Controlling the Human Element of Security
+  * Practical Malware Analysis: A Hands-On Guide to Dissecting Malicious Software
+  * Windows Internals
+  * The IDA Pro Book: The Unofficial Guide to the World's Most Popular Disassembler
+  * Black Hat Python: Python Programming for Hackers and Pentesters
+  * Understanding Cryptography: A Textbook for Students and Practitioners
+  * Hacking Exposed 7
+  * Blue Team Handbook: Incident Response Edition: A condensed field guide for the Cyber Security Incident Responder
+  * Cybersecurity - Protecting Critical Infrastructures from Cyber Attack and Cyber Warfare
+  * Cybersecurity and Cyberwar: What Everyone Needs to Know
+  * TCP/IP Illustrated
+  * Web Application Vulnerabilities: Detect, Exploit, Prevent
+  * Thinking Security: Stopping Next Year's Hackers
+  * Countdown to Zero Day: Stuxnet and the Launch of the World's First Digital Weapon
+  * Cyber War: The Next Threat to National Security and What to Do About It
+  * Cyberspies: The Secret History of Surveillance, Hacking, and Digital Espionage
+  * Cybersecurity and Human Rights in the Age of Cyberveillance
+  * Bulletproof SSL and TLS: Understanding and Deploying SSL/TLS and PKI to Secure Servers and Web Applications
+  * We Are Anonymous: Inside the Hacker World of LulzSec, Anonymous, and the Global Cyber Insurgency
+  * Ghost in the Wires: My Adventures as the World's Most Wanted Hacker
+  * Future Crimes: Inside the Digital Underground and the Battle for Our Connected World
+  * Worm: The First Digital World War
+  * Spam Nation: The Inside Story of Organized Cybercrime-from Global Epidemic to Your Front Door
+  * Reversing: Secrets of Reverse Engineering
+  * Rtfm: Red Team Field Manual
+  * Linux Shell Scripting Cookbook
+  * A Short Course on Computer Viruses
+  * Protection and Security on the Information Superhighway
+  * AVIEN Malware Defense Guide for the Enterprise
+  * The Ncsa Guide to PC and Lan Security
+  * Applied Cryptography: Protocols, Algorithms and Source Code in C
+  * Cryptography Engineering: Design Principles and Practical Applications
+  * The Code Book: The Science of Secrecy from Ancient Egypt to Quantum Cryptography
+  * The Art of Computer Virus Research and Defense
+  * Information Assurance Handbook: Effective Computer Security and Risk Management Strategies
+  * The Hacker Playbook: Practical Guide To Penetration Testing
+  * Applied Network Security Monitoring: Collection, Detection, and Analysis
+  * Security Metrics, A Beginner's Guide
+  * Network Security Through Data Analysis: Building Situational Awareness 
+  * Protecting Your Internet Identity: Are You Naked Online?
+  * Hacked Again
+  * The Computer Incident Response Planning Handbook: Executable Plans for Protecting Information at Risk
+  * The Tao of Network Security Monitoring: Beyond Intrusion Detection
+  * Surreptitious Software: Obfuscation, Watermarking, and Tamperproofing for Software Protection
+  * [Secure Programming HOWTO](https://dwheeler.com/secure-programs/Secure-Programs-HOWTO/index.html)
+  * Network Forensics: Tracking Hackers through Cyberspace
+  * The Art of Memory Forensics
+  * Practice of Network Security Monitoring
+  * [Dfir intro](https://medium.com/@sroberts/introduction-to-dfir-d35d5de4c180/)
+  * [The Practice of Network Security Monitoring: Understanding Incident Detection and Response 9](http://www.amazon.com/gp/product/1593275099)
+  * [Practical Lock Picking by Deviant Ollam, 2012](https://www.elsevier.com/books/practical-lock-picking/ollam/978-1-59749-989-7)
+  * [Keys to the Kingdom by Deviant Ollam, 2012](https://www.elsevier.com/books/keys-to-the-kingdom/ollam/978-1-59749-983-5)
+  * [CIA Lock Picking Field Operative Training Manual](https://www.scribd.com/doc/7207/CIA-Lock-Picking-Field-Operative-Training-Manual)
+  * [Lock Picking: Detail Overkill by Solomon](https://www.dropbox.com/s/y39ix9u9qpqffct/Lockpicking%20Detail%20Overkill.pdf?dl=0)
+  * [Eddie the Wire books](https://www.dropbox.com/sh/k3z4dm4vyyojp3o/AAAIXQuwMmNuCch_StLPUYm-a?dl=0)
+  * [The Art of Exploitation by Jon Erickson, 2008](https://www.nostarch.com/hacking2.htm)
+  * [Metasploit: The Penetration Tester's Guide by David Kennedy et al., 2011](https://www.nostarch.com/metasploit)
+  * [Penetration Testing: A Hands-On Introduction to Hacking by Georgia Weidman, 2014](https://www.nostarch.com/pentesting)
+  * [Rtfm: Red Team Field Manual by Ben Clark, 2014](http://www.amazon.com/Rtfm-Red-Team-Field-Manual/dp/1494295504/)
+  * [The Hacker Playbook by Peter Kim, 2014](http://www.amazon.com/The-Hacker-Playbook-Practical-Penetration/dp/1494932636/)
+  * [The Basics of Hacking and Penetration Testing by Patrick Engebretson, 2013](https://www.elsevier.com/books/the-basics-of-hacking-and-penetration-testing/engebretson/978-1-59749-655-1)
+  * [Professional Penetration Testing by Thomas Wilhelm, 2013](https://www.elsevier.com/books/professional-penetration-testing/wilhelm/978-1-59749-993-4)
+  * [Advanced Penetration Testing for Highly-Secured Environments by Lee Allen, 2012](http://www.packtpub.com/networking-and-servers/advanced-penetration-testing-highly-secured-environments-ultimate-security-gu)
+  * [Violent Python by TJ O'Connor, 2012](https://www.elsevier.com/books/violent-python/unknown/978-1-59749-957-6)
+  * [Fuzzing: Brute Force Vulnerability Discovery by Michael Sutton et al., 2007](http://www.fuzzing.org/)
+  * [Black Hat Python: Python Programming for Hackers and Pentesters by Justin Seitz, 2014](http://www.amazon.com/Black-Hat-Python-Programming-Pentesters/dp/1593275900)
+  * [Penetration Testing: Procedures & Methodologies by EC-Council, 2010](http://www.amazon.com/Penetration-Testing-Procedures-Methodologies-EC-Council/dp/1435483677)
+  * [Unauthorised Access: Physical Penetration Testing For IT Security Teams by Wil Allsopp, 2010](http://www.amazon.com/Unauthorised-Access-Physical-Penetration-Security-ebook/dp/B005DIAPKE)
+  * [Advanced Persistent Threat Hacking: The Art and Science of Hacking Any Organization by Tyler Wrightson, 2014](http://www.amazon.com/Advanced-Persistent-Threat-Hacking-Organization/dp/0071828362)
+  * [Bug Hunter's Diary by Tobias Klein, 2011](https://www.nostarch.com/bughunter)
+  * [Advanced Penetration Testing by Wil Allsopp, 2017](https://www.amazon.com/Advanced-Penetration-Testing-Hacking-Networks/dp/1119367689/)
+  * [The Database Hacker's Handbook, David Litchfield et al., 2005](http://www.wiley.com/WileyCDA/WileyTitle/productCd-0764578014.html)
+  * [The Shellcoders Handbook by Chris Anley et al., 2007](http://www.wiley.com/WileyCDA/WileyTitle/productCd-047008023X.html)
+  * [The Mac Hacker's Handbook by Charlie Miller & Dino Dai Zovi, 2009](http://www.wiley.com/WileyCDA/WileyTitle/productCd-0470395362.html)
+  * [The Web Application Hackers Handbook by D. Stuttard, M. Pinto, 2011](http://www.wiley.com/WileyCDA/WileyTitle/productCd-1118026470.html)
+  * [iOS Hackers Handbook by Charlie Miller et al., 2012](http://www.wiley.com/WileyCDA/WileyTitle/productCd-1118204123.html)
+  * [Android Hackers Handbook by Joshua J. Drake et al., 2014](http://www.wiley.com/WileyCDA/WileyTitle/productCd-111860864X.html)
+  * [The Browser Hackers Handbook by Wade Alcorn et al., 2014](http://www.wiley.com/WileyCDA/WileyTitle/productCd-1118662091.html)
+  * [The Mobile Application Hackers Handbook by Dominic Chell et al., 2015](http://www.wiley.com/WileyCDA/WileyTitle/productCd-1118958500.html)
+  * [Car Hacker's Handbook by Craig Smith, 2016](https://www.nostarch.com/carhacking)
+  * [Holistic Info-Sec for Web Developers](bundle)](https://leanpub.com/b/holisticinfosecforwebdevelopers)
+  * [Nmap Network Scanning by Gordon Fyodor Lyon, 2009](https://nmap.org/book/)
+  * [Practical Packet Analysis by Chris Sanders, 2011](https://www.nostarch.com/packet2.htm)
+  * [Wireshark Network Analysis by by Laura Chappell & Gerald Combs, 2012](http://www.wiresharkbook.com/)
+  * [Network Forensics: Tracking Hackers through Cyberspace by Sherri Davidoff & Jonathan Ham, 2012](http://www.amazon.com/Network-Forensics-Tracking-Hackers-Cyberspace-ebook/dp/B008CG8CYU/)
+  * [Network Security Assessment by Chris McNab](https://www.amazon.com/Network-Security-Assessment-Know-Your-ebook/dp/B0043EWUR0)
+  * [Practical Malware Analysis by Michael Sikorski & Andrew Honig, 2012](https://www.nostarch.com/malware)
+  * [The Art of Memory Forensics by Michael Hale Ligh et al., 2014](http://www.wiley.com/WileyCDA/WileyTitle/productCd-1118825098.html)
+  * [Malware Analyst's Cookbook and DVD by Michael Hale Ligh et al., 2010](http://www.wiley.com/WileyCDA/WileyTitle/productCd-0470613033.html)
+  * [Windows Internals by Mark Russinovich et al., 2012](http://www.amazon.com/Windows-Internals-Part-Developer-Reference/dp/0735648735/)
+  * [Complete Guide to Shodan](https://leanpub.com/shodan)
+  * [A Search Engine Backed by Internet-Wide Scanning - Ariana Mirian](https://censys.io/static/censys.pdf)
+  * [Reverse Engineering for Beginners by Dennis Yurichev](http://beginners.re/)
+  * [Hacking the Xbox by Andrew Huang, 2003](https://www.nostarch.com/xbox.htm)
+  * [The IDA Pro Book by Chris Eagle, 2011](https://www.nostarch.com/idapro2.htm)
+  * [Practical Reverse Engineering by Bruce Dang et al., 2014](http://www.wiley.com/WileyCDA/WileyTitle/productCd-1118787315.html)
+  * [Gray Hat Hacking The Ethical Hacker's Handbook by Daniel Regalado et al., 2015](http://www.amazon.com/Hacking-Ethical-Hackers-Handbook-Edition/dp/0071832386)
+  * [The Art of Deception by Kevin D. Mitnick & William L. Simon, 2002](http://www.wiley.com/WileyCDA/WileyTitle/productCd-0471237124.html)
+  * [The Art of Intrusion by Kevin D. Mitnick & William L. Simon, 2005](http://www.wiley.com/WileyCDA/WileyTitle/productCd-0764569597.html)
+  * [Ghost in the Wires by Kevin D. Mitnick & William L. Simon, 2011](http://www.hachettebookgroup.com/titles/kevin-mitnick/ghost-in-the-wires/9780316134477/)
+  * [No Tech Hacking by Johnny Long & Jack Wiles, 2008](https://www.elsevier.com/books/no-tech-hacking/mitnick/978-1-59749-215-7)
+  * [Social Engineering: The Art of Human Hacking by Christopher Hadnagy, 2010](http://www.wiley.com/WileyCDA/WileyTitle/productCd-0470639539.html)
+  * [Unmasking the Social Engineer: The Human Element of Security by Christopher Hadnagy, 2014](http://www.wiley.com/WileyCDA/WileyTitle/productCd-1118608577.html)
+  * [Social Engineering in IT Security: Tools, Tactics, and Techniques by Sharon Conheady, 2014](https://www.mhprofessional.com/product.php?isbn=0071818464)
 
 ### Conferences
-  - SANS Annual Conference
-  - Cyber Threat Intelligence Summit
-  - SANS Pen Test Annual Conferences
-  - SANS Security Annual Conferences
-  - Security Operations Summit & Training
-  - AppSecUSA
-  - Infosecurity North America
-  - Infosecurity Europe
-  - AppSec United States (OWASP National Conference)
-  - RSA Conference United States
-  - IEEE Symposium on Security & Privacy
-  - ISF Annual World Congress
-  - ISACA Cyber Security Nexus
-  - DerbyCon 8.0
-  - CSO50 Conference
-  - Infosecurity Europe
-  - Securi-Tay
-  - Nullcon Conference
-  - CanSecWest
-  - InfoSec World
-  - IAPP Global Privacy Summit
-  - ISSA International Conference
-  - InfoSec Southwest
-  - Infiltrate
-  - Atlantic Security Conference (AtlSecCon) 
-  - SOURCE Annual Conferences
-  - Secure360 Conference
-  - AFCEA Defensive Cyber Operations Symposium
-  - HACKMIAMI
-  - Ignite
-  - FIRST Conference
-  - Black Hat United States
-  - DEF CON
-  - USENIX Security Symposium
-  - 44CON London
-  - Hacker Halted - Optionally includes certification-specific training
-  - SecTor Canada
-  - BruCON
-  - DeepSec
-  - (ISC)2 Secure Event Series
-  - IANS Information Security Forums
-  - ISSA CISO Executive Forum Series
-  - secureCISO
-  - BSides Event Series
-  - CISO Executive Summit Series (Invite-only)
-  - SecureWorld
-  - HOPE
-  - HITB
-  - Black Hat
-  - BSides
-  - CCC
-  - DerbyCon
-  - PhreakNIC
-  - ShmooCon
-  - CarolinaCon
-  - SummerCon
-  - Hack.lu
-  - Hack3rCon
-  - ThotCon
-  - LayerOne
-  - SkyDogCon
-  - SECUINSIDE
-  - DefCamp
-  - Nullcon
-  - Swiss Cyber Storm
-  - Virus Bulletin Conference
-  - Ekoparty
-  - 44Con
-  - BalCCon
-  - FSec
+  * SANS Annual Conference
+  * Cyber Threat Intelligence Summit
+  * SANS Pen Test Annual Conferences
+  * SANS Security Annual Conferences
+  * Security Operations Summit & Training
+  * AppSecUSA
+  * Infosecurity North America
+  * Infosecurity Europe
+  * AppSec United States](OWASP National Conference)
+  * RSA Conference United States
+  * IEEE Symposium on Security & Privacy
+  * ISF Annual World Congress
+  * ISACA Cyber Security Nexus
+  * DerbyCon 8.0
+  * CSO50 Conference
+  * Infosecurity Europe
+  * Securi-Tay
+  * Nullcon Conference
+  * CanSecWest
+  * InfoSec World
+  * IAPP Global Privacy Summit
+  * ISSA International Conference
+  * InfoSec Southwest
+  * Infiltrate
+  * Atlantic Security Conference](AtlSecCon) 
+  * SOURCE Annual Conferences
+  * Secure360 Conference
+  * AFCEA Defensive Cyber Operations Symposium
+  * HACKMIAMI
+  * Ignite
+  * FIRST Conference
+  * Black Hat United States
+  * DEF CON
+  * USENIX Security Symposium
+  * 44CON London
+  * Hacker Halted - Optionally includes certification-specific training
+  * SecTor Canada
+  * BruCON
+  * DeepSec
+  * (ISC)2 Secure Event Series
+  * IANS Information Security Forums
+  * ISSA CISO Executive Forum Series
+  * secureCISO
+  * BSides Event Series
+  * CISO Executive Summit Series](Invite-only)
+  * SecureWorld
+  * HOPE
+  * HITB
+  * Black Hat
+  * BSides
+  * CCC
+  * DerbyCon
+  * PhreakNIC
+  * ShmooCon
+  * CarolinaCon
+  * SummerCon
+  * Hack.lu
+  * Hack3rCon
+  * ThotCon
+  * LayerOne
+  * SkyDogCon
+  * SECUINSIDE
+  * DefCamp
+  * Nullcon
+  * Swiss Cyber Storm
+  * Virus Bulletin Conference
+  * Ekoparty
+  * 44Con
+  * BalCCon
+  * FSec
 
 ### Online Videos
-  - Offensive Security Part 1 - Basics of Penetration Testing (https://www.youtube.com/watch?v=GX1go9PDnWY)
-  - Dennis Maldonado: Are We Really Safe? Bypassing Access Control Systems (https://www.youtube.com/watch?v=jTtdTrMSsPw)
-  - Phishing Campaigns in Metasploit Pro (https://www.youtube.com/watch?v=XReMP6_f2xU)
-  - Internet of Things: The Relationship Between IoT and Security (https://www.youtube.com/watch?v=LcoEe0LvaBo)
-  - Internet of Things: IoT Research Methodology (https://www.youtube.com/watch?v=iQCaGxnY4LM)
-  - Rapid7 Whiteboard Wednesday Series (https://www.youtube.com/playlist?list=PLMrgKzfE1aINBOpJXCkqPdWcT7YCPZYL3)
-  - Spear Phishing with Cobalt Strike (https://www.youtube.com/watch?v=V7UJjVcq2Ao)
+  * [Offensive Security Part 1 - Basics of Penetration Testing](https://www.youtube.com/watch?v=GX1go9PDnWY)
+  * [Dennis Maldonado: Are We Really Safe? Bypassing Access Control Systems](https://www.youtube.com/watch?v=jTtdTrMSsPw)
+  * [Phishing Campaigns in Metasploit Pro](https://www.youtube.com/watch?v=XReMP6_f2xU)
+  * [Internet of Things: The Relationship Between IoT and Security](https://www.youtube.com/watch?v=LcoEe0LvaBo)
+  * [Internet of Things: IoT Research Methodology](https://www.youtube.com/watch?v=iQCaGxnY4LM)
+  * [Rapid7 Whiteboard Wednesday Series](https://www.youtube.com/playlist?list=PLMrgKzfE1aINBOpJXCkqPdWcT7YCPZYL3)
+  * [Spear Phishing with Cobalt Strike](https://www.youtube.com/watch?v=V7UJjVcq2Ao)
   
 ### Free Online Courses
-  - CompTIA Network+ Certification Video Course By PowerCert Animated Videos - (https://www.youtube.com/watch?v=vrh0epPAC5w)
-  - CompTIA Security+ SY0-501 Training Course By Professor Messer - (https://www.youtube.com/playlist?list=PLG49S3nxzAnnVhoAaL4B6aMFDQ8_gdxAy)
-  - Complete Ethical Hacking Course by Joseph Delgadillo - 8 hour course - (https://www.youtube.com/watch?v=fDeLtKUxTmM)
-  - Complete Ethical Hacking Course By HackerSploit - Part1 of 126 - (https://www.youtube.com/watch?v=tHd8k54kVs8&list=PLBf0hzazHTGOEuhPQSnq-Ej8jRyXxfYvl)
+  * [CompTIA Network+ Certification Video Course By PowerCert Animated Videos](https://www.youtube.com/watch?v=vrh0epPAC5w)
+  * [CompTIA Security+ SY0-501 Training Course By Professor Messer](https://www.youtube.com/playlist?list=PLG49S3nxzAnnVhoAaL4B6aMFDQ8_gdxAy)
+  * [Complete Ethical Hacking Course by Joseph Delgadillo - 8 hour course](https://www.youtube.com/watch?v=fDeLtKUxTmM)
+  * [Complete Ethical Hacking Course By HackerSploit - Part1 of 126](https://www.youtube.com/watch?v=tHd8k54kVs8&list=PLBf0hzazHTGOEuhPQSnq-Ej8jRyXxfYvl)
 
 ### Informative Youtube Channels
   * [Motasem Hamdan](https://www.youtube.com/channel/UCNSdU_1ehXtGclimTVckHmQ/videos)
@@ -296,192 +296,192 @@ This is an ongoing compilation of resources we have found helpful and tools we u
   * [Hak5](https://www.youtube.com/user/Hak5Darren/featured)
 
 ### Illustrations and Presentations
-  - Introduction to Metasploit: Exploiting Web Applications (https://www.slideshare.net/DennisMaldonado5/metasploit-for-web-workshop)
-  - Are We Really Safe? Hacking Access Control Systems (https://www.slideshare.net/DennisMaldonado5/hacking-access-control-systems)
-  - OWASP Social Engineering: The Art of Human Hacking (https://www.owasp.org/images/5/54/Presentation_Social_Engineering.pdf)
-  - Weaponizing Data Science for Social Engineering: Automated E2E Spear Phishing on Twitter (https://media.defcon.org/DEF%20CON%2024/DEF%20CON%2024%20presentations/DEFCON-24-Seymour-Tully-Weaponizing-Data-Science-For-Social-Engineering-WP.pdf)
-  - Colbalt Strike - Spear Phishing documentation (https://www.cobaltstrike.com/help-spear-phish)
-  - Cobalt Strike - What's the go-to phishing technique or exploit? (https://blog.cobaltstrike.com/2014/12/17/whats-the-go-to-phishing-technique-or-exploit/)
-  - Excel Macros With PowerShell (https://4sysops.com/archives/excel-macros-with-powershell/)
-  - PowerPoint and Custom Actions (https://cofense.com/powerpoint-and-custom-actions/)
-  - Macro-less Code Exec in MSWord (https://sensepost.com/blog/2017/macro-less-code-exec-in-msword/)
-  - Multi-Platform Macro Phishing Payloads (https://medium.com/@malcomvetter/multi-platform-macro-phishing-payloads-3b688e8eff68)
-  - Abusing Microsoft Word Features for Phishing: "subDoc" (https://rhinosecuritylabs.com/research/abusing-microsoft-word-features-phishing-subdoc/)
-  - Phishing Against Protected View (https://enigma0x3.net/2017/07/13/phishing-against-protected-view/)
-  - PowerShell Empire Stagers 1: Phishing With an Office Macro and Evading AVs (https://fzuckerman.wordpress.com/2016/10/06/powershell-empire-stagers-1-phishing-with-an-office-macro-and-evading-avs/)
-  - The Absurdly Underestimated Dangers of CSV Injection (http://georgemauer.net/2017/10/07/csv-injection.html)
-  - Cell Injection (http://blog.7elements.co.uk/2013/01/cell-injection.html)
-  - Comma Separated Vulnerabilities (https://www.contextis.com/blog/comma-separated-vulnerabilities)
-  - Spear Phishing 101 (https://blog.inspired-sec.com/archive/2017/05/07/Phishing.html)
-  - Defense In Depth (https://oddvar.moe/2017/09/13/defense-in-depth-writeup/)
-  - Microsoft Office - NTLM Hashes via Frameset (https://pentestlab.blog/2017/12/18/microsoft-office-ntlm-hashes-via-frameset/)
-  - Windows Oneliners to Download Remote Payload and Execute Arbitrary Code (https://arno0x0x.wordpress.com/2017/11/20/windows-oneliners-to-download-remote-payload-and-execute-arbitrary-code/)
-  - ClickOnce (Twice or Thrice): A Technique for Social Engineering and (Un)trusted Command Execution (https://bohops.com/2017/12/02/clickonce-twice-or-thrice-a-technique-for-social-engineering-and-untrusted-command-execution/)
-  - WSH Injection: A Case Study (https://posts.specterops.io/wsh-injection-a-case-study-fd35f79d29dd)
-  - Intro to Using GScript for Red Teams (http://lockboxx.blogspot.com/2018/02/intro-to-using-gscript-for-red-teams.html)
-  - Hiding Registry Keys with PSReflect (https://posts.specterops.io/hiding-registry-keys-with-psreflect-b18ec5ac8353)
-  - Persistence Using RunOnceEx - Hidden from Autoruns.exe (https://oddvar.moe/2018/03/21/persistence-using-runonceex-hidden-from-autoruns-exe/)
-  - Persistence Using Globalflags In Image File Execution Options - Hidden from Autoruns.exe (https://oddvar.moe/2018/04/10/persistence-using-globalflags-in-image-file-execution-options-hidden-from-autoruns-exe/)
-  - Putting Data In Alternate Data Streams and How to Execute It (https://oddvar.moe/2018/04/11/putting-data-in-alternate-data-streams-and-how-to-execute-it-part-2/)
-  - WMI Persistence with Cobalt Strike (https://blog.inspired-sec.com/archive/2017/01/20/WMI-Persistence.html)
-  - Leveraging INF-SCT Fetch & Execute Technique For Bypass, Evasion, & Persistence (https://bohops.com/2018/02/26/leveraging-inf-sct-fetch-execute-techniques-for-bypass-evasion-persistence/)
-  - Leveraging INF-SCT Fetch & Execute Technique For Bypass, Evasion, & Persistence (https://bohops.com/2018/03/10/leveraging-inf-sct-fetch-execute-techniques-for-bypass-evasion-persistence-part-2/)
-  - Vshadow: Abusing the Volume Shadow Service for Evasion, Persistence, and Active Directory Database Extraction (https://bohops.com/2018/02/10/vshadow-abusing-the-volume-shadow-service-for-evasion-persistence-and-active-directory-database-extraction/)
-  - First Entry: Welcome and Fileless UAC Bypass (https://winscripting.blog/2017/05/12/first-entry-welcome-and-uac-bypass/)
-  - Exploiting Environment Variables in Scheduled Tasks for UAC Bypass (https://tyranidslair.blogspot.com/2017/05/exploiting-environment-variables-in.html)
-  - Bypassing UAC Using App Paths (https://enigma0x3.net/2017/03/14/bypassing-uac-using-app-paths/)
-  - "Fileless" UAC Bypass Using sdclt.exe (https://enigma0x3.net/2017/03/17/fileless-uac-bypass-using-sdclt-exe/)
-  - Windows Privilege Escalation checklist (https://github.com/netbiosX/Checklists/blob/master/Windows-Privilege-Escalation.md)
-  - Ultimate AppLocker ByPass List (https://github.com/api0cradle/UltimateAppLockerByPassList)
-  - Empire Without PowerShell (https://bneg.io/2017/07/26/empire-without-powershell-exe/)
-  - PowerShell Without PowerShell - How To Bypass Application Whitelisting, Environment Restrictions & AV (https://www.blackhillsinfosec.com/powershell-without-powershell-how-to-bypass-application-whitelisting-environment-restrictions-av/)
-  - Code Signing Certificate Cloning Attacks and Defenses (https://posts.specterops.io/code-signing-certificate-cloning-attacks-and-defenses-6f98657fc6ec)
-  - Userland API Monitoring and Code Injection Detection (https://0x00sec.org/t/userland-api-monitoring-and-code-injection-detection/5565)
-  - In-Memory Evasion (https://blog.cobaltstrike.com/2018/02/08/in-memory-evasion/)
-  - Bypassing AMSI via COM Server Hijacking (https://posts.specterops.io/bypassing-amsi-via-com-server-hijacking-b8a3354d1aff)
-  - Process Doppleganging - A New Way to Impersonate A Process (https://hshrzd.wordpress.com/2017/12/18/process-doppelganging-a-new-way-to-impersonate-a-process/)
-  - Week of Evading Microsoft ATA (http://www.labofapenetrationtester.com/2017/08/week-of-evading-microsoft-ata-day1.html)
-  - Putting Data in Alternate Data Streams and How to Execute It (https://oddvar.moe/2018/01/14/putting-data-in-alternate-data-streams-and-how-to-execute-it/)
-  - AppLocker - Case Study - How Insecure Is It Really? Part 1 (https://oddvar.moe/2017/12/13/applocker-case-study-how-insecure-is-it-really-part-1/)
-  - AppLocker - Case Study - How Insecure Is It Really? Part 2 (https://oddvar.moe/2017/12/21/applocker-case-study-how-insecure-is-it-really-part-2/)
-  - Harden Windows With AppLocker - Based on Case Study Part 1 (https://oddvar.moe/2017/12/13/harden-windows-with-applocker-based-on-case-study-part-1/)
-  - Harden Windows With AppLocker - Based on Case Study Part 2 (https://oddvar.moe/2017/12/21/harden-windows-with-applocker-based-on-case-study-part-2/)
-  - Office 365 Safe Links Bypass (https://oddvar.moe/2018/01/03/office-365-safe-links-bypass/)
-  - Windows Defender Attack Surface Reduction Rules Bypass (https://oddvar.moe/2018/03/15/windows-defender-attack-surface-reduction-rules-bypass/)
-  - Bypassing Device Guard UMCI Using CHM - CVE-2017-8625 (https://oddvar.moe/2017/08/13/bypassing-device-guard-umci-using-chm-cve-2017-8625/)
-  - Bypassing Application Whitelisting With BGinfo (https://oddvar.moe/2017/05/18/bypassing-application-whitelisting-with-bginfo/)
-  - Cloning and Hosting Evil Captive Portals Using a Wi-Fi Pineapple (https://blog.inspired-sec.com/archive/2017/01/10/cloning-captive-portals.html)
-  - Loading Alternate Data Stream (ADS) DLL/CPL Binaries to Bypass AppLocker (https://bohops.com/2018/01/23/loading-alternate-data-stream-ads-dll-cpl-binaries-to-bypass-applocker/)
-  - Executing Commands and Bypassing AppLocker with PowerShell Diagnostic Scripts (https://bohops.com/2018/01/07/executing-commands-and-bypassing-applocker-with-powershell-diagnostic-scripts/)
-  - mavinject.exe Functionality Deconstructed (https://posts.specterops.io/mavinject-exe-functionality-deconstructed-c29ab2cf5c0e)
-  - Windows Access Tokens and Alternate Credentials (https://blog.cobaltstrike.com/2015/12/16/windows-access-tokens-and-alternate-credentials/)
-  - Bringing the Hashes Home With reGeorg & Empire (https://sensepost.com/blog/2016/bringing-the-hashes-home-with-regeorg-empire/)
-  - Intercepting Passwords With Empire and Winning (https://sensepost.com/blog/2016/intercepting-passwords-with-empire-and-winning/)
-  - Local Administrator Password Solution (LAPS) - Part 1 (https://rastamouse.me/2018/03/laps---part-1/)
-  - Local Administrator Password Solution (LAPS) - Part 2 (https://rastamouse.me/2018/03/laps---part-2/)
-  - Using a SCF File to Gather Hashes (https://1337red.wordpress.com/using-a-scf-file-to-gather-hashes/)
-  - harmj0y Presentations and Blogs - Windows and Active Directory Exploitation (https://www.harmj0y.net/blog/)
-  - Offensive Encrypted Data Storage (https://www.harmj0y.net/blog/redteaming/offensive-encrypted-data-storage/)
-  - Practical Guide to NTLM Relaying in 2017 (https://byt3bl33d3r.github.io/practical-guide-to-ntlm-relaying-in-2017-aka-getting-a-foothold-in-under-5-minutes.html)
-  - Dump Clear-Text Passwords for All Admins in the Domain Using Mimikatz DCSync (https://adsecurity.org/?p=2053)
-  - Dumping Domain Password Hashes (https://pentestlab.blog/2018/07/04/dumping-domain-password-hashes/)
-  - Red Team Operating in a Modern Environment (https://www.owasp.org/images/4/4b/Red_Team_Operating_in_a_Modern_Environment.pdf)
-  - My First Go with BloodHound (https://blog.cobaltstrike.com/2016/12/14/my-first-go-with-bloodhound/)
-  - Introducing BloodHound (https://wald0.com/?p=68)
-  - A Read Teamer's Guide to GPOs and OUs (https://wald0.com/?p=179)
-  - Automated Derivative Administrator Search (https://wald0.com/?p=14)
-  - A Pentester's Guide to Group Scoping (https://www.harmj0y.net/blog/activedirectory/a-pentesters-guide-to-group-scoping/)
-  - Local Group Enumeration (https://www.harmj0y.net/blog/redteaming/local-group-enumeration/)
-  - The PowerView PowerUsage Series #1 - Mass User Profile Enumeration (http://www.harmj0y.net/blog/powershell/the-powerview-powerusage-series-1/)
-  - The PowerView PowerUsage Series #2 - Mapping Computer Shortnames With the Global Catalog (http://www.harmj0y.net/blog/powershell/the-powerview-powerusage-series-2/)
-  - The PowerView PowerUsage Series #3 - Enumerating GPO Edit Rights In a Foreign Domain (http://www.harmj0y.net/blog/powershell/the-powerview-powerusage-series-3/)
-  - The PowerView PowerUsage Series #4 - Finding Cross-Trust ACEs (http://www.harmj0y.net/blog/powershell/the-powerview-powerusage-series-4/)
-  - Aggressor PowerView (https://threat.tevora.com/aggressor-powerview/)
-  - Lay of the Land with Bloodhound (https://threat.tevora.com/lay-of-the-land-with-bloodhound/)
-  - Scanning for Active Directory Privileges & Privileged Accounts (https://adsecurity.org/?p=3658)
-  - Microsoft LAPS Security & Active Directory LAPS Configuration Recon (https://adsecurity.org/?p=3164)
-  - Trust Direction: An Enabler for Active Directory Enumeration and Trust Exploitation (https://bohops.com/2017/12/02/trust-direction-an-enabler-for-active-directory-enumeration-and-trust-exploitation/)
-  - SPN Discovery (https://pentestlab.blog/2018/06/04/spn-discovery/)
-  - A Citrix Story (https://rastamouse.me/2017/05/a-citrix-story/)
-  - Jumping Network Segregation with RDP (https://rastamouse.me/2017/08/jumping-network-segregation-with-rdp/)
-  - From Pass-the-Hash to Pass-the-Ticket with No Pain (https://resources.infosecinstitute.com/pass-hash-pass-ticket-no-pain/)
-  - Abusing DNSAdmins Privilege for Escalation in Active Directory (http://www.labofapenetrationtester.com/2017/05/abusing-dnsadmins-privilege-for-escalation-in-active-directory.html)
-  - Using SQL Server for Attacking a Forest Trust (http://www.labofapenetrationtester.com/2017/03/using-sql-server-for-attacking-forest-trust.html)
-  - Extending BloodHound for Red Teamers (https://www.youtube.com/watch?v=Pn7GWRXfgeI)
-  - OPSEC Considerations for Beacon Commands (https://blog.cobaltstrike.com/2017/06/23/opsec-considerations-for-beacon-commands/)
-  - Kerberos Party Tricks: Weaponizing Kerberos Protocol Flaws (http://www.exumbraops.com/blog/2016/6/1/kerberos-party-tricks-weaponizing-kerberos-protocol-flaws)
-  - Lateral Movement Using Excel Application and docm (https://enigma0x3.net/2017/09/11/lateral-movement-using-excel-application-and-dcom/)
-  - The Most Dangerous User Right You (Probably) Have Never Heard Of (https://www.harmj0y.net/blog/activedirectory/the-most-dangerous-user-right-you-probably-have-never-heard-of/)
-  - Agentless Post-Exploitation (https://www.youtube.com/watch?v=QbjuO5IlpBU)
-  - A Guide to Attacking Domain Trusts (https://www.harmj0y.net/blog/redteaming/a-guide-to-attacking-domain-trusts/)
-  - Pass-the-Hash is Dead: Long Live LocalAccountTokenFilterPolicy (https://www.harmj0y.net/blog/redteaming/pass-the-hash-is-dead-long-live-localaccounttokenfilterpolicy/)
-  - Targeted Kerberoasting (https://www.harmj0y.net/blog/activedirectory/targeted-kerberoasting/)
-  - Kerberoasting Without Mimikatz (https://www.harmj0y.net/blog/powershell/kerberoasting-without-mimikatz/)
-  - Abusing GPO Permissions (https://www.harmj0y.net/blog/redteaming/abusing-gpo-permissions/)
-  - Abusing Active Directory Permissions with PowerView (https://www.harmj0y.net/blog/redteaming/abusing-active-directory-permissions-with-powerview/)
-  - Roasting AS-REPs (https://www.harmj0y.net/blog/activedirectory/roasting-as-reps/)
-  - Getting the Goods with CrackMapExec: Part 1 (https://byt3bl33d3r.github.io/getting-the-goods-with-crackmapexec-part-1.html)
-  - Getting the Goods with CrackMapExec: Part 2 (https://byt3bl33d3r.github.io/getting-the-goods-with-crackmapexec-part-2.html)
-  - DiskShadow: The Return of VSS Evasion, Persistence, and Active Directory Database Extraction (https://bohops.com/2018/03/26/diskshadow-the-return-of-vss-evasion-persistence-and-active-directory-database-extraction/)
-  - Abusing Exported Functions and Exposed DCOM Interfaces for Pass-Thru Command Execution and Lateral Movement (https://bohops.com/2018/03/17/abusing-exported-functions-and-exposed-dcom-interfaces-for-pass-thru-command-execution-and-lateral-movement/)
-  - A Guide to Attacking Domain Trusts (https://posts.specterops.io/a-guide-to-attacking-domain-trusts-971e52cb2944)
-  - Outlook Home Page - Another Ruler Vector (https://sensepost.com/blog/2017/outlook-home-page-another-ruler-vector/)
-  - Outlook Forms and Shells (https://sensepost.com/blog/2017/outlook-forms-and-shells/)
-  - Abusing the COM Registry Structure: CLSID, LocalServer32, & ImprocServer32 (https://bohops.com/2018/06/28/abusing-com-registry-structure-clsid-localserver32-inprocserver32/)
-  - LethalHTA - A New Lateral Movement Technique Using DCOM and HTA (https://codewhitesec.blogspot.com/2018/07/lethalhta.html)
-  - Abusing DCOM For Yet Another Lateral Movement Technique (https://bohops.com/2018/04/28/abusing-dcom-for-yet-another-lateral-movement-technique/)
-  - Accessing Clipboard From the Lock Screen in Windows 10 Part 1 (https://oddvar.moe/2017/01/24/accessing-clipboard-from-the-lock-screen-in-windows-10/)
-  - Accessing Clipboard From the Lock Screen in Windows 10 Part 2 (https://oddvar.moe/2017/01/27/access-clipboard-from-lock-screen-in-windows-10-2/)
-  - DNS Data Exfiltration - What is This and How to Use? (https://blog.fosec.vn/dns-data-exfiltration-what-is-this-and-how-to-use-2f6c69998822)
-  - DNS Tunnelling (https://resources.infosecinstitute.com/dns-tunnelling/)
-  - sg1: swiss army knife for data encryption, exfiltration & covert communication (https://securityonline.info/sg1-swiss-army-knife/)
-  - Data Exfiltration Over DNS Request Covert Channel: DNSExfiltrator (https://n0where.net/data-exfiltration-over-dns-request-covert-channel-dnsexfiltrator)
-  - Data Exfiltration via Formula Injection (https://www.notsosecure.com/data-exfiltration-formula-injection/)
-  - Empire Domain Fronting (https://www.xorrior.com/Empire-Domain-Fronting/)
-  - Escape and Evasion Egressing Restricted Networks (https://www.optiv.com/blog/escape-and-evasion-egressing-restricted-networks)
-  - Simple Domain Fronting PoC with GAE C2 Server (https://www.securityartwork.es/2017/01/31/simple-domain-fronting-poc-with-gae-c2-server/)
-  - Domain Fronting Via Cloudfront Alternate Domains (https://www.mdsec.co.uk/2017/02/domain-fronting-via-cloudfront-alternate-domains/)
-  - Finding Domain Frontable Azure Domains (https://theobsidiantower.com/2017/07/24/d0a7cfceedc42bdf3a36f2926bd52863ef28befc.html)
-  - Red Team Insights on HTTPS Domain Fronting Google Hosts Using Cobalt Strike (https://www.cyberark.com/threat-research-blog/red-team-insights-https-domain-fronting-google-hosts-using-cobalt-strike/)
-  - How I Identified 93k Domain-Frontable CloudFront Domains (https://www.peew.pw/blog/2018/2/22/how-i-identified-93k-domain-frontable-cloudfront-domains)
-  - Validated CloudFront SSL Domains (https://medium.com/@vysec.private/validated-cloudfront-ssl-domains-27895822cea3)
-  - CloudFront Hijacking (https://www.mindpointgroup.com/blog/pen-test/cloudfront-hijacking/)
-  - Using robots.txt to Locate Your Targets (http://www.behindthefirewalls.com/2013/07/using-robotstxt-to-locate-your-targets.html)
-  - How to Obfuscate JacaScript in Metasploit (https://github.com/rapid7/metasploit-framework/wiki/How-to-obfuscate-JavaScript-in-Metasploit)
-  - Awesome Lockpicking (https://github.com/meitar/awesome-lockpicking)
-  - Awesome CTF (https://github.com/apsdehal/awesome-ctf)
-  - android-security-awesome (https://github.com/ashishb/android-security-awesome)
-  - Awesome Bug Bounty (https://github.com/djadmin/awesome-bug-bounty)
-  - Awesome Yara (https://github.com/InQuest/awesome-yara)
-  - Awesome ICS Security (https://github.com/hslatman/awesome-industrial-control-system-security)
+  * [Introduction to Metasploit: Exploiting Web Applications](https://www.slideshare.net/DennisMaldonado5/metasploit-for-web-workshop)
+  * [Are We Really Safe? Hacking Access Control Systems](https://www.slideshare.net/DennisMaldonado5/hacking-access-control-systems)
+  * [OWASP Social Engineering: The Art of Human Hacking](https://www.owasp.org/images/5/54/Presentation_Social_Engineering.pdf)
+  * [Weaponizing Data Science for Social Engineering: Automated E2E Spear Phishing on Twitter](https://media.defcon.org/DEF%20CON%2024/DEF%20CON%2024%20presentations/DEFCON-24-Seymour-Tully-Weaponizing-Data-Science-For-Social-Engineering-WP.pdf)
+  * [Colbalt Strike - Spear Phishing documentation](https://www.cobaltstrike.com/help-spear-phish)
+  * [Cobalt Strike - What's the go-to phishing technique or exploit?](https://blog.cobaltstrike.com/2014/12/17/whats-the-go-to-phishing-technique-or-exploit/)
+  * [Excel Macros With PowerShell](https://4sysops.com/archives/excel-macros-with-powershell/)
+  * [PowerPoint and Custom Actions](https://cofense.com/powerpoint-and-custom-actions/)
+  * [Macro-less Code Exec in MSWord](https://sensepost.com/blog/2017/macro-less-code-exec-in-msword/)
+  * [Multi-Platform Macro Phishing Payloads](https://medium.com/@malcomvetter/multi-platform-macro-phishing-payloads-3b688e8eff68)
+  * [Abusing Microsoft Word Features for Phishing: "subDoc"](https://rhinosecuritylabs.com/research/abusing-microsoft-word-features-phishing-subdoc/)
+  * [Phishing Against Protected View](https://enigma0x3.net/2017/07/13/phishing-against-protected-view/)
+  * [PowerShell Empire Stagers 1: Phishing With an Office Macro and Evading AVs](https://fzuckerman.wordpress.com/2016/10/06/powershell-empire-stagers-1-phishing-with-an-office-macro-and-evading-avs/)
+  * [The Absurdly Underestimated Dangers of CSV Injection](http://georgemauer.net/2017/10/07/csv-injection.html)
+  * [Cell Injection](http://blog.7elements.co.uk/2013/01/cell-injection.html)
+  * [Comma Separated Vulnerabilities](https://www.contextis.com/blog/comma-separated-vulnerabilities)
+  * [Spear Phishing 101](https://blog.inspired-sec.com/archive/2017/05/07/Phishing.html)
+  * [Defense In Depth](https://oddvar.moe/2017/09/13/defense-in-depth-writeup/)
+  * [Microsoft Office - NTLM Hashes via Frameset](https://pentestlab.blog/2017/12/18/microsoft-office-ntlm-hashes-via-frameset/)
+  * [Windows Oneliners to Download Remote Payload and Execute Arbitrary Code](https://arno0x0x.wordpress.com/2017/11/20/windows-oneliners-to-download-remote-payload-and-execute-arbitrary-code/)
+  * [ClickOnce](Twice or Thrice): A Technique for Social Engineering and](Un)trusted Command Execution](https://bohops.com/2017/12/02/clickonce-twice-or-thrice-a-technique-for-social-engineering-and-untrusted-command-execution/)
+  * [WSH Injection: A Case Study](https://posts.specterops.io/wsh-injection-a-case-study-fd35f79d29dd)
+  * [Intro to Using GScript for Red Teams](http://lockboxx.blogspot.com/2018/02/intro-to-using-gscript-for-red-teams.html)
+  * [Hiding Registry Keys with PSReflect](https://posts.specterops.io/hiding-registry-keys-with-psreflect-b18ec5ac8353)
+  * [Persistence Using RunOnceEx - Hidden from Autoruns.exe](https://oddvar.moe/2018/03/21/persistence-using-runonceex-hidden-from-autoruns-exe/)
+  * [Persistence Using Globalflags In Image File Execution Options - Hidden from Autoruns.exe](https://oddvar.moe/2018/04/10/persistence-using-globalflags-in-image-file-execution-options-hidden-from-autoruns-exe/)
+  * [Putting Data In Alternate Data Streams and How to Execute It](https://oddvar.moe/2018/04/11/putting-data-in-alternate-data-streams-and-how-to-execute-it-part-2/)
+  * [WMI Persistence with Cobalt Strike](https://blog.inspired-sec.com/archive/2017/01/20/WMI-Persistence.html)
+  * [Leveraging INF-SCT Fetch & Execute Technique For Bypass, Evasion, & Persistence](https://bohops.com/2018/02/26/leveraging-inf-sct-fetch-execute-techniques-for-bypass-evasion-persistence/)
+  * [Leveraging INF-SCT Fetch & Execute Technique For Bypass, Evasion, & Persistence](https://bohops.com/2018/03/10/leveraging-inf-sct-fetch-execute-techniques-for-bypass-evasion-persistence-part-2/)
+  * [Vshadow: Abusing the Volume Shadow Service for Evasion, Persistence, and Active Directory Database Extraction](https://bohops.com/2018/02/10/vshadow-abusing-the-volume-shadow-service-for-evasion-persistence-and-active-directory-database-extraction/)
+  * [First Entry: Welcome and Fileless UAC Bypass](https://winscripting.blog/2017/05/12/first-entry-welcome-and-uac-bypass/)
+  * [Exploiting Environment Variables in Scheduled Tasks for UAC Bypass](https://tyranidslair.blogspot.com/2017/05/exploiting-environment-variables-in.html)
+  * [Bypassing UAC Using App Paths](https://enigma0x3.net/2017/03/14/bypassing-uac-using-app-paths/)
+  * ["Fileless" UAC Bypass Using sdclt.exe](https://enigma0x3.net/2017/03/17/fileless-uac-bypass-using-sdclt-exe/)
+  * [Windows Privilege Escalation checklist](https://github.com/netbiosX/Checklists/blob/master/Windows-Privilege-Escalation.md)
+  * [Ultimate AppLocker ByPass List](https://github.com/api0cradle/UltimateAppLockerByPassList)
+  * [Empire Without PowerShell](https://bneg.io/2017/07/26/empire-without-powershell-exe/)
+  * [PowerShell Without PowerShell - How To Bypass Application Whitelisting, Environment Restrictions & AV](https://www.blackhillsinfosec.com/powershell-without-powershell-how-to-bypass-application-whitelisting-environment-restrictions-av/)
+  * [Code Signing Certificate Cloning Attacks and Defenses](https://posts.specterops.io/code-signing-certificate-cloning-attacks-and-defenses-6f98657fc6ec)
+  * [Userland API Monitoring and Code Injection Detection](https://0x00sec.org/t/userland-api-monitoring-and-code-injection-detection/5565)
+  * [In-Memory Evasion](https://blog.cobaltstrike.com/2018/02/08/in-memory-evasion/)
+  * [Bypassing AMSI via COM Server Hijacking](https://posts.specterops.io/bypassing-amsi-via-com-server-hijacking-b8a3354d1aff)
+  * [Process Doppleganging - A New Way to Impersonate A Process](https://hshrzd.wordpress.com/2017/12/18/process-doppelganging-a-new-way-to-impersonate-a-process/)
+  * [Week of Evading Microsoft ATA](http://www.labofapenetrationtester.com/2017/08/week-of-evading-microsoft-ata-day1.html)
+  * [Putting Data in Alternate Data Streams and How to Execute It](https://oddvar.moe/2018/01/14/putting-data-in-alternate-data-streams-and-how-to-execute-it/)
+  * [AppLocker - Case Study - How Insecure Is It Really? Part 1](https://oddvar.moe/2017/12/13/applocker-case-study-how-insecure-is-it-really-part-1/)
+  * [AppLocker - Case Study - How Insecure Is It Really? Part 2](https://oddvar.moe/2017/12/21/applocker-case-study-how-insecure-is-it-really-part-2/)
+  * [Harden Windows With AppLocker - Based on Case Study Part 1](https://oddvar.moe/2017/12/13/harden-windows-with-applocker-based-on-case-study-part-1/)
+  * [Harden Windows With AppLocker - Based on Case Study Part 2](https://oddvar.moe/2017/12/21/harden-windows-with-applocker-based-on-case-study-part-2/)
+  * [Office 365 Safe Links Bypass](https://oddvar.moe/2018/01/03/office-365-safe-links-bypass/)
+  * [Windows Defender Attack Surface Reduction Rules Bypass](https://oddvar.moe/2018/03/15/windows-defender-attack-surface-reduction-rules-bypass/)
+  * [Bypassing Device Guard UMCI Using CHM - CVE-2017-8625](https://oddvar.moe/2017/08/13/bypassing-device-guard-umci-using-chm-cve-2017-8625/)
+  * [Bypassing Application Whitelisting With BGinfo](https://oddvar.moe/2017/05/18/bypassing-application-whitelisting-with-bginfo/)
+  * [Cloning and Hosting Evil Captive Portals Using a Wi-Fi Pineapple](https://blog.inspired-sec.com/archive/2017/01/10/cloning-captive-portals.html)
+  * [Loading Alternate Data Stream](ADS) DLL/CPL Binaries to Bypass AppLocker](https://bohops.com/2018/01/23/loading-alternate-data-stream-ads-dll-cpl-binaries-to-bypass-applocker/)
+  * [Executing Commands and Bypassing AppLocker with PowerShell Diagnostic Scripts](https://bohops.com/2018/01/07/executing-commands-and-bypassing-applocker-with-powershell-diagnostic-scripts/)
+  * [mavinject.exe Functionality Deconstructed](https://posts.specterops.io/mavinject-exe-functionality-deconstructed-c29ab2cf5c0e)
+  * [Windows Access Tokens and Alternate Credentials](https://blog.cobaltstrike.com/2015/12/16/windows-access-tokens-and-alternate-credentials/)
+  * [Bringing the Hashes Home With reGeorg & Empire](https://sensepost.com/blog/2016/bringing-the-hashes-home-with-regeorg-empire/)
+  * [Intercepting Passwords With Empire and Winning](https://sensepost.com/blog/2016/intercepting-passwords-with-empire-and-winning/)
+  * [Local Administrator Password Solution](LAPS) - Part 1](https://rastamouse.me/2018/03/laps---part-1/)
+  * [Local Administrator Password Solution](LAPS) - Part 2](https://rastamouse.me/2018/03/laps---part-2/)
+  * [Using a SCF File to Gather Hashes](https://1337red.wordpress.com/using-a-scf-file-to-gather-hashes/)
+  * [harmj0y Presentations and Blogs - Windows and Active Directory Exploitation](https://www.harmj0y.net/blog/)
+  * [Offensive Encrypted Data Storage](https://www.harmj0y.net/blog/redteaming/offensive-encrypted-data-storage/)
+  * [Practical Guide to NTLM Relaying in 2017](https://byt3bl33d3r.github.io/practical-guide-to-ntlm-relaying-in-2017-aka-getting-a-foothold-in-under-5-minutes.html)
+  * [Dump Clear-Text Passwords for All Admins in the Domain Using Mimikatz DCSync](https://adsecurity.org/?p=2053)
+  * [Dumping Domain Password Hashes](https://pentestlab.blog/2018/07/04/dumping-domain-password-hashes/)
+  * [Red Team Operating in a Modern Environment](https://www.owasp.org/images/4/4b/Red_Team_Operating_in_a_Modern_Environment.pdf)
+  * [My First Go with BloodHound](https://blog.cobaltstrike.com/2016/12/14/my-first-go-with-bloodhound/)
+  * [Introducing BloodHound](https://wald0.com/?p=68)
+  * [A Read Teamer's Guide to GPOs and OUs](https://wald0.com/?p=179)
+  * [Automated Derivative Administrator Search](https://wald0.com/?p=14)
+  * [A Pentester's Guide to Group Scoping](https://www.harmj0y.net/blog/activedirectory/a-pentesters-guide-to-group-scoping/)
+  * [Local Group Enumeration](https://www.harmj0y.net/blog/redteaming/local-group-enumeration/)
+  * [The PowerView PowerUsage Series #1 - Mass User Profile Enumeration](http://www.harmj0y.net/blog/powershell/the-powerview-powerusage-series-1/)
+  * [The PowerView PowerUsage Series #2 - Mapping Computer Shortnames With the Global Catalog](http://www.harmj0y.net/blog/powershell/the-powerview-powerusage-series-2/)
+  * [The PowerView PowerUsage Series #3 - Enumerating GPO Edit Rights In a Foreign Domain](http://www.harmj0y.net/blog/powershell/the-powerview-powerusage-series-3/)
+  * [The PowerView PowerUsage Series #4 - Finding Cross-Trust ACEs](http://www.harmj0y.net/blog/powershell/the-powerview-powerusage-series-4/)
+  * [Aggressor PowerView](https://threat.tevora.com/aggressor-powerview/)
+  * [Lay of the Land with Bloodhound](https://threat.tevora.com/lay-of-the-land-with-bloodhound/)
+  * [Scanning for Active Directory Privileges & Privileged Accounts](https://adsecurity.org/?p=3658)
+  * [Microsoft LAPS Security & Active Directory LAPS Configuration Recon](https://adsecurity.org/?p=3164)
+  * [Trust Direction: An Enabler for Active Directory Enumeration and Trust Exploitation](https://bohops.com/2017/12/02/trust-direction-an-enabler-for-active-directory-enumeration-and-trust-exploitation/)
+  * [SPN Discovery](https://pentestlab.blog/2018/06/04/spn-discovery/)
+  * [A Citrix Story](https://rastamouse.me/2017/05/a-citrix-story/)
+  * [Jumping Network Segregation with RDP](https://rastamouse.me/2017/08/jumping-network-segregation-with-rdp/)
+  * [From Pass-the-Hash to Pass-the-Ticket with No Pain](https://resources.infosecinstitute.com/pass-hash-pass-ticket-no-pain/)
+  * [Abusing DNSAdmins Privilege for Escalation in Active Directory](http://www.labofapenetrationtester.com/2017/05/abusing-dnsadmins-privilege-for-escalation-in-active-directory.html)
+  * [Using SQL Server for Attacking a Forest Trust](http://www.labofapenetrationtester.com/2017/03/using-sql-server-for-attacking-forest-trust.html)
+  * [Extending BloodHound for Red Teamers](https://www.youtube.com/watch?v=Pn7GWRXfgeI)
+  * [OPSEC Considerations for Beacon Commands](https://blog.cobaltstrike.com/2017/06/23/opsec-considerations-for-beacon-commands/)
+  * [Kerberos Party Tricks: Weaponizing Kerberos Protocol Flaws](http://www.exumbraops.com/blog/2016/6/1/kerberos-party-tricks-weaponizing-kerberos-protocol-flaws)
+  * [Lateral Movement Using Excel Application and docm](https://enigma0x3.net/2017/09/11/lateral-movement-using-excel-application-and-dcom/)
+  * [The Most Dangerous User Right You](Probably) Have Never Heard Of](https://www.harmj0y.net/blog/activedirectory/the-most-dangerous-user-right-you-probably-have-never-heard-of/)
+  * [Agentless Post-Exploitation](https://www.youtube.com/watch?v=QbjuO5IlpBU)
+  * [A Guide to Attacking Domain Trusts](https://www.harmj0y.net/blog/redteaming/a-guide-to-attacking-domain-trusts/)
+  * [Pass-the-Hash is Dead: Long Live LocalAccountTokenFilterPolicy](https://www.harmj0y.net/blog/redteaming/pass-the-hash-is-dead-long-live-localaccounttokenfilterpolicy/)
+  * [Targeted Kerberoasting](https://www.harmj0y.net/blog/activedirectory/targeted-kerberoasting/)
+  * [Kerberoasting Without Mimikatz](https://www.harmj0y.net/blog/powershell/kerberoasting-without-mimikatz/)
+  * [Abusing GPO Permissions](https://www.harmj0y.net/blog/redteaming/abusing-gpo-permissions/)
+  * [Abusing Active Directory Permissions with PowerView](https://www.harmj0y.net/blog/redteaming/abusing-active-directory-permissions-with-powerview/)
+  * [Roasting AS-REPs](https://www.harmj0y.net/blog/activedirectory/roasting-as-reps/)
+  * [Getting the Goods with CrackMapExec: Part 1](https://byt3bl33d3r.github.io/getting-the-goods-with-crackmapexec-part-1.html)
+  * [Getting the Goods with CrackMapExec: Part 2](https://byt3bl33d3r.github.io/getting-the-goods-with-crackmapexec-part-2.html)
+  * [DiskShadow: The Return of VSS Evasion, Persistence, and Active Directory Database Extraction](https://bohops.com/2018/03/26/diskshadow-the-return-of-vss-evasion-persistence-and-active-directory-database-extraction/)
+  * [Abusing Exported Functions and Exposed DCOM Interfaces for Pass-Thru Command Execution and Lateral Movement](https://bohops.com/2018/03/17/abusing-exported-functions-and-exposed-dcom-interfaces-for-pass-thru-command-execution-and-lateral-movement/)
+  * [A Guide to Attacking Domain Trusts](https://posts.specterops.io/a-guide-to-attacking-domain-trusts-971e52cb2944)
+  * [Outlook Home Page - Another Ruler Vector](https://sensepost.com/blog/2017/outlook-home-page-another-ruler-vector/)
+  * [Outlook Forms and Shells](https://sensepost.com/blog/2017/outlook-forms-and-shells/)
+  * [Abusing the COM Registry Structure: CLSID, LocalServer32, & ImprocServer32](https://bohops.com/2018/06/28/abusing-com-registry-structure-clsid-localserver32-inprocserver32/)
+  * [LethalHTA - A New Lateral Movement Technique Using DCOM and HTA](https://codewhitesec.blogspot.com/2018/07/lethalhta.html)
+  * [Abusing DCOM For Yet Another Lateral Movement Technique](https://bohops.com/2018/04/28/abusing-dcom-for-yet-another-lateral-movement-technique/)
+  * [Accessing Clipboard From the Lock Screen in Windows 10 Part 1](https://oddvar.moe/2017/01/24/accessing-clipboard-from-the-lock-screen-in-windows-10/)
+  * [Accessing Clipboard From the Lock Screen in Windows 10 Part 2](https://oddvar.moe/2017/01/27/access-clipboard-from-lock-screen-in-windows-10-2/)
+  * [DNS Data Exfiltration - What is This and How to Use?](https://blog.fosec.vn/dns-data-exfiltration-what-is-this-and-how-to-use-2f6c69998822)
+  * [DNS Tunnelling](https://resources.infosecinstitute.com/dns-tunnelling/)
+  * [sg1: swiss army knife for data encryption, exfiltration & covert communication](https://securityonline.info/sg1-swiss-army-knife/)
+  * [Data Exfiltration Over DNS Request Covert Channel: DNSExfiltrator](https://n0where.net/data-exfiltration-over-dns-request-covert-channel-dnsexfiltrator)
+  * [Data Exfiltration via Formula Injection](https://www.notsosecure.com/data-exfiltration-formula-injection/)
+  * [Empire Domain Fronting](https://www.xorrior.com/Empire-Domain-Fronting/)
+  * [Escape and Evasion Egressing Restricted Networks](https://www.optiv.com/blog/escape-and-evasion-egressing-restricted-networks)
+  * [Simple Domain Fronting PoC with GAE C2 Server](https://www.securityartwork.es/2017/01/31/simple-domain-fronting-poc-with-gae-c2-server/)
+  * [Domain Fronting Via Cloudfront Alternate Domains](https://www.mdsec.co.uk/2017/02/domain-fronting-via-cloudfront-alternate-domains/)
+  * [Finding Domain Frontable Azure Domains](https://theobsidiantower.com/2017/07/24/d0a7cfceedc42bdf3a36f2926bd52863ef28befc.html)
+  * [Red Team Insights on HTTPS Domain Fronting Google Hosts Using Cobalt Strike](https://www.cyberark.com/threat-research-blog/red-team-insights-https-domain-fronting-google-hosts-using-cobalt-strike/)
+  * [How I Identified 93k Domain-Frontable CloudFront Domains](https://www.peew.pw/blog/2018/2/22/how-i-identified-93k-domain-frontable-cloudfront-domains)
+  * [Validated CloudFront SSL Domains](https://medium.com/@vysec.private/validated-cloudfront-ssl-domains-27895822cea3)
+  * [CloudFront Hijacking](https://www.mindpointgroup.com/blog/pen-test/cloudfront-hijacking/)
+  * [Using robots.txt to Locate Your Targets](http://www.behindthefirewalls.com/2013/07/using-robotstxt-to-locate-your-targets.html)
+  * [How to Obfuscate JacaScript in Metasploit](https://github.com/rapid7/metasploit-framework/wiki/How-to-obfuscate-JavaScript-in-Metasploit)
+  * [Awesome Lockpicking](https://github.com/meitar/awesome-lockpicking)
+  * [Awesome CTF](https://github.com/apsdehal/awesome-ctf)
+  * [android-security-awesome](https://github.com/ashishb/android-security-awesome)
+  * [Awesome Bug Bounty](https://github.com/djadmin/awesome-bug-bounty)
+  * [Awesome Yara](https://github.com/InQuest/awesome-yara)
+  * [Awesome ICS Security](https://github.com/hslatman/awesome-industrial-control-system-security)
 
 ### Clearnet Exploit Databases
-  - Exploit-DB (https://www.exploit-db.com/)
-  - 0day.today (https://0day.today/)
-  - Packet Storm Security (https://packetstormsecurity.com/)
-  - Awesome CVE PoC (https://github.com/qazbnm456/awesome-cve-poc)
+  * [Exploit-DB](https://www.exploit-db.com/)
+  * [0day.today](https://0day.today/)
+  * [Packet Storm Security](https://packetstormsecurity.com/)
+  * [Awesome CVE PoC](https://github.com/qazbnm456/awesome-cve-poc)
   
-   - InfoSec - CERT-PA (https://infosec.cert-pa.it/analyze/submission.html)
-  - Contagio (http://contagiodump.blogspot.com/)
-  - MalwareDB (http://malwaredb.malekal.com/)
-  - MalShare (https://malshare.com/)
-  - theZoo (https://github.com/ytisf/theZoo)
-  - Tracker h3x (http://tracker.h3x.eu/)
-  - vduddu malware repo (https://github.com/vduddu/Malware)
-  - VirusBay (https://beta.virusbay.io/)
-  - VirusSign (http://www.virussign.com/)
-  - VirusShare (https://virusshare.com/)
-  - VX Vault (http://vxvault.net/ViriList.php)
-  - Zeus Trojan source code (https://github.com/Visgean/Zeus)
+  * [InfoSec - CERT-PA](https://infosec.cert-pa.it/analyze/submission.html)
+  * [Contagio](http://contagiodump.blogspot.com/)
+  * [MalwareDB](http://malwaredb.malekal.com/)
+  * [MalShare](https://malshare.com/)
+  * [theZoo](https://github.com/ytisf/theZoo)
+  * [Tracker h3x](http://tracker.h3x.eu/)
+  * [vduddu malware repo](https://github.com/vduddu/Malware)
+  * [VirusBay](https://beta.virusbay.io/)
+  * [VirusSign](http://www.virussign.com/)
+  * [VirusShare](https://virusshare.com/)
+  * [VX Vault](http://vxvault.net/ViriList.php)
+  * [Zeus Trojan source code](https://github.com/Visgean/Zeus)
 
 ### Awesome Master Lists
-* [Red Teaming](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming) 
-* [Web Security](https://github.com/qazbnm456/awesome-web-security)
-* [Hacking Resources](https://github.com/vitalysim/Awesome-Hacking-Resources)
-* [Lockpicking](https://github.com/meitar/awesome-lockpicking )
-* [PenTesting](https://github.com/arthurwayne/awesome-pentester)
-* [Exploit Development](https://github.com/FabioBaroni/awesome-exploit-development)
-* [Hacking](https://github.com/jekil/awesome-hacking)
-* [Also Hacking](https://github.com/carpedm20/awesome-hacking)
-* [Incident Response](https://github.com/meirwah/awesome-incident-response)
-* [Honeypot](https://github.com/paralax/awesome-honeypots)
-* [Malware Analysis](https://github.com/rshipp/awesome-malware-analysis)
-* [Capture The Flag](https://github.com/apsdehal/awesome-ctf)
-* [Security](https://github.com/sbilly/awesome-security)
-* [Application Security](https://github.com/paragonie/awesome-appsec)
-* [Android Security Analysis](https://github.com/ashishb/android-security-awesome) 
-* [CVE Proof of Concepts](https://github.com/qazbnm456/awesome-cve-poc)
-* [Penetration Testing](https://github.com/enaqx/awesome-pentest/) - Supported by Netsparker
-* [Bug Bounty](https://github.com/djadmin/awesome-bug-bounty)
-* [YARA](https://github.com/InQuest/awesome-yara)
-* [Security Talks](https://github.com/PaulSec/awesome-sec-talks)
-* [Industrial Control System Security](https://github.com/hslatman/awesome-industrial-control-system-security)
-* [Forensics](https://github.com/Cugu/awesome-forensics)
-* [Packet Capture Tools](https://github.com/caesar0301/awesome-pcaptools)
-* [Threat Intelligence](https://github.com/hslatman/awesome-threat-intelligence)
-* [Hacking Lists](https://github.com/udpsec/awesome-hacking-lists)
-* [SecLists](https://github.com/danielmiessler/SecLists) - Useful security related lists to reference/work off of in a pentest
-* [Starting Up Security](https://scrty.io/) - A collection of information security essays and links to help growing teams manage risks.
+  * [Red Teaming](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming) 
+  * [Web Security](https://github.com/qazbnm456/awesome-web-security)
+  * [Hacking Resources](https://github.com/vitalysim/Awesome-Hacking-Resources)
+  * [Lockpicking](https://github.com/meitar/awesome-lockpicking )
+  * [PenTesting](https://github.com/arthurwayne/awesome-pentester)
+  * [Exploit Development](https://github.com/FabioBaroni/awesome-exploit-development)
+  * [Hacking](https://github.com/jekil/awesome-hacking)
+  * [Also Hacking](https://github.com/carpedm20/awesome-hacking)
+  * [Incident Response](https://github.com/meirwah/awesome-incident-response)
+  * [Honeypot](https://github.com/paralax/awesome-honeypots)
+  * [Malware Analysis](https://github.com/rshipp/awesome-malware-analysis)
+  * [Capture The Flag](https://github.com/apsdehal/awesome-ctf)
+  * [Security](https://github.com/sbilly/awesome-security)
+  * [Application Security](https://github.com/paragonie/awesome-appsec)
+  * [Android Security Analysis](https://github.com/ashishb/android-security-awesome) 
+  * [CVE Proof of Concepts](https://github.com/qazbnm456/awesome-cve-poc)
+  * [Penetration Testing](https://github.com/enaqx/awesome-pentest/) - Supported by Netsparker
+  * [Bug Bounty](https://github.com/djadmin/awesome-bug-bounty)
+  * [YARA](https://github.com/InQuest/awesome-yara)
+  * [Security Talks](https://github.com/PaulSec/awesome-sec-talks)
+  * [Industrial Control System Security](https://github.com/hslatman/awesome-industrial-control-system-security)
+  * [Forensics](https://github.com/Cugu/awesome-forensics)
+  * [Packet Capture Tools](https://github.com/caesar0301/awesome-pcaptools)
+  * [Threat Intelligence](https://github.com/hslatman/awesome-threat-intelligence)
+  * [Hacking Lists](https://github.com/udpsec/awesome-hacking-lists)
+  * [SecLists](https://github.com/danielmiessler/SecLists) - Useful security related lists to reference/work off of in a pentest
+  * [Starting Up Security](https://scrty.io/) - A collection of information security essays and links to help growing teams manage risks.
 
 ### Tools
 
@@ -1045,6 +1045,6 @@ This is an ongoing compilation of resources we have found helpful and tools we u
 
 
 ### Reports
-  - GoVanguard sample reports (https://github.com/GoVanguard/doc-infosec-report-samples)
-  - Offensive Security sample pentest report (https://www.offensive-security.com/reports/sample-penetration-testing-report.pdf)
+  * [GoVanguard sample reports](https://github.com/GoVanguard/doc-infosec-report-samples)
+  * [Offensive Security sample pentest report](https://www.offensive-security.com/reports/sample-penetration-testing-report.pdf)
   
