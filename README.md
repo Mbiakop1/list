@@ -316,7 +316,7 @@ This is an ongoing compilation of resources we have found helpful and tools we u
   * [Defense In Depth](https://oddvar.moe/2017/09/13/defense-in-depth-writeup/)
   * [Microsoft Office - NTLM Hashes via Frameset](https://pentestlab.blog/2017/12/18/microsoft-office-ntlm-hashes-via-frameset/)
   * [Windows Oneliners to Download Remote Payload and Execute Arbitrary Code](https://arno0x0x.wordpress.com/2017/11/20/windows-oneliners-to-download-remote-payload-and-execute-arbitrary-code/)
-  * [ClickOnce](Twice or Thrice): A Technique for Social Engineering and](Un)trusted Command Execution](https://bohops.com/2017/12/02/clickonce-twice-or-thrice-a-technique-for-social-engineering-and-untrusted-command-execution/)
+  * [ClickOnce, Twice or Thrice: A Technique for Social Engineering and Untrusted Command Execution](https://bohops.com/2017/12/02/clickonce-twice-or-thrice-a-technique-for-social-engineering-and-untrusted-command-execution/)
   * [WSH Injection: A Case Study](https://posts.specterops.io/wsh-injection-a-case-study-fd35f79d29dd)
   * [Intro to Using GScript for Red Teams](http://lockboxx.blogspot.com/2018/02/intro-to-using-gscript-for-red-teams.html)
   * [Hiding Registry Keys with PSReflect](https://posts.specterops.io/hiding-registry-keys-with-psreflect-b18ec5ac8353)
@@ -351,14 +351,14 @@ This is an ongoing compilation of resources we have found helpful and tools we u
   * [Bypassing Device Guard UMCI Using CHM - CVE-2017-8625](https://oddvar.moe/2017/08/13/bypassing-device-guard-umci-using-chm-cve-2017-8625/)
   * [Bypassing Application Whitelisting With BGinfo](https://oddvar.moe/2017/05/18/bypassing-application-whitelisting-with-bginfo/)
   * [Cloning and Hosting Evil Captive Portals Using a Wi-Fi Pineapple](https://blog.inspired-sec.com/archive/2017/01/10/cloning-captive-portals.html)
-  * [Loading Alternate Data Stream](ADS) DLL/CPL Binaries to Bypass AppLocker](https://bohops.com/2018/01/23/loading-alternate-data-stream-ads-dll-cpl-binaries-to-bypass-applocker/)
+  * [Loading Alternate Data Stream ADS DLL/CPL Binaries to Bypass AppLocker](https://bohops.com/2018/01/23/loading-alternate-data-stream-ads-dll-cpl-binaries-to-bypass-applocker/)
   * [Executing Commands and Bypassing AppLocker with PowerShell Diagnostic Scripts](https://bohops.com/2018/01/07/executing-commands-and-bypassing-applocker-with-powershell-diagnostic-scripts/)
   * [mavinject.exe Functionality Deconstructed](https://posts.specterops.io/mavinject-exe-functionality-deconstructed-c29ab2cf5c0e)
   * [Windows Access Tokens and Alternate Credentials](https://blog.cobaltstrike.com/2015/12/16/windows-access-tokens-and-alternate-credentials/)
   * [Bringing the Hashes Home With reGeorg & Empire](https://sensepost.com/blog/2016/bringing-the-hashes-home-with-regeorg-empire/)
   * [Intercepting Passwords With Empire and Winning](https://sensepost.com/blog/2016/intercepting-passwords-with-empire-and-winning/)
-  * [Local Administrator Password Solution](LAPS) - Part 1](https://rastamouse.me/2018/03/laps---part-1/)
-  * [Local Administrator Password Solution](LAPS) - Part 2](https://rastamouse.me/2018/03/laps---part-2/)
+  * [Local Administrator Password Solution (LAPS) - Part 1](https://rastamouse.me/2018/03/laps---part-1/)
+  * [Local Administrator Password Solution (LAPS) - Part 2](https://rastamouse.me/2018/03/laps---part-2/)
   * [Using a SCF File to Gather Hashes](https://1337red.wordpress.com/using-a-scf-file-to-gather-hashes/)
   * [harmj0y Presentations and Blogs - Windows and Active Directory Exploitation](https://www.harmj0y.net/blog/)
   * [Offensive Encrypted Data Storage](https://www.harmj0y.net/blog/redteaming/offensive-encrypted-data-storage/)
@@ -391,7 +391,7 @@ This is an ongoing compilation of resources we have found helpful and tools we u
   * [OPSEC Considerations for Beacon Commands](https://blog.cobaltstrike.com/2017/06/23/opsec-considerations-for-beacon-commands/)
   * [Kerberos Party Tricks: Weaponizing Kerberos Protocol Flaws](http://www.exumbraops.com/blog/2016/6/1/kerberos-party-tricks-weaponizing-kerberos-protocol-flaws)
   * [Lateral Movement Using Excel Application and docm](https://enigma0x3.net/2017/09/11/lateral-movement-using-excel-application-and-dcom/)
-  * [The Most Dangerous User Right You](Probably) Have Never Heard Of](https://www.harmj0y.net/blog/activedirectory/the-most-dangerous-user-right-you-probably-have-never-heard-of/)
+  * [The Most Dangerous User Right You Probably Have Never Heard Of](https://www.harmj0y.net/blog/activedirectory/the-most-dangerous-user-right-you-probably-have-never-heard-of/)
   * [Agentless Post-Exploitation](https://www.youtube.com/watch?v=QbjuO5IlpBU)
   * [A Guide to Attacking Domain Trusts](https://www.harmj0y.net/blog/redteaming/a-guide-to-attacking-domain-trusts/)
   * [Pass-the-Hash is Dead: Long Live LocalAccountTokenFilterPolicy](https://www.harmj0y.net/blog/redteaming/pass-the-hash-is-dead-long-live-localaccounttokenfilterpolicy/)
@@ -724,7 +724,7 @@ This is an ongoing compilation of resources we have found helpful and tools we u
   * [Quick Android Review Kit (Qark)](https://github.com/linkedin/qark/) - Tool for finding security related Android application vulnerabilities.
   * [truffleHog](https://github.com/dxa4481/truffleHog) - Git repo scanner.
   * [Yara](https://github.com/VirusTotal/yara) - Static pattern analysis tool for malware researchers.
-    * [Icewater](https://github.com/SupportIntelligence/Icewater) - 16,432 free Yara rules.
+  * [Icewater](https://github.com/SupportIntelligence/Icewater) - 16,432 free Yara rules.
 
 #### Dynamic Analyzers
   * [Cheat Engine](https://www.cheatengine.org/) - Memory debugger and hex editor for running applications.
