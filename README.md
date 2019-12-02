@@ -1,13 +1,10 @@
 # GoVanguard InfoSec Encyclopedia
 
-* Introduction
 * Table of Contents
 * Resources
 * Tools Used
 * Our Reports
 * Our Open Source Software
-
-##Introduction
 
 This is an ongoing compilation of resources we have found helpful and tools we use.
 If you're new to InfoSec and are looking for a concentrated list of reasources to get started, check out [Getting into InfoSec and Cybersecurity](https://github.com/GoVanguard/Getting-into-InfoSec-and-Cybersecurity)
