@@ -23,7 +23,7 @@ If you're new to InfoSec and are looking for a concentrated list of reasources t
   * [Awesome Master Lists](#awesome-master-lists)
   * [Knowledge Bases](#knowledge-bases)
 
-- [Tools](#tools)
+- [Tools Used](#tools-used)
   * [Penetration Testing OS Distributions](#penetration-testing-os-distributions)
   * [Multi-paradigm Frameworks](#multi-paradigm-frameworks)
   * [Training Utilities and Resources](#training-utilities-and-resources)
@@ -62,9 +62,9 @@ If you're new to InfoSec and are looking for a concentrated list of reasources t
 - [Reports](#reports)
 
 
+### Resources
 
-
-### Information Security Certifications
+#### Information Security Certifications
 
   * [Kali Linux Certified Professional (KLCP)](https://home.pearsonvue.com/kali)
   * [CompTIA Security+](https://certification.comptia.org/certifications/security)
@@ -78,7 +78,7 @@ If you're new to InfoSec and are looking for a concentrated list of reasources t
   * [Offensive Security Web Expert (OSWE)](https://www.offensive-security.com/information-security-certifications/oswe-offensive-security-web-expert/)
   * [Certified Information Systems Security Professional (CISSP)](https://www.isc2.org/Certifications/CISSP)
 
-### Books
+#### Books
   * [Kali Linux Revealed](https://kali.training/downloads/Kali-Linux-Revealed-1st-edition.pdf)
   * [CompTIA Security+ SY0-501 Certification Study Guide](https://certification.comptia.org/training/self-study/books/security-sy0-501-study-guide)
   * Advanced Penetration Testing: Hacking the World's Most Secure Networks 
@@ -200,7 +200,7 @@ If you're new to InfoSec and are looking for a concentrated list of reasources t
   * [Unmasking the Social Engineer: The Human Element of Security by Christopher Hadnagy, 2014](http://www.wiley.com/WileyCDA/WileyTitle/productCd-1118608577.html)
   * [Social Engineering in IT Security: Tools, Tactics, and Techniques by Sharon Conheady, 2014](https://www.mhprofessional.com/product.php?isbn=0071818464)
 
-### Conferences
+#### Conferences
   * SANS Annual Conference
   * Cyber Threat Intelligence Summit
   * SANS Pen Test Annual Conferences
@@ -272,7 +272,7 @@ If you're new to InfoSec and are looking for a concentrated list of reasources t
   * BalCCon
   * FSec
 
-### Online Videos
+#### Online Videos
   * [Offensive Security Part 1 - Basics of Penetration Testing](https://www.youtube.com/watch?v=GX1go9PDnWY)
   * [Dennis Maldonado: Are We Really Safe? Bypassing Access Control Systems](https://www.youtube.com/watch?v=jTtdTrMSsPw)
   * [Phishing Campaigns in Metasploit Pro](https://www.youtube.com/watch?v=XReMP6_f2xU)
@@ -281,13 +281,13 @@ If you're new to InfoSec and are looking for a concentrated list of reasources t
   * [Rapid7 Whiteboard Wednesday Series](https://www.youtube.com/playlist?list=PLMrgKzfE1aINBOpJXCkqPdWcT7YCPZYL3)
   * [Spear Phishing with Cobalt Strike](https://www.youtube.com/watch?v=V7UJjVcq2Ao)
   
-### Free Online Courses
+#### Free Online Courses
   * [CompTIA Network+ Certification Video Course By PowerCert Animated Videos](https://www.youtube.com/watch?v=vrh0epPAC5w)
   * [CompTIA Security+ SY0-501 Training Course By Professor Messer](https://www.youtube.com/playlist?list=PLG49S3nxzAnnVhoAaL4B6aMFDQ8_gdxAy)
   * [Complete Ethical Hacking Course by Joseph Delgadillo - 8 hour course](https://www.youtube.com/watch?v=fDeLtKUxTmM)
   * [Complete Ethical Hacking Course By HackerSploit - Part1 of 126](https://www.youtube.com/watch?v=tHd8k54kVs8&list=PLBf0hzazHTGOEuhPQSnq-Ej8jRyXxfYvl)
 
-### Informative Youtube Channels
+#### Informative Youtube Channels
   * [Motasem Hamdan](https://www.youtube.com/channel/UCNSdU_1ehXtGclimTVckHmQ/videos)
   * [Loi Liang Yang](https://www.youtube.com/channel/UC1szFCBUWXY3ESff8dJjjzw/videos)
   * [Null Byte](https://www.youtube.com/channel/UCgTNupxATBfWmfehv21ym-g)
@@ -295,7 +295,7 @@ If you're new to InfoSec and are looking for a concentrated list of reasources t
   * [Thenewboston](https://www.youtube.com/user/thenewboston/playlists)
   * [Hak5](https://www.youtube.com/user/Hak5Darren/featured)
 
-### Illustrations and Presentations
+#### Illustrations and Presentations
   * [Introduction to Metasploit: Exploiting Web Applications](https://www.slideshare.net/DennisMaldonado5/metasploit-for-web-workshop)
   * [Are We Really Safe? Hacking Access Control Systems](https://www.slideshare.net/DennisMaldonado5/hacking-access-control-systems)
   * [OWASP Social Engineering: The Art of Human Hacking](https://www.owasp.org/images/5/54/Presentation_Social_Engineering.pdf)
@@ -435,7 +435,7 @@ If you're new to InfoSec and are looking for a concentrated list of reasources t
   * [Awesome Yara](https://github.com/InQuest/awesome-yara)
   * [Awesome ICS Security](https://github.com/hslatman/awesome-industrial-control-system-security)
 
-### Clearnet Exploit Databases
+#### Clearnet Exploit Databases
   * [Exploit-DB](https://www.exploit-db.com/)
   * [0day.today](https://0day.today/)
   * [Packet Storm Security](https://packetstormsecurity.com/)
@@ -454,7 +454,7 @@ If you're new to InfoSec and are looking for a concentrated list of reasources t
   * [VX Vault](http://vxvault.net/ViriList.php)
   * [Zeus Trojan source code](https://github.com/Visgean/Zeus)
 
-### Awesome Master Lists
+#### Awesome Master Lists
   * [Red Teaming](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming) 
   * [Web Security](https://github.com/qazbnm456/awesome-web-security)
   * [Hacking Resources](https://github.com/vitalysim/Awesome-Hacking-Resources)
@@ -483,10 +483,10 @@ If you're new to InfoSec and are looking for a concentrated list of reasources t
   * [SecLists](https://github.com/danielmiessler/SecLists) - Useful security related lists to reference/work off of in a pentest
   * [Starting Up Security](https://scrty.io/) - A collection of information security essays and links to help growing teams manage risks.
 
-### Knowledge Bases
+#### Knowledge Bases
   * [MITRE ATT&CK](https://attack.mitre.org/tactics/enterprise/) - This is a globally-accessible knowledge base of adversary tactics and techniques based on real-world observations and is used as a foundation for methodologies in the private sector, in government, and in the cybersecurity community.
 
-### Tools
+### Tools Used
 
 #### Penetration Testing OS Distributions
   * [Parrot Security OS](https://www.parrotsec.org/) - Distribution similar to Kali using the same repositories, but with additional features such as Tor and I2P integration.
