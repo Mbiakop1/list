@@ -484,7 +484,7 @@ If you're new to InfoSec and are looking for a concentrated list of reasources t
   * [Starting Up Security](https://scrty.io/) - A collection of information security essays and links to help growing teams manage risks.
 
 ### MITRE ATT&CK
-   * [MITRE ATT&CK](https://attack.mitre.org/tactics/enterprise/) - Knowledge base MITRE ATT&CK™ is a globally-accessible knowledge base of adversary tactics and techniques based on real-world observations and is used as a foundation for methodologies in the private sector, in government, and in the cybersecurity community.
+  * [MITRE ATT&CK](https://attack.mitre.org/tactics/enterprise/) - Knowledge base MITRE ATT&CK™ is a globally-accessible knowledge base of adversary tactics and techniques based on real-world observations and is used as a foundation for methodologies in the private sector, in government, and in the cybersecurity community.
 
 ### Tools
 
