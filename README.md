@@ -21,7 +21,7 @@ If you're new to InfoSec and are looking for a concentrated list of reasources t
   * [Illustrations and Presentations](#illustrations-and-presentations)
   * [Clearnet Exploit Databases](#clearnet-exploit-databases)
   * [Awesome Master Lists](#awesome-master-lists)
-  * [MITRE ATT&CK](#mitre-att&ck)
+  * [Knowledge Bases](#knowledge-bases)
 
 - [Tools](#tools)
   * [Penetration Testing OS Distributions](#penetration-testing-os-distributions)
@@ -483,8 +483,8 @@ If you're new to InfoSec and are looking for a concentrated list of reasources t
   * [SecLists](https://github.com/danielmiessler/SecLists) - Useful security related lists to reference/work off of in a pentest
   * [Starting Up Security](https://scrty.io/) - A collection of information security essays and links to help growing teams manage risks.
 
-### MITRE ATT&CK
-  * [MITRE ATT&CK](https://attack.mitre.org/tactics/enterprise/) - Knowledge base MITRE ATT&CK™ is a globally-accessible knowledge base of adversary tactics and techniques based on real-world observations and is used as a foundation for methodologies in the private sector, in government, and in the cybersecurity community.
+### Knowledge Bases
+  * [MITRE ATT&CK](https://attack.mitre.org/tactics/enterprise/) - This is a globally-accessible knowledge base of adversary tactics and techniques based on real-world observations and is used as a foundation for methodologies in the private sector, in government, and in the cybersecurity community.
 
 ### Tools
 
