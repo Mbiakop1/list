@@ -61,12 +61,12 @@ If you're new to InfoSec and are looking for a concentrated list of reasources t
   * [Other](#other)
   
 - [Our Reports](#our-reports)
-  * [GoVanguard sample reports]
-  * [Offensive Security sample pentest report]
+  * GoVanguard sample reports
+  * Offensive Security sample pentest report
   
 - [Our Open Source Tools](#our-open-source-tools)
-  * [Legion]
-  * [Spearhead]
+  * Legion
+  * Spearhead
 
 
 ### Resources
