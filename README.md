@@ -19,9 +19,8 @@ This is an ongoing compilation of resources we have found helpful and tools we u
   * [Informative Youtube Channels](#informative-youtube-channels)
   * [Illustrations and Presentations](#illustrations-and-presentations)
   * [Clearnet Exploit Databases](#clearnet-exploit-databases)
-  * [Malware Samples and Databases](#malware-samples-and-databases)
   * [Awesome Master Lists](#awesome-master-lists)
-  * [MITRE ATT&CK](mitre-att&ck)
+  * [MITRE ATT&CK](#mitre-att&ck)
 
 - [Tools](#tools)
   * [Penetration Testing OS Distributions](#penetration-testing-os-distributions)
