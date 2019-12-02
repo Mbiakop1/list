@@ -1059,5 +1059,5 @@ If you're new to InfoSec and are looking for a concentrated list of reasources t
   * [Offensive Security sample pentest report](https://www.offensive-security.com/reports/sample-penetration-testing-report.pdf)
   
 ### Our Open Source Tools
-  * [Legion]
-  * [Spearhead]
+  * [Legion](https://github.com/GoVanguard/legion) - Legion is an open source, easy-to-use, super-extensible and semi-automated network penetration testing tool that aids in discovery, reconnaissance and exploitation of information systems.
+  * [Spearhead](https://github.com/GoVanguard/defectDojoWhiteLabel) - Private repo containing just the whitelabel components for defectDojo, also called Spearhead
