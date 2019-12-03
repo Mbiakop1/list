@@ -531,7 +531,7 @@ If you're new to InfoSec and are looking for a concentrated list of reasources t
   * [Exploitsearch](http://exploitsearch.net/)
   * [Nvd.nist.gov](http://nvd.nist.gov/download/nvd-rss-analyzed.xml)
   * [Intelligentexploit](http://www.intelligentexploit.com/)
-  * [Wpvulndb.com/](https://wpvulndb.com/)
+  * [Wpvulndb](https://wpvulndb.com/)
   * [Wordpressexploit](http://www.wordpressexploit.com/)
   * [Drupalexploit](http://www.drupalexploit.com/)
   * [Openwall](http://www.openwall.com/lists/oss-security/)
