@@ -8,12 +8,15 @@ If you're new to InfoSec and are looking for a concentrated list of reasources t
 * Tools Used
 * Our Reports
 * Our Open Source Software
+* License
 
 ## Table of Contents
 
 - [Resources](#resources)
   * [Information Security Certifications](#information-security-certifications)
   * [Books](#books)
+  * [Lockpicking Resources](#lockpicking-resources)
+  * [Social Engineering Articles](#social-engineering-articles)
   * [Conferences](#conferences)
   * [Online Videos](#online-vidoes)
   * [Free Online Courses](#free-online-courses)
@@ -58,6 +61,7 @@ If you're new to InfoSec and are looking for a concentrated list of reasources t
   * [Incident Response](#incident-response)
   * [Honeypot Tools](#honeypot-tools)
   * [Monitoring and IDS-IPS](#monitoring-and-ids-ips)
+  * [Physical Tools](#physical-tools)
   * [Other](#other)
   
 - [Our Reports](#our-reports)
@@ -67,6 +71,8 @@ If you're new to InfoSec and are looking for a concentrated list of reasources t
 - [Our Open Source Tools](#our-open-source-tools)
   * Legion
   * Spearhead
+  
+- [License](#license)
 
 
 ### Resources
@@ -207,6 +213,23 @@ If you're new to InfoSec and are looking for a concentrated list of reasources t
   * [Unmasking the Social Engineer: The Human Element of Security by Christopher Hadnagy, 2014](http://www.wiley.com/WileyCDA/WileyTitle/productCd-1118608577.html)
   * [Social Engineering in IT Security: Tools, Tactics, and Techniques by Sharon Conheady, 2014](https://www.mhprofessional.com/product.php?isbn=0071818464)
 
+#### Lockpicking Resources
+  * [Keypicking.com](https://keypicking.com/) - Bustling online forum for the discussion of lockpicking and locksport.
+  * [Lockpicking101.com](https://www.lockpicking101.com/) - One of the longest-running online communities "dedicated to the fun and ethical hobby of lock picking."
+  * [LockWiki](http://lockwiki.com/) - Community-driven reference for both beginners and professionals in the security industry.
+  * [/r/lockpicking Subreddit](https://www.reddit.com/r/lockpicking/) - Subreddit dedicated to the sport of lockpicking.
+  * [Dark Sim 905's Lockpicking pages](https://darksim905.com/lockpicking.php) - Personal website of a knowledgable hobbyist discussing a variety of picking and bypass tools.
+  * [Lockpicking Forensics](http://www.lockpickingforensics.com/) - Website "dedicated to the science and study of forensic locksmithing."
+  * [The Amazing King's Lockpicking pages](http://theamazingking.com/lockpicking.php) - Hobbyist's website with detailed pages about locks, tools, and picking techniques.
+
+
+#### Social Engineering Articles
+  * [The Limits of Social Engineering](https://www.technologyreview.com/s/526561/the-limits-of-social-engineering/) - MIT, Technology Review
+  * [The 7 Best Social Engineering Attacks Ever](http://www.darkreading.com/the-7-best-social-engineering-attacks-ever/d/d-id/1319411) - DarkReading
+  * [Social Engineering: Compromising Users with an Office Document](http://resources.infosecinstitute.com/social-engineering-compromising-users-using-office-document/) - Infosec Institute
+  * [The Persuasion Reading List](http://blog.dilbert.com/post/129784168866/the-persuasion-reading-list) - Scott Adams' Blog
+  * [How I Socially Engineer Myself Into High Security Facilities](https://motherboard.vice.com/en_us/article/qv34zb/how-i-socially-engineer-myself-into-high-security-facilities) - Sophie Daniel
+
 #### Conferences
   * SANS Annual Conference
   * Cyber Threat Intelligence Summit
@@ -301,6 +324,8 @@ If you're new to InfoSec and are looking for a concentrated list of reasources t
   * [Computerphile](https://www.youtube.com/user/Computerphile/videos?view=0&sort=p&shelf_id=2)
   * [Thenewboston](https://www.youtube.com/user/thenewboston/playlists)
   * [Hak5](https://www.youtube.com/user/Hak5Darren/featured)
+  * [Schuyler Towne channel](https://www.youtube.com/user/SchuylerTowne/) - Lockpicking videos and security talks.
+  * [bosnianbill](https://www.youtube.com/user/bosnianbill) - lockpicking videos.
 
 #### Illustrations and Presentations
   * [Introduction to Metasploit: Exploiting Web Applications](https://www.slideshare.net/DennisMaldonado5/metasploit-for-web-workshop)
@@ -447,7 +472,6 @@ If you're new to InfoSec and are looking for a concentrated list of reasources t
   * [0day.today](https://0day.today/)
   * [Packet Storm Security](https://packetstormsecurity.com/)
   * [Awesome CVE PoC](https://github.com/qazbnm456/awesome-cve-poc)
-  
   * [InfoSec - CERT-PA](https://infosec.cert-pa.it/analyze/submission.html)
   * [Contagio](http://contagiodump.blogspot.com/)
   * [MalwareDB](http://malwaredb.malekal.com/)
@@ -462,6 +486,7 @@ If you're new to InfoSec and are looking for a concentrated list of reasources t
   * [Zeus Trojan source code](https://github.com/Visgean/Zeus)
 
 #### Awesome Master Lists
+  * [OSINT](https://github.com/jivoi/awesome-osint)
   * [Red Teaming](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming) 
   * [Web Security](https://github.com/qazbnm456/awesome-web-security)
   * [Hacking Resources](https://github.com/vitalysim/Awesome-Hacking-Resources)
@@ -492,6 +517,27 @@ If you're new to InfoSec and are looking for a concentrated list of reasources t
 
 #### Knowledge Bases
   * [MITRE ATT&CK](https://attack.mitre.org/tactics/enterprise/) - This is a globally-accessible knowledge base of adversary tactics and techniques based on real-world observations and is used as a foundation for methodologies in the private sector, in government, and in the cybersecurity community.
+  * [Exploit-db](http://www.exploit-db.com/)
+  * [Cvedetails](http://www.cvedetails.com/)
+  * [Packetstormsecurity](http://packetstormsecurity.com/)
+  * [Securityfocus](http://www.securityfocus.com/bid)
+  * [Osvdb](http://osvdb.org/)
+  * [Mitre](http://cve.mitre.org/)
+  * [Jetlib](http://sec.jetlib.com/)
+  * [0day](http://0day.today/)
+  * [Seebug](https://www.seebug.org/)
+  * [Rapid7=](https://www.rapid7.com/db/)
+  * [Zerodayinitiative](http://zerodayinitiative.com/advisories/published/)
+  * [Exploitsearch](http://exploitsearch.net/)
+  * [Nvd.nist.gov](http://nvd.nist.gov/download/nvd-rss-analyzed.xml)
+  * [Intelligentexploit](http://www.intelligentexploit.com/)
+  * [Wpvulndb.com/](https://wpvulndb.com/)
+  * [Wordpressexploit](http://www.wordpressexploit.com/)
+  * [Drupalexploit](http://www.drupalexploit.com/)
+  * [Openwall](http://www.openwall.com/lists/oss-security/
+  * [Exploitsearch](http://exploitsearch.net)
+  * [Vulnerability-lab](https://www.vulnerability-lab.com)
+
 
 ### Tools Used
 
@@ -569,6 +615,9 @@ If you're new to InfoSec and are looking for a concentrated list of reasources t
   * [ACLight](https://github.com/cyberark/ACLight) - Script for advanced discovery of sensitive Privileged Accounts - includes Shadow Admins.
   * [Pentest-Tools](https://pentest-tools.com/home) - Online suite of various different pentest related tools.
   * [Ruler](https://github.com/sensepost/ruler) - Tool for remotely interacting with Exchange servers.
+  * [pyShodan](https://github.com/GoVanguard/pyShodan) - Python 3 script for interacting with Shodan API (requires valid API key).
+  * [ldapsearch](https://linux.die.net/man/1/ldapsearch) - Linux command line utility for querying LDAP servers.
+  * [BuiltWith](https://builtwith.com/) - Technology lookup tool for websites.
 
 #### Network Vulnerability Scanners
   * [OpenVAS](http://www.openvas.org/) - Open source implementation of the popular Nessus vulnerability assessment system.
@@ -666,7 +715,8 @@ If you're new to InfoSec and are looking for a concentrated list of reasources t
   * [Fluxion](https://github.com/FluxionNetwork/fluxion) - Suite of automated social engineering based WPA attacks.
   * [NetStumbler](http://www.netstumbler.com/downloads/) - WLAN scanning tool.
   * [Kismet](https://www.patreon.com/kismetwireless) - Wireless network discovery tool.
-
+  * [wifi-pickle](https://github.com/GoVanguard/wifi-pickle) - Fake access point attacks.
+  
 #### Transport Layer Security Tools
   * [tlssled](https://tools.kali.org/information-gathering/tlssled) - Comprehensive TLS/SSL testing suite.
   * [SSLscan](https://github.com/rbsec/sslscan) - Quick command line SSL/TLS analyzer.
@@ -674,7 +724,8 @@ If you're new to InfoSec and are looking for a concentrated list of reasources t
   * [SSL Labs](https://www.ssllabs.com/ssltest/) - Online TLS/SSL testing suite for revealing supported TLS/SSL versions and ciphers.
   * [crackpkcs12](https://github.com/crackpkcs12/crackpkcs12) - Multithreaded program to crack PKCS#12 files (`.p12` and `.pfx` extensions), such as TLS/SSL certificates.
   * [spoodle](https://github.com/avicoder/spoodle) - Mass subdomain + POODLE vulnerability scanner.
-
+  * [SMTP TLS Checker](https://luxsci.com/smtp-tls-checker) - Online TLS/SSL testing suite for SMTP servers.
+  
 #### Cryptography
   * [FeatherDuster](https://github.com/nccgroup/featherduster) - Analysis tool for discovering flaws in cryptography.
   * [rsatool](https://github.com/ius/rsatool) - Tool for calculating RSA and RSA-CRT parameters.
@@ -752,7 +803,8 @@ If you're new to InfoSec and are looking for a concentrated list of reasources t
   * [HexEdit.js](https://hexed.it) - Browser-based hex editing.
   * [Hexinator](https://hexinator.com/) - World's finest (proprietary, commercial) Hex Editor.
   * [Frhed](http://frhed.sourceforge.net/) - Binary file editor for Windows.
-
+  * [Cheat Engine](https://www.cheatengine.org/) - Memory debugger and hex editor for running applications.
+  
 #### File Format Analysis Tools
   * [Kaitai Struct](http://kaitai.io/) - File formats and network protocols dissection language and web IDE, generating parsers in C++, C#, Java, JavaScript, Perl, PHP, Python, Ruby.
   * [Veles](https://codisec.com/veles/) - Binary data visualization and analysis tool.
@@ -780,6 +832,7 @@ If you're new to InfoSec and are looking for a concentrated list of reasources t
   * [Rar Crack](http://rarcrack.sourceforge.net) - RAR bruteforce cracker.
 
 #### Windows Utilities
+  * [Mimikatz](http://blog.gentilkiwi.com/mimikatz) - Credentials extraction tool for Windows operating system.
   * [Sysinternals Suite](https://technet.microsoft.com/en-us/sysinternals/bb842062) - The Sysinternals Troubleshooting Utilities.
   * [PowerSploit](https://github.com/PowerShellMafia/PowerSploit) - PowerShell Post-Exploitation Framework.
   * [Headstart](https://github.com/GoVanguard/script-win-privescalate-headstart) - Lazy man's Windows privilege escalation tool utilizing PowerSploit.
@@ -788,7 +841,7 @@ If you're new to InfoSec and are looking for a concentrated list of reasources t
   * [Bloodhound](https://github.com/adaptivethreat/Bloodhound/wiki) - Graphical Active Directory trust relationship explorer.
   * [Empire](https://www.powershellempire.com/) - Pure PowerShell post-exploitation agent.
   * [Fibratus](https://github.com/rabbitstack/fibratus) - Tool for exploration and tracing of the Windows kernel.
-  * [redsnarf](https://github.com/nccgroup/redsnarf) - Post-exploitation tool for retrieving password hashes and credentials from Windows workstations, servers, and domain controllers.
+  * [Redsnarf](https://github.com/nccgroup/redsnarf) - Post-exploitation tool for retrieving password hashes and credentials from Windows workstations, servers, and domain controllers.
   * [Magic Unicorn](https://github.com/trustedsec/unicorn) - Shellcode generator for numerous attack vectors, including Microsoft Office macros, PowerShell, HTML applications (HTA), or `certutil` (using fake certificates).
   * [DeathStar](https://github.com/byt3bl33d3r/DeathStar) - Python script that uses Empire's RESTful API to automate gaining Domain Admin rights in Active Directory environments.
   * [PSKernel-Primitives](https://github.com/FuzzySecurity/PSKernel-Primitives/) - Exploiting primitives for PowerShell.
@@ -808,10 +861,21 @@ If you're new to InfoSec and are looking for a concentrated list of reasources t
   * [Linus](https://cisofy.com/lynis/) - Security auditing tool for Linux and macOS.
 
 #### Social Engineering Tools
-  * [GoVanguard/list-socialengineering-resources](https://github.com/GoVanguard/list-socialengineering-resources#social-engineering-tools) - GoVanguard's list of social engineering resources.
+  * [SET](https://github.com/trustedsec/social-engineer-toolkit) - The Social-Engineer Toolkit from TrustedSec
+  * [Gophish](https://getgophish.com/) - Open-Source Phishing Framework
+  * [King Phisher](https://github.com/securestate/king-phisher) - Phishing campaign toolkit used for creating and managing multiple simultaneous phishing attacks with custom email and server content.
+  * [wifiphisher](https://github.com/sophron/wifiphisher) - Automated phishing attacks against Wi-Fi networks
+  * [PhishingFrenzy](https://www.phishingfrenzy.com/) - Phishing Frenzy is an Open Source Ruby on Rails application that is leveraged by penetration testers to manage email phishing campaigns.
+  * [Evilginx](https://github.com/kgretzky/evilginx) - MITM attack framework used for phishing credentials and session cookies from any Web service
+  * [Lucy Phishing Server](https://www.lucysecurity.com/) - (commercial) tool to perform security awareness trainings for employees including custom phishing campaigns, malware attacks etc. Includes many useful attack templates as well as training materials to raise security awareness.
+  * [Catphish](https://github.com/ring0lab/catphish) - Tool for phishing and corporate espionage written in Ruby.
+  * [Beelogger](https://github.com/4w4k3/BeeLogger) - Tool for generating keylooger.
 
 #### OSINT Tools
+  * [OSINT Framework](http://osintframework.com/)
+  * [NetBootcamp OSINT Tools](http://netbootcamp.org/osinttools/)
   * [Shodan](https://www.shodan.io/) - World's first search engine for Internet-connected devices.
+  * [pyShodan](https://github.com/GoVanguard/pyShodan) - Python 3 script for interacting with Shodan API (requires valid API key).
   * [Maltego](http://www.paterva.com/web7/) - Proprietary software for open source intelligence and forensics, from Paterva.
   * [Alienvault Open Threat Exchange (OTX)](https://otx.alienvault.com/) - Live threat feed.
   * [Talos Intelligence](https://talosintelligence.com/) - Live threat feed.
@@ -835,24 +899,24 @@ If you're new to InfoSec and are looking for a concentrated list of reasources t
   * [Robtex](https://www.robtex.com/) - Domain and IP address lookup.
   * [theHarvester](https://github.com/laramies/theHarvester) - E-mail, subdomain and people names harvester.
   * [DNSDumpster](https://dnsdumpster.com/) - Online DNS recon and search service.
-  * [dnsenum](https://github.com/fwaeytens/dnsenum/) - Perl script that enumerates DNS information from a domain, attempts zone transfers, performs a brute force dictionary style attack, and then performs reverse look-ups on the results.
-  * [dnsmap](https://github.com/makefu/dnsmap/) - Passive DNS network mapper.
-  * [dnsrecon](https://github.com/darkoperator/dnsrecon/) - DNS enumeration script.
-  * [dnstracer](http://www.mavetju.org/unix/dnstracer.php) - Determines where a given DNS server gets its information from, and follows the chain of DNS servers.
-  * [passivedns-client](https://github.com/chrislee35/passivedns-client) - Library and query tool for querying several passive DNS providers.
-  * [passivedns](https://github.com/gamelinux/passivedns) - Network sniffer that logs all DNS server replies for use in a passive DNS setup.
-  * [creepy](https://github.com/ilektrojohn/creepy) - Geolocation OSINT tool.
+  * [Dnsenum](https://github.com/fwaeytens/dnsenum/) - Perl script that enumerates DNS information from a domain, attempts zone transfers, performs a brute force dictionary style attack, and then performs reverse look-ups on the results.
+  * [Dnsmap](https://github.com/makefu/dnsmap/) - Passive DNS network mapper.
+  * [Dnsrecon](https://github.com/darkoperator/dnsrecon/) - DNS enumeration script.
+  * [Dnstracer](http://www.mavetju.org/unix/dnstracer.php) - Determines where a given DNS server gets its information from, and follows the chain of DNS servers.
+  * [Passivedns-client](https://github.com/chrislee35/passivedns-client) - Library and query tool for querying several passive DNS providers.
+  * [Passivedns](https://github.com/gamelinux/passivedns) - Network sniffer that logs all DNS server replies for use in a passive DNS setup.
+  * [Creepy](https://github.com/ilektrojohn/creepy) - Geolocation OSINT tool.
   * [Google Hacking Database](https://www.exploit-db.com/google-hacking-database/) - Database of Google dorks; can be used for recon.
   * [GooDork](https://github.com/k3170makan/GooDork) - Command line Google dorking tool.
-  * [dork-cli](https://github.com/jgor/dork-cli) - Command line Google dork tool.
+  * [Dork-cli](https://github.com/jgor/dork-cli) - Command line Google dork tool.
   * [Censys](https://www.censys.io/) - Collects data on hosts and websites through daily ZMap and ZGrab scans.
-  * [recon-ng](https://bitbucket.org/LaNMaSteR53/recon-ng) - Full-featured Web Reconnaissance framework written in Python.
-  * [github-dorks](https://github.com/techgaun/github-dorks) - CLI tool to scan github repos/organizations for potential sensitive information leak.
-  * [vcsmap](https://github.com/melvinsh/vcsmap) - Plugin-based tool to scan public version control systems for sensitive information.
+  * [Recon-ng](https://bitbucket.org/LaNMaSteR53/recon-ng) - Full-featured Web Reconnaissance framework written in Python.
+  * [Github-dorks](https://github.com/techgaun/github-dorks) - CLI tool to scan github repos/organizations for potential sensitive information leak.
+  * [Vcsmap](https://github.com/melvinsh/vcsmap) - Plugin-based tool to scan public version control systems for sensitive information.
   * [Spiderfoot](http://www.spiderfoot.net/) - Open source OSINT automation tool with a Web UI and report visualizations
   * [Threat Crowd](https://www.threatcrowd.org/) - Search engine for threats.
   * [PacketTotal](https://packettotal.com/) - Simple, free, high-quality packet capture file analysis facilitating the quick detection of network-borne malware (using Bro and Suricata IDS signatures under the hood).
-  * [gOSINT](https://github.com/Nhoya/gOSINT) - OSINT tool with multiple modules and a telegram scraper.
+  * [GOSINT](https://github.com/Nhoya/gOSINT) - OSINT tool with multiple modules and a telegram scraper.
   * [Amass](https://github.com/OWASP/Amass) - Subdomain enumeration via scraping, web archives, brute forcing, permutations, reverse DNS sweeping, TLS certificates, passive DNS data sources, etc.
   * [XRay](https://github.com/evilsocket/xray) - XRay is a tool for recon, mapping and OSINT gathering from public networks.
   * [Intel Techniques Online Tools](https://inteltechniques.com/menu.html) - Use the links to the left to access all of the custom search tools.
@@ -1019,6 +1083,14 @@ If you're new to InfoSec and are looking for a concentrated list of reasources t
   * [Suricata](https://suricata-ids.org/) - Open source NIPS/NIDS.
   * [SSHWATCH](https://github.com/marshyski/sshwatch) - SSH IPS.
   * [Elastic Stack](https://www.elastic.co/products) - Also known as the ELK stack, the combination of Elasticsearch, Logstash, and Kibana, for monitoring and logging.
+  
+#### Physical Tools
+  * [LAN Turtle](https://lanturtle.com/) - Covert "USB Ethernet Adapter" that provides remote access, network intelligence gathering, and MITM capabilities when installed in a local network.
+  * [USB Rubber Ducky](http://usbrubberducky.com/) - Customizable keystroke injection attack platform masquerading as a USB thumbdrive.
+  * [Poisontap](https://samy.pl/poisontap/) - Siphons cookies, exposes internal (LAN-side) router and installs web backdoor on locked computers.
+  * [WiFi Pineapple](https://www.wifipineapple.com/) - Wireless auditing and penetration testing platform.
+  * [Proxmark3](https://proxmark3.com/) - RFID/NFC cloning, replay, and spoofing toolkit often used for analyzing and attacking proximity cards/readers, wireless keys/keyfobs, and more.
+  * [PCILeech](https://github.com/ufrisk/pcileech) - Uses PCIe hardware devices to read and write from the target system memory via Direct Memory Access (DMA) over PCIe.
 
 #### Other
   * [Kayak Car Hacking Tool](https://github.com/ParrotSec/car-hacking-tools) - Tool for Kayak car hacking.
@@ -1026,7 +1098,7 @@ If you're new to InfoSec and are looking for a concentrated list of reasources t
   * [Shellen](https://github.com/merrychap/shellen) - Interactive shellcoding environment.
   * [Netzob](https://github.com/netzob/netzob/) - Multipurpose tool for reverse engineering, modeling, and fuzzing communciation protocols.
   * [Sulley](https://github.com/OpenRCE/sulley/) - Fuzzing engine and framework.
-  * [Zulu](https://github.com/nccgroup/Zulu/) - Interactive fuzzer
+  * [Zulu](https://github.com/nccgroup/Zulu/) - Interactive fuzzer.
   * [honggfuzz](https://github.com/google/honggfuzz/) - Security orientated fuzzing tool.
   * [radamsa](https://gitlab.com/akihe/radamsa) - General purpose fuzzing tool.
   * [fuzzbox](https://github.com/iSECPartners/fuzzbox/) - Multi-codec media fuzzing tool.
@@ -1034,24 +1106,24 @@ If you're new to InfoSec and are looking for a concentrated list of reasources t
   * [BruteX Wordlists](https://github.com/coreb1t/BruteX/tree/master/wordlists) - Wordlist repo.
   * [Google Hacking Master List](https://gist.github.com/cmartinbaughman/5877945)
   * [Cortex](https://thehive-project.org) - Cortex allows you to analyze observables such as IP and email addresses, URLs, domain names, files or hashes one by one or in bulk mode using a Web interface. Analysts can also automate these operations using its REST API.
-  * [Crits](https://crits.github.io/) - a web-based tool which combines an analytic engine with a cyber threat database 
+  * [Crits](https://crits.github.io/) - a web-based tool which combines an analytic engine with a cyber threat database .
   * [Diffy](https://github.com/Netflix-Skunkworks/diffy) - a DFIR tool developed by Netflix's SIRT that allows an investigator to quickly scope a compromise across cloud instances (Linux instances on AWS, currently) during an incident and efficiently triaging those instances for followup actions by showing differences against a baseline. 
-  * [domfind](https://github.com/diogo-fernan/domfind) - domfind  * [is a Python DNS crawler for finding identical domain names under different TLDs.
-  * [Fenrir](https://github.com/Neo23x0/Fenrir) - Fenrir is a simple IOC scanner. It allows scanning any Linux/Unix/OSX system for IOCs in plain bash. Created by the creators of THOR and LOKI
-  * [Fileintel](https://github.com/keithjjones/fileintel) - Pull intelligence per file hash
-  * [HELK](https://github.com/Cyb3rWard0g/HELK) - Threat Hunting platform
-  * [Hindsight](https://github.com/obsidianforensics/hindsight) - Internet history forensics for Google Chrome/Chromium
-  * [Hostintel](https://github.com/keithjjones/hostintel) - Pull intelligence per host
-  * [imagemounter](https://github.com/ralphje/imagemounter) - Command line utility and Python package to ease the (un)mounting of forensic disk images
-  * [Kansa](https://github.com/davehull/Kansa/) - Kansa is a modular incident response framework in Powershell
-  * [rastrea2r](https://github.com/aboutsecurity/rastrea2r) - allows one to scan disks and memory for IOCs using YARA on Windows, Linux and OS X
-  * [RaQet](https://raqet.github.io/) - RaQet is an unconventional remote acquisition and triaging tool that allows triage a disk of a remote computer (client) that is restarted with a purposely built forensic operating system
-  * [Stalk](https://www.percona.com/doc/percona-toolkit/2.2/pt-stalk.html) - Collect forensic data about MySQL when problems occur
-  * [SearchGiant](https://github.com/jadacyrus/searchgiant_cli) - a commandline utility to acquire forensic data from cloud services
-  * [Stenographer](https://github.com/google/stenographer) - Stenographer is a packet capture solution which aims to quickly spool all packets to disk, then provide simple, fast access to subsets of those packets. It stores as much history as it possible, managing disk usage, and deleting when disk limits are hit. It's ideal for capturing the traffic just before and during an incident, without the need explicit need to store all of the network traffic
+  * [domfind](https://github.com/diogo-fernan/domfind) - domfind is a Python DNS crawler for finding identical domain names under different TLDs.
+  * [Fenrir](https://github.com/Neo23x0/Fenrir) - Fenrir is a simple IOC scanner. It allows scanning any Linux/Unix/OSX system for IOCs in plain bash. Created by the creators of THOR and LOKI.
+  * [Fileintel](https://github.com/keithjjones/fileintel) - Pull intelligence per file hash.
+  * [HELK](https://github.com/Cyb3rWard0g/HELK) - Threat Hunting platform.
+  * [Hindsight](https://github.com/obsidianforensics/hindsight) - Internet history forensics for Google Chrome/Chromium.
+  * [Hostintel](https://github.com/keithjjones/hostintel) - Pull intelligence per host.
+  * [imagemounter](https://github.com/ralphje/imagemounter) - Command line utility and Python package to ease the (un)mounting of forensic disk images.
+  * [Kansa](https://github.com/davehull/Kansa/) - Kansa is a modular incident response framework in Powershell.
+  * [rastrea2r](https://github.com/aboutsecurity/rastrea2r) - allows one to scan disks and memory for IOCs using YARA on Windows, Linux and OS X.
+  * [RaQet](https://raqet.github.io/) - RaQet is an unconventional remote acquisition and triaging tool that allows triage a disk of a remote computer (client) that is restarted with a purposely built forensic operating system.
+  * [Stalk](https://www.percona.com/doc/percona-toolkit/2.2/pt-stalk.html) - Collect forensic data about MySQL when problems occur.
+  * [SearchGiant](https://github.com/jadacyrus/searchgiant_cli) - a commandline utility to acquire forensic data from cloud services.
+  * [Stenographer](https://github.com/google/stenographer) - Stenographer is a packet capture solution which aims to quickly spool all packets to disk, then provide simple, fast access to subsets of those packets. It stores as much history as it possible, managing disk usage, and deleting when disk limits are hit. It's ideal for capturing the traffic just before and during an incident, without the need explicit need to store all of the network traffic.
   * [sqhunter](https://github.com/0x4d31/sqhunter) - a threat hunter based on osquery and Salt Open (SaltStack) that can issue ad-hoc or distributed queries without the need for osquery's tls plugin. sqhunter allows you to query open network sockets and check them against threat intelligence sources. 
-  * [traceroute-circl](https://github.com/CIRCL/traceroute-circl) - traceroute-circl is an extended traceroute to support the activities of CSIRT (or CERT) operators. Usually CSIRT team have to handle incidents based on IP addresses received. Created by Computer Emergency Responce Center Luxembourg
-  * [X-Ray 2.0](https://www.raymond.cc/blog/xray/) - A Windows utility (poorly maintained or no longer maintained) to submit virus samples to AV vendors
+  * [traceroute-circl](https://github.com/CIRCL/traceroute-circl) - traceroute-circl is an extended traceroute to support the activities of CSIRT (or CERT) operators. Usually CSIRT team have to handle incidents based on IP addresses received. Created by Computer Emergency Responce Center Luxembourg.
+  * [X-Ray 2.0](https://www.raymond.cc/blog/xray/) - A Windows utility (poorly maintained or no longer maintained) to submit virus samples to AV vendors.
 
 
 ### Our Reports
@@ -1060,4 +1132,10 @@ If you're new to InfoSec and are looking for a concentrated list of reasources t
   
 ### Our Open Source Tools
   * [Legion](https://github.com/GoVanguard/legion) - Legion is an open source, easy-to-use, super-extensible and semi-automated network penetration testing tool that aids in discovery, reconnaissance and exploitation of information systems.
-  * [Spearhead](https://github.com/GoVanguard/defectDojoWhiteLabel) - Private repo containing just the whitelabel components for defectDojo, also called Spearhead
+  * [Spearhead](https://github.com/GoVanguard/defectDojoWhiteLabel) - Private repo containing just the whitelabel components for defectDojo, also known as Spearhead.
+  
+### License
+
+[![CC-BY](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by.svg)](https://creativecommons.org/licenses/by/4.0/)
+
+This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
