@@ -516,7 +516,7 @@ If you're new to InfoSec and are looking for a concentrated list of reasources t
   * [Starting Up Security](https://scrty.io/) - A collection of information security essays and links to help growing teams manage risks.
 
 #### Knowledge Bases
-  * [MITRE ATT&CK](https://attack.mitre.org/tactics/enterprise/) - This is a globally-accessible knowledge base of adversary tactics and techniques based on real-world observations and is used as a foundation for methodologies in the private sector, in government, and in the cybersecurity community.
+  * [MITRE ATT&CK](https://attack.mitre.org/tactics/enterprise/)
   * [Exploit-db](http://www.exploit-db.com/)
   * [Cvedetails](http://www.cvedetails.com/)
   * [Packetstormsecurity](http://packetstormsecurity.com/)
@@ -526,7 +526,7 @@ If you're new to InfoSec and are looking for a concentrated list of reasources t
   * [Jetlib](http://sec.jetlib.com/)
   * [0day](http://0day.today/)
   * [Seebug](https://www.seebug.org/)
-  * [Rapid7=](https://www.rapid7.com/db/)
+  * [Rapid7](https://www.rapid7.com/db/)
   * [Zerodayinitiative](http://zerodayinitiative.com/advisories/published/)
   * [Exploitsearch](http://exploitsearch.net/)
   * [Nvd.nist.gov](http://nvd.nist.gov/download/nvd-rss-analyzed.xml)
@@ -534,7 +534,7 @@ If you're new to InfoSec and are looking for a concentrated list of reasources t
   * [Wpvulndb.com/](https://wpvulndb.com/)
   * [Wordpressexploit](http://www.wordpressexploit.com/)
   * [Drupalexploit](http://www.drupalexploit.com/)
-  * [Openwall](http://www.openwall.com/lists/oss-security/
+  * [Openwall](http://www.openwall.com/lists/oss-security/)
   * [Exploitsearch](http://exploitsearch.net)
   * [Vulnerability-lab](https://www.vulnerability-lab.com)
 
