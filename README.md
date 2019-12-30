@@ -29,7 +29,6 @@ If you're new to InfoSec and are looking for a concentrated list of reasources t
 - [OSINT Tools Used](#osint-tools-used)
   * [General OSINT Tools](#general-osint-tools)
   * [National Search Engines](#national-search-engines)
-  * [People Search Websites](#people-search-websites)
   * [Meta Search](#meta-search)
   * [Visual Search and Clustering Search Engines](#visual-search-and-clustering-search-engines)
   * [Similar Sites Search](#similar-sites-search)
@@ -47,7 +46,7 @@ If you're new to InfoSec and are looking for a concentrated list of reasources t
   * [Blog Search](#blog-search)
   * [Forums and Discussion Boards Search](#forums-and-discussion-boards-search)
   * [Username Check](#username-check)
-  * [People Investigations](#people-investigations)
+  * [Personel Investigations](#personel-investigations)
   * [E-mail Search / E-mail Check](#e-mail-search--e-mail-check)
   * [Phone Number Research](#phone-number-research)
   * [Company Research](#company-research)
@@ -675,16 +674,6 @@ If you're new to InfoSec and are looking for a concentrated list of reasources t
   * [Search.ch (Switzerland)](http://www.search.ch)
   * [Walla (Israel)](http://www.walla.co.il)
   * [Yandex (Russia)](http://www.yandex.com)
-
-#### People Search Websites
-  * [Yandex](https://yandex.com/) - Russian Google.
-  * [Locate Family](https://www.locatefamily.com/) - Basicly a worldwide phonebook that can be manually searched. This site shows up as results on google.com so searches based on name, address, or phone number.
-  * [Go Find Who](https://gofindwho.com/) - Multiple handy search tools.
-  * [Sowdust Facebook Search](https://sowdust.github.io/fb-search/) - Facebook search tool.
-  * [Been Verified](https://www.beenverified.com/) - Good accuracy, paid person search.
-  * [That's Them](https://thatsthem.com/) - Good accuracy, paid person search.
-  * [We Weak Info](https://weleakinfo.com/) - Paid people search with results based on leaked info from security incidents.
-  * [My Life](https://www.mylife.com/) - Paid people search with lots of results.
   
 #### Meta Search
   *Lesser known and used search engines.*
@@ -906,7 +895,14 @@ If you're new to InfoSec and are looking for a concentrated list of reasources t
   * [User Search](http://www.usersearch.org)
   * [Linkedin2Username](https://gitlab.com/initstring/linkedin2username) - Web scraper that uses valid LinkedIn credentials to put together a list of employees for a specified company.
 
-#### People Investigations
+#### Personel Investigations
+  * [Locate Family](https://www.locatefamily.com/) - Basicly a worldwide phonebook that can be manually searched. This site shows up as results on google.com so searches based on name, address, or phone number.
+  * [Go Find Who](https://gofindwho.com/) - Multiple handy search tools.
+  * [Sowdust Facebook Search](https://sowdust.github.io/fb-search/) - Facebook search tool.
+  * [Been Verified](https://www.beenverified.com/) - Good accuracy, paid person search.
+  * [That's Them](https://thatsthem.com/) - Good accuracy, paid person search.
+  * [We Weak Info](https://weleakinfo.com/) - Paid people search with results based on leaked info from security incidents.
+  * [My Life](https://www.mylife.com/) - Paid people search with lots of results.
   * [411 (US)](http://www.411.com)
   * [192 (UK)](http://www.192.com)
   * [Alumni.net](http://www.alumni.net)
