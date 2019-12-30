@@ -67,7 +67,6 @@ If you're new to InfoSec and are looking for a concentrated list of reasources t
   * [Social Network Analysis](#social-network-analysis)
   * [DNS Search And Enumeration](#dns-search-and-enumeration)
   * [Network Reconnaissance Tools](#network-reconnaissance-tools)
-  * [Other Tools](#other-tools)
   
 - [Exploitation Enumeration And Data Recovery Tools](#exploitation-enumeration-and-data-recovery-tools)
   * [Penetration Testing OS Distributions](#penetration-testing-os-distributions)
@@ -595,6 +594,9 @@ If you're new to InfoSec and are looking for a concentrated list of reasources t
   * [Openwall](http://www.openwall.com/lists/oss-security/)
   * [Exploitsearch](http://exploitsearch.net)
   * [Vulnerability-lab](https://www.vulnerability-lab.com)
+  * [Alienvault Open Threat Exchange (OTX)](https://otx.alienvault.com/) - Live threat feed.
+  * [Talos Intelligence](https://talosintelligence.com/) - Live threat feed.
+  * [Cymon](https://cymon.io/) - Threat intelligence feed.
 
 ### OSINT Tools Used
 
@@ -602,9 +604,6 @@ If you're new to InfoSec and are looking for a concentrated list of reasources t
   * [OSINT Framework](http://osintframework.com/)
   * [NetBootcamp OSINT Tools](http://netbootcamp.org/osinttools/)
   * [Maltego](http://www.paterva.com/web7/) - Proprietary software for open source intelligence and forensics, from Paterva.
-  * [Alienvault Open Threat Exchange (OTX)](https://otx.alienvault.com/) - Live threat feed.
-  * [Talos Intelligence](https://talosintelligence.com/) - Live threat feed.
-  * [Cymon](https://cymon.io/) - Threat intelligence feed.
   * [Combine](https://github.com/mlsecproject/combine) - Open source threat intelligence feed gathering tool.
   * [ThreatCrowd](https://www.threatcrowd.org/) - Threat search engine.
   * [AbuseIPDB](https://www.abuseipdb.com/) - Search engine for blacklisted IPs or domains.
@@ -617,13 +616,10 @@ If you're new to InfoSec and are looking for a concentrated list of reasources t
   * [malc0de DNSSinkhole](http://malc0de.com/bl/) - List of domains that have been identified as distributing malware during the past 30 days.
   * [Malware Domain List](http://www.malwaredomainlist.com/) - Search and share malicious URLs.
   * [Machinae](https://github.com/hurricanelabs/machinae) - Multipurpose OSINT tool using threat intelligence feeds.
-  * [Mxtoolbox](https://mxtoolbox.com/) - Email domain and DNS lookup.
   * [BadIPs](https://www.badips.com/) - Online blacklist lookup.
   * [Spamhaus](https://www.spamhaus.org/lookup/) - Online blacklist lookup.
   * [Spamcop](https://www.spamcop.net/bl.shtml) - IP based blacklist.
-  * [Robtex](https://www.robtex.com/) - Domain and IP address lookup.
   * [theHarvester](https://github.com/laramies/theHarvester) - E-mail, subdomain and people names harvester.
-  * [DNSDumpster](https://dnsdumpster.com/) - Online DNS recon and search service.
   * [Dnsenum](https://github.com/fwaeytens/dnsenum/) - Perl script that enumerates DNS information from a domain, attempts zone transfers, performs a brute force dictionary style attack, and then performs reverse look-ups on the results.
   * [Dnsmap](https://github.com/makefu/dnsmap/) - Passive DNS network mapper.
   * [Dnsrecon](https://github.com/darkoperator/dnsrecon/) - DNS enumeration script.
@@ -639,16 +635,29 @@ If you're new to InfoSec and are looking for a concentrated list of reasources t
   * [Github-dorks](https://github.com/techgaun/github-dorks) - CLI tool to scan github repos/organizations for potential sensitive information leak.
   * [Vcsmap](https://github.com/melvinsh/vcsmap) - Plugin-based tool to scan public version control systems for sensitive information.
   * [Spiderfoot](http://www.spiderfoot.net/) - Open source OSINT automation tool with a Web UI and report visualizations
-  * [PacketTotal](https://packettotal.com/) - Simple, free, high-quality packet capture file analysis facilitating the quick detection of network-borne malware (using Bro and Suricata IDS signatures under the hood).
   * [GOSINT](https://github.com/Nhoya/gOSINT) - OSINT tool with multiple modules and a telegram scraper.
-  * [Amass](https://github.com/OWASP/Amass) - Subdomain enumeration via scraping, web archives, brute forcing, permutations, reverse DNS sweeping, TLS certificates, passive DNS data sources, etc.
   * [XRay](https://github.com/evilsocket/xray) - XRay is a tool for recon, mapping and OSINT gathering from public networks.
   * [Intel Techniques Online Tools](https://inteltechniques.com/menu.html) - Use the links to the left to access all of the custom search tools.
   * [FindFrontableDomains](https://github.com/rvrsh3ll/FindFrontableDomains) - Multithreaded tool for finding frontable domains.
   * [CloudFrunt](https://github.com/MindPointGroup/cloudfrunt) - Tool for identifying misconfigured CloudFront domains.
-  * [Linkedin2Username](https://gitlab.com/initstring/linkedin2username) - Web scraper that uses valid LinkedIn credentials to put together a list of employees for a specified company.
   * [Raven](https://github.com/0x09AL/raven) - LinkedIn information gathering tool.
   * [InfoByIp](https://www.infobyip.com/ipbulklookup.php) - Domain and IP bulk lookup tool.
+  * [Barcode Reader](http://online-barcode-reader.inliteresearch.com) - Decode barcodes in C#, VB, Java, C\C++, Delphi, PHP and other languages.
+  * [Belati](https://github.com/aancw/Belati) - The Traditional Swiss Army Knife For OSINT. Belati is tool for Collecting Public Data & Public Document from Website and other service for OSINT purpose.
+  * [Datasploit](https://github.com/DataSploit/datasploit) - Tool to perform various OSINT techniques on usernames, emails addresses, and domains.
+  * [Greynoise](https://greynoise.io/) - "Anti-Threat Intelligence" Greynoise characterizes the background noise of the internet, so the user can focus on what is actually important.
+  * [pygreynoise](https://github.com/GreyNoise-Intelligence/pygreynoise) - Greynoise Python Library
+  * [Intrigue Core](https://github.com/intrigueio/intrigue-core) - Framework for attack surface discovery.
+  * [OpenRefine](https://github.com/OpenRefine) - Free & open source power tool for working with messy data and improving it.
+  * [Orbit](https://github.com/s0md3v/Orbit) - Draws relationships between crypto wallets with recursive crawling of transaction history.
+  * [OsintStalker](https://github.com/milo2012/osintstalker) - Python script for Facebook and geolocation OSINT.
+  * [Outwit](http://www.outwit.com) - Find, grab and organize all kinds of data and media from online sources.
+  * [Photon](https://github.com/s0md3v/Photon) - Crawler designed for OSINT
+  * [Pown Recon](https://github.com/pownjs/pown-recon) - Target reconnaissance framework powered by graph theory.
+  * [QuickCode](https://quickcode.io/) - Python and R data analysis environment.
+  * [SecApps Recon](https://secapps.com/market/recon) - Information gathering and target reconnaissance tool and UI.
+  * [sn0int](https://github.com/kpcyrd/sn0int) - Semi-automatic OSINT framework and package manager.
+  * [Zen](https://github.com/s0md3v/Zen) - Find email addresses of Github users
   
 #### National Search Engines
   *Localized search engines by country.*
@@ -895,6 +904,7 @@ If you're new to InfoSec and are looking for a concentrated list of reasources t
   * [Name Checkr](http://www.namecheckr.com)    
   * [Name Checkup](https://namecheckup.com)
   * [User Search](http://www.usersearch.org)
+  * [Linkedin2Username](https://gitlab.com/initstring/linkedin2username) - Web scraper that uses valid LinkedIn credentials to put together a list of employees for a specified company.
 
 #### People Investigations
   * [411 (US)](http://www.411.com)
@@ -1235,27 +1245,10 @@ If you're new to InfoSec and are looking for a concentrated list of reasources t
   * [pyShodan](https://github.com/GoVanguard/pyShodan) - Python 3 script for interacting with Shodan API (requires valid API key).
   * [ldapsearch](https://linux.die.net/man/1/ldapsearch) - Linux command line utility for querying LDAP servers.
   * [BuiltWith](https://builtwith.com/) - Technology lookup tool for websites.
-
-#### Other Tools
-  * [Barcode Reader](http://online-barcode-reader.inliteresearch.com) - Decode barcodes in C#, VB, Java, C\C++, Delphi, PHP and other languages.
-  * [Belati](https://github.com/aancw/Belati) - Belati  * The Traditional Swiss Army Knife For OSINT. Belati is tool for Collecting Public Data & Public Document from Website and other service for OSINT purpose.
-  * [Datasploit](https://github.com/DataSploit/datasploit) - Tool to perform various OSINT techniques on usernames, emails addresses, and domains.
-  * [Greynoise](https://greynoise.io/) - "Anti-Threat Intelligence" Greynoise characterizes the background noise of the internet, so the user can focus on what is actually important.  * [pygreynoise](https://github.com/GreyNoise-Intelligence/pygreynoise) - Greynoise Python Library
-  * [The Harvester](https://github.com/laramies/theHarvester) - Gather emails, subdomains, hosts, employee names, open ports and banners from different public sources like search engines, PGP key servers and SHODAN computer database.
-  * [Intrigue Core](https://github.com/intrigueio/intrigue-core) - Framework for attack surface discovery.
-  * [OpenRefine](https://github.com/OpenRefine) - Free & open source power tool for working with messy data and improving it.
-  * [Orbit](https://github.com/s0md3v/Orbit) - Draws relationships between crypto wallets with recursive crawling of transaction history.
-  * [OsintStalker](https://github.com/milo2012/osintstalker) - Python script for Facebook and geolocation OSINT.
-  * [Outwit](http://www.outwit.com) - Find, grab and organize all kinds of data and media from online sources.
-  * [Photon](https://github.com/s0md3v/Photon) - Crawler designed for OSINT
-  * [Pown Recon](https://github.com/pownjs/pown-recon) - Target reconnaissance framework powered by graph theory.
-  * [QuickCode](https://quickcode.io/) - Python and R data analysis environment.
-  * [Recon-ng](https://bitbucket.org/LaNMaSteR53/recon-ng) - Full-featured Web Reconnaissance framework written in python.
-  * [SecApps Recon](https://secapps.com/market/recon) - Information gathering and target reconnaissance tool and UI.
-  * [sn0int](https://github.com/kpcyrd/sn0int) - Semi-automatic OSINT framework and package manager.
-  * [Zen](https://github.com/s0md3v/Zen) - Find email addresses of Github users
+  
 
 ### Exploitation Enumeration And Data Recovery Tools
+
 
 #### Penetration Testing OS Distributions
   * [Parrot Security OS](https://www.parrotsec.org/) - Distribution similar to Kali using the same repositories, but with additional features such as Tor and I2P integration.
@@ -1629,7 +1622,6 @@ If you're new to InfoSec and are looking for a concentrated list of reasources t
   * [Appliance for Digital Investigation and Analysis (ADIA)](https://forensics.cert.org/#ADIA) - VMware virtual appliance for digital forensics.
   * [PALADIN](https://sumuri.com/software/paladin/) - Linux distro for digital forensics.
   * [CAINE](https://www.caine-live.net/index.html) - Italian live Linux distro for digital forensics.
-  * [Maltego](http://www.paterva.com/web7/) - Proprietary software for open source intelligence and forensics, from Paterva.
   * [The Sleuth Kit](https://www.sleuthkit.org/sleuthkit/) - Collection of command line digital forensic utilities for investigating disk images, volume and file system data, and more.
   * [Autopsy](https://www.sleuthkit.org/autopsy/) - Graphical interface to The Sleuth Kit.
   * [Digital Forensics Framework (DFF)](https://tools.kali.org/forensics/dff) - Open source digital forensics framework with GUI.
@@ -1917,7 +1909,6 @@ If you're new to InfoSec and are looking for a concentrated list of reasources t
   * [Stenographer](https://github.com/google/stenographer) - Stenographer is a packet capture solution which aims to quickly spool all packets to disk, then provide simple, fast access to subsets of those packets. It stores as much history as it possible, managing disk usage, and deleting when disk limits are hit. It's ideal for capturing the traffic just before and during an incident, without the need explicit need to store all of the network traffic.
   * [sqhunter](https://github.com/0x4d31/sqhunter) - a threat hunter based on osquery and Salt Open (SaltStack) that can issue ad-hoc or distributed queries without the need for osquery's tls plugin. sqhunter allows you to query open network sockets and check them against threat intelligence sources. 
   * [traceroute-circl](https://github.com/CIRCL/traceroute-circl) - traceroute-circl is an extended traceroute to support the activities of CSIRT (or CERT) operators. Usually CSIRT team have to handle incidents based on IP addresses received. Created by Computer Emergency Responce Center Luxembourg.
-  * [X-Ray 2.0](https://www.raymond.cc/blog/xray/) - A Windows utility (poorly maintained or no longer maintained) to submit virus samples to AV vendors.
 
 
 ### Our Reports
