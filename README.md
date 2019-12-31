@@ -20,6 +20,9 @@ If you're new to InfoSec and are looking for a concentrated list of reasources t
   * [Conferences](#conferences)
   * [Online Videos](#online-vidoes)
   * [Free Online Courses](#free-online-courses)
+  * [Training Resources](#training-resources)
+  * [Hacking References And Cheatsheets](#hacking-references-and-cheatsheets)
+  * [Training And Practice Exercises](#training-and-practice-exercises)
   * [Informative Youtube Channels](#informative-youtube-channels)
   * [Illustrations and Presentations](#illustrations-and-presentations)
   * [Clearnet Exploit Databases](#clearnet-exploit-databases)
@@ -70,7 +73,6 @@ If you're new to InfoSec and are looking for a concentrated list of reasources t
 - [Exploitation Enumeration And Data Recovery Tools](#exploitation-enumeration-and-data-recovery-tools)
   * [Penetration Testing OS Distributions](#penetration-testing-os-distributions)
   * [Multi-paradigm Frameworks](#multi-paradigm-frameworks)
-  * [Training Utilities and Resources](#training-utilities-and-resources)
   * [Network Vulnerability Scanners](#network-vulnerability-scanners)
   * [Web Vulnerability Scanners](#web-vulnerability-scanners)
   * [Web Exploitation](#web-exploitation)
@@ -371,14 +373,66 @@ If you're new to InfoSec and are looking for a concentrated list of reasources t
   * [CompTIA Security+ SY0-501 Training Course By Professor Messer](https://www.youtube.com/playlist?list=PLG49S3nxzAnnVhoAaL4B6aMFDQ8_gdxAy)
   * [Complete Ethical Hacking Course by Joseph Delgadillo - 8 hour course](https://www.youtube.com/watch?v=fDeLtKUxTmM)
   * [Complete Ethical Hacking Course By HackerSploit - Part1 of 126](https://www.youtube.com/watch?v=tHd8k54kVs8&list=PLBf0hzazHTGOEuhPQSnq-Ej8jRyXxfYvl)
+  
+#### Training Resources
+  * [Awesome Web Security](https://github.com/qazbnm456/awesome-web-security) - Encyclopedia of web security information.
+  * [Awesome Hacking Resources](https://github.com/vitalysim/Awesome-Hacking-Resources) - Self-explanatory.
+  * [Corelan.be](https://www.corelan.be/index.php/articles/) - Website containing many useful training resources and tutorial. 
+  * [Introduction to Software Exploits Part 1](http://opensecuritytraining.info/Exploits1.html) - Online or in-person tutorial covering multiple areas of software exploitation.
+  * [Introduction to Software Exploits Part 2 - Exploitation in the Windows Environment](http://opensecuritytraining.info/Exploits2.html) - Online or in-person tutorial covering multiple areas of software exploitation, with emphasis on Windows exploitation.
+  * [How To: Empire's Cross Platform Office Macro](https://www.blackhillsinfosec.com/empires-cross-platform-office-macro/) - How to utilize Empire's cross-platform malicious MS Office macro.
+  * [Phishing With Empire](https://enigma0x3.net/2016/03/15/phishing-with-empire/) - Guide on phishing with Empire.
+  * [Phishing With PowerPoint](https://www.blackhillsinfosec.com/phishing-with-powerpoint/) - Guide on getting unsuspecting users to open malicious PPT files.
+  * [Executing Metasploit & Empire Payloads from MS Office Document Properties part 1](https://stealingthe.network/executing-metasploit-empire-payloads-from-ms-office-document-properties-part-1-of-2/) - How to stealthily deliver a Metasploit payload via MS Office document properties and a simple macro.
+  * [Executing Metasploit & Empire Payloads from MS Office Document Properties part 2](https://stealingthe.network/executing-metasploit-empire-payloads-from-ms-office-document-properties-part-2-of-2/) - Like part 1, but focusing on Empire rather than Metasploit.
+  * [Enigma Group](https://www.enigmagroup.org/) - Web application training resource.
+  * [OpenSecurityTraining.info](http://opensecuritytraining.info/) - Free online training resource.
+  * [PentesterLab](https://pentesterlab.com/) - Tiered online training resources.
+  * [Cybrary.it](https://www.cybrary.it/) - Free online courses.
+  * [Hacker101](https://www.hacker101.com/) - Online training resource.
+  
+#### Hacking References And Cheatsheets
+  * [XSS Cheat Sheet](https://n0p.net/penguicon/php_app_sec/mirror/xss.html)
+  * [XSS Payload Cheatsheet](https://github.com/pgaijin66/XSS-Payloads/blob/master/payload.txt)
+  * [LFI Cheat Sheet](https://highon.coffee/blog/lfi-cheat-sheet/)
+  * [Reverse Shell Cheat Sheet](https://highon.coffee/blog/reverse-shell-cheat-sheet/)
+  * [SQL Injection Cheat Sheet](https://www.netsparker.com/blog/web-security/sql-injection-cheat-sheet/)
+  * [Windows Path Traversal Cheat Sheet](https://www.gracefulsecurity.com/path-traversal-cheat-sheet-windows/)
+  * [Nmap Cheat Sheet](https://highon.coffee/blog/nmap-cheat-sheet/)
+  * [Local Linux Enumeration & Privilege Escalation Cheatsheet](https://www.rebootuser.com)
+  * [Pentest Recon And Enu Cheatsheet](https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/#recon-and-enumeration)
+  * [Metasploit Payload Cheatsheet](https://netsec.ws/?p=331)
+  * [Multiple Cheatsheets By Andrewjkerr](https://github.com/andrewjkerr/security-cheatsheets)
+  
+#### Training And Practice Exercises
+  * [OWASP security knowledge framework](https://owasp-skf.gitbook.io/asvs-write-ups/) - OWASP security knowledge framework labs exercises complete with write-ups.
+  * [Hacker101 CTF](https://ctf.hacker101.com/) - Webapp CTF style exercises.
+  * [XSS Exercises](https://xss-game.appspot.com/) - Webapp Cross-site scripting (XSS) bug hunting exercises.
+  * [Rapid7 Metsploitable](https://information.rapid7.com/download-metasploitable-2017.html?LS=1631875&CS=web) - Metasploitable is essentially a penetration testing lab in a box, available as a VMware virtual machine (VMX).
+  * [Mutillidae](https://www.irongeek.com/i.php?page=mutillidae/mutillidae-deliberately-vulnerable-php-owasp-top-10) - Mutillidae is a free, open source web application provided to allow you to hack a web application. Can be installed on Linux, Windows XP, Windows 7 and windows 10 using XAMMP.
+  * [OWASP WebGoat](https://www2.owasp.org/www-project-webgoat/) - WebGoat is an insecure application that allows the testing of vulnerabilities commonly found in Java-based applications that use common and popular open source components.
+  * [Gruyere](https://google-gruyere.appspot.com/) - Gruyere is a web application that has multiple security bugs ranging from cross-site scripting and cross-site request forgery, to information disclosure, denial of service, and remote code execution.
+  * [Damn Vulnerable Web Application (DVWA)](http://www.dvwa.co.uk/) - Purposely vulnerable PHP/MySQL web application.
+  * [OWASP Damn Vulnerable Web Sockets (DVWS)](https://github.com/interference-security/DVWS/) - Vulnerable web application which works on web sockets for client-server communication.
+  * [OWASP NodeGoat](https://github.com/OWASP/NodeGoat/) - Includes Node.js web applications for learning the OWASP top 10.
+  * [OWASP SecurityShepard](https://github.com/OWASP/SecurityShepherd/) - Web and mobile application security training platform.
+  * [OWASP Juice Shop](https://github.com/bkimminich/juice-shop/) - JavaScript based intentionally insecure web application.
+  * [CPTE Courseware Kit](https://mile2.com/mile2-online-estore/courseware-kits/c-pte-certified-penetration-testing-engineer-courseware-kit-shop.html) - Paid Official training kit for CPTE exam.
+  * [OSCP-like Vulnhub VMs](https://www.abatchy.com/2017/02/oscp-like-vulnhub-vms) - Intentionally vulnerable VMs resembling OSCP.
+  * [Over the Wire: Natas](http://overthewire.org/wargames/natas/) - Web application challenges.
+  * [Hack the Box](https://www.hackthebox.eu/) - Online pentesting labs with Windows VMs.
+  * [Hack This Site](https://www.hackthissite.org/) - Web application security exercises.
+  * [RopeyTasks](https://github.com/continuumsecurity/RopeyTasks/) - Simple deliberately vulnerable web application.
+  * [WebGoat](https://github.com/WebGoat/WebGoat/) - Intentionally insecure web application maintained by OWASP.
+  * [Railsgoat](https://github.com/OWASP/railsgoat) - A vulnerable version of Rails that follows the OWASP Top 10.
 
 #### Informative Youtube Channels
-  * [Motasem Hamdan](https://www.youtube.com/channel/UCNSdU_1ehXtGclimTVckHmQ/videos)
-  * [Loi Liang Yang](https://www.youtube.com/channel/UC1szFCBUWXY3ESff8dJjjzw/videos)
-  * [Null Byte](https://www.youtube.com/channel/UCgTNupxATBfWmfehv21ym-g)
-  * [Computerphile](https://www.youtube.com/user/Computerphile/videos?view=0&sort=p&shelf_id=2)
-  * [Thenewboston](https://www.youtube.com/user/thenewboston/playlists)
-  * [Hak5](https://www.youtube.com/user/Hak5Darren/featured)
+  * [Motasem Hamdan](https://www.youtube.com/channel/UCNSdU_1ehXtGclimTVckHmQ/videos) - Hacking guides.
+  * [Loi Liang Yang](https://www.youtube.com/channel/UC1szFCBUWXY3ESff8dJjjzw/videos) - Hacking guides.
+  * [Null Byte](https://www.youtube.com/channel/UCgTNupxATBfWmfehv21ym-g) - Hacking guides and concepts.
+  * [Computerphile](https://www.youtube.com/user/Computerphile/videos?view=0&sort=p&shelf_id=2) - Information security concepts.
+  * [Thenewboston](https://www.youtube.com/user/thenewboston/playlists) - Programming and hacking guides.
+  * [Hak5](https://www.youtube.com/user/Hak5Darren/featured) - Hacking tools, guides and concepts.
   * [Schuyler Towne channel](https://www.youtube.com/user/SchuylerTowne/) - Lockpicking videos and security talks.
   * [bosnianbill](https://www.youtube.com/user/bosnianbill) - lockpicking videos.
 
@@ -571,6 +625,8 @@ If you're new to InfoSec and are looking for a concentrated list of reasources t
   * [Starting Up Security](https://scrty.io/) - A collection of information security essays and links to help growing teams manage risks.
 
 #### Knowledge Bases
+  * [Top 100 Cyber Security Blogs and Websites](https://blog.feedspot.com/cyber_security_blogs/)
+  * [CyBOK](https://www.cybok.org/knowledgebase/)
   * [OSINT Intel Techniques](https://inteltechniques.com/)
   * [MITRE ATT&CK](https://attack.mitre.org/tactics/enterprise/)
   * [Exploit-db](http://www.exploit-db.com/)
@@ -1268,44 +1324,6 @@ If you're new to InfoSec and are looking for a concentrated list of reasources t
   * [AutoSploit](https://github.com/NullArray/AutoSploit) - Automated mass exploiter, which collects target by employing the Shodan.io API and programmatically chooses Metasploit exploit modules based on the Shodan query.
   * [Rupture](https://github.com/dionyziz/rupture) - Multipurpose tool capable of man-in-the-middle attacks, BREACH attacks and other compression-based crypto attacks.
   * [Mobile Security Framework (MobSF)](https://github.com/MobSF/Mobile-Security-Framework-MobSF/) - Automated mobile application pentesting framework capable of static analysis, dynamic analysis, malware analysis, and web API testing.
-
-#### Training Utilities and Resources
-  * [Damn Vulnerable Web Application (DVWA)](https://github.com/Night46/spYDyishai/) - Purposely vulnerable PHP/MySQL web application.
-  * [OWASP Damn Vulnerable Web Sockets (DVWS)](https://github.com/interference-security/DVWS/) - Vulnerable web application which works on web sockets for client-server communication.
-  * [OWASP NodeGoat](https://github.com/OWASP/NodeGoat/) - Includes Node.js web applications for learning the OWASP top 10.
-  * [OWASP SecurityShepard](https://github.com/OWASP/SecurityShepherd/) - Web and mobile application security training platform.
-  * [OWASP Juice Shop](https://github.com/bkimminich/juice-shop/) - JavaScript based intentionally insecure web application.
-  * [CPTE Courseware Kit](https://mile2.com/mile2-online-estore/courseware-kits/c-pte-certified-penetration-testing-engineer-courseware-kit-shop.html) - Official training kit for CPTE exam.
-  * [OSCP-like Vulnhub VMs](https://www.abatchy.com/2017/02/oscp-like-vulnhub-vms) - Intentionally vulnerable VMs resembling OSCP.
-  * [Over the Wire: Natas](http://overthewire.org/wargames/natas/) - Web application challenges.
-  * [XSS-game](https://xss-game.appspot.com/) - Cross-site Scripting challenges.
-  * [Hack the Box](https://www.hackthebox.eu/) - Online pentesting labs with Windows VMs.
-  * [RopeyTasks](https://github.com/continuumsecurity/RopeyTasks/) - Simple deliberately vulnerable web application.
-  * [WebGoat](https://github.com/WebGoat/WebGoat/) - Intentionally insecure web application maintained by OWASP.
-  * [railsgoat](https://github.com/OWASP/railsgoat) - A vulnerable version of Rails that follows the OWASP Top 10.
-  * [Awesome Web Security](https://github.com/qazbnm456/awesome-web-security) - Encyclopedia of web security information.
-  * [Awesome Hacking Resources](https://github.com/vitalysim/Awesome-Hacking-Resources) - Self-explanatory.
-  * [Security Cheatsheets](https://github.com/andrewjkerr/security-cheatsheets)
-  * [Corelan.be](https://www.corelan.be/index.php/articles/) - Website containing many useful training resources and tutorial. 
-  * [Introduction to Software Exploits Part 1](http://opensecuritytraining.info/Exploits1.html) - Online or in-person tutorial covering multiple areas of software exploitation.
-  * [Introduction to Software Exploits Part 2 - Exploitation in the Windows Environment](http://opensecuritytraining.info/Exploits2.html) - Online or in-person tutorial covering multiple areas of software exploitation, with emphasis on Windows exploitation.
-  * [How To: Empire's Cross Platform Office Macro](https://www.blackhillsinfosec.com/empires-cross-platform-office-macro/) - How to utilize Empire's cross-platform malicious MS Office macro.
-  * [Phishing With Empire](https://enigma0x3.net/2016/03/15/phishing-with-empire/) - Guide on phishing with Empire.
-  * [Phishing With PowerPoint](https://www.blackhillsinfosec.com/phishing-with-powerpoint/) - Guide on getting unsuspecting users to open malicious PPT files.
-  * [Executing Metasploit & Empire Payloads from MS Office Document Properties part 1](https://stealingthe.network/executing-metasploit-empire-payloads-from-ms-office-document-properties-part-1-of-2/) - How to stealthily deliver a Metasploit payload via MS Office document properties and a simple macro.
-  * [Executing Metasploit & Empire Payloads from MS Office Document Properties part 2](https://stealingthe.network/executing-metasploit-empire-payloads-from-ms-office-document-properties-part-2-of-2/) - Like part 1, but focusing on Empire rather than Metasploit.
-  * [Hack This Site](https://www.hackthissite.org/) - Learn about web application security by hacking this website.
-  * [Enigma Group](https://www.enigmagroup.org/) - Web application training resource.
-  * [Web Application Security Quiz](https://timoh6.github.io/WebAppSecQuiz/) - 18 question online web app security quiz.
-  * [OpenSecurityTraining.info](http://opensecuritytraining.info/) - Free online training resource.
-  * [PentesterLab](https://pentesterlab.com/) - Tiered online training resources.
-  * [Cybrary.it](https://www.cybrary.it/) - Free online courses.
-  * [XSS Cheat Sheet](https://n0p.net/penguicon/php_app_sec/mirror/xss.html)
-  * [LFI Cheat Sheet](https://highon.coffee/blog/lfi-cheat-sheet/)
-  * [Reverse Shell Cheat Sheet](https://highon.coffee/blog/reverse-shell-cheat-sheet/)
-  * [SQL Injection Cheat Sheet](https://www.netsparker.com/blog/web-security/sql-injection-cheat-sheet/)
-  * [Windows Path Traversal Cheat Sheet](https://www.gracefulsecurity.com/path-traversal-cheat-sheet-windows/)
-  * [Hacker101](https://www.hacker101.com/) - Online training resource.
 
 #### Network Vulnerability Scanners
   * [OpenVAS](http://www.openvas.org/) - Open source implementation of the popular Nessus vulnerability assessment system.
