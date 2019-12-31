@@ -131,6 +131,7 @@ If you're new to InfoSec and are looking for a concentrated list of reasources t
   
 - [License](#license)
 
+---------------------------------------------------------------------------------------------------------------------------------------
 
 ### Resources
 
