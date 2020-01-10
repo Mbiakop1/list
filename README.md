@@ -1493,6 +1493,7 @@ If you're new to InfoSec and are looking for a concentrated list of reasources t
   * [truffleHog](https://github.com/dxa4481/truffleHog) - Git repo scanner.
   * [Yara](https://github.com/VirusTotal/yara) - Static pattern analysis tool for malware researchers.
   * [Icewater](https://github.com/SupportIntelligence/Icewater) - 16,432 free Yara rules.
+  * [Codelyzer](https://github.com/mgechev/codelyzer) - A set of tslint rules for static code analysis of Angular TypeScript projects. You can run the static code analyzer over web apps, NativeScript, Ionic, etc.
 
 #### Dynamic Analyzers
   * [Cheat Engine](https://www.cheatengine.org/) - Memory debugger and hex editor for running applications.
