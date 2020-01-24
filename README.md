@@ -708,12 +708,16 @@ If you're new to InfoSec and are looking for a concentrated list of reasources t
   * [Orbit](https://github.com/s0md3v/Orbit) - Draws relationships between crypto wallets with recursive crawling of transaction history.
   * [OsintStalker](https://github.com/milo2012/osintstalker) - Python script for Facebook and geolocation OSINT.
   * [Outwit](http://www.outwit.com) - Find, grab and organize all kinds of data and media from online sources.
-  * [Photon](https://github.com/s0md3v/Photon) - Crawler designed for OSINT
+  * [Photon](https://github.com/s0md3v/Photon) - Crawler designed for OSINT.
   * [Pown Recon](https://github.com/pownjs/pown-recon) - Target reconnaissance framework powered by graph theory.
   * [QuickCode](https://quickcode.io/) - Python and R data analysis environment.
   * [SecApps Recon](https://secapps.com/market/recon) - Information gathering and target reconnaissance tool and UI.
   * [sn0int](https://github.com/kpcyrd/sn0int) - Semi-automatic OSINT framework and package manager.
-  * [Zen](https://github.com/s0md3v/Zen) - Find email addresses of Github users
+  * [Zen](https://github.com/s0md3v/Zen) - Find email addresses of Github users.
+  * [Blockchair](https://blockchair.com/) - Multiple blockchain explorer.
+  * [Bitcoin Who's Who](https://bitcoinwhoswho.com/) - Database of known ID information from bitcoin addresses.
+  * [Bitcoin Abuse](https://www.bitcoinabuse.com/) - Database of wallets associated with ransomware, blackmailers and fraud.
+  * [Wallet Explorer](https://www.walletexplorer.com/) - Finds all known associated bitcoin addresses from a single known address.
   
 #### National Search Engines
   *Localized search engines by country.*
