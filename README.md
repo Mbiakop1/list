@@ -31,6 +31,8 @@ If you're new to InfoSec and are looking for a concentrated list of reasources t
   
 - [OSINT Tools Used](#osint-tools-used)
   * [General OSINT Tools](#general-osint-tools)
+  * [Crypto OSINT Search](#crypto-osint-search)
+  * [Government Record Search](#government-record-search)
   * [National Search Engines](#national-search-engines)
   * [Meta Search](#meta-search)
   * [Visual Search and Clustering Search Engines](#visual-search-and-clustering-search-engines)
@@ -153,7 +155,7 @@ If you're new to InfoSec and are looking for a concentrated list of reasources t
   * [Kali Linux Revealed](https://kali.training/downloads/Kali-Linux-Revealed-1st-edition.pdf)
   * [CompTIA Security+ SY0-501 Certification Study Guide](https://certification.comptia.org/training/self-study/books/security-sy0-501-study-guide)
   * [Open Source Intelligence Techniques - 7th Edition by Michael Bazell, 2020](https://www.amazon.com/Open-Source-Intelligence-Techniques-Information/dp/169903530X/ref=pd_sbs_14_t_0/134-6247779-9758859?_encoding=UTF8&pd_rd_i=169903530X&pd_rd_r=07ea6cbe-1a24-456f-a999-6d26fe03a850&pd_rd_w=2zQzs&pd_rd_wg=SKR7Q&pf_rd_p=5cfcfe89-300f-47d2-b1ad-a4e27203a02a&pf_rd_r=XG6V8AJB80PK4M4K6VWE&psc=1&refRID=XG6V8AJB80PK4M4K6VWE)
-  * Advanced Penetration Testing: Hacking the World's Most Secure Networks 
+  * Advanced Penetration Testing: Hacking the World's Most Secure Networks
   * CEH Certified Ethical Hacker All-in-One Exam Guide
   * Penetration Testing: A Hands-On Introduction to Hacking
   * The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws
@@ -589,7 +591,6 @@ If you're new to InfoSec and are looking for a concentrated list of reasources t
   * [MalShare](https://malshare.com/)
   * [theZoo](https://github.com/ytisf/theZoo)
   * [Tracker h3x](http://tracker.h3x.eu/)
-  * [vduddu malware repo](https://github.com/vduddu/Malware)
   * [VirusBay](https://beta.virusbay.io/)
   * [VirusSign](http://www.virussign.com/)
   * [VirusShare](https://virusshare.com/)
@@ -714,7 +715,13 @@ If you're new to InfoSec and are looking for a concentrated list of reasources t
   * [QuickCode](https://quickcode.io/) - Python and R data analysis environment.
   * [SecApps Recon](https://secapps.com/market/recon) - Information gathering and target reconnaissance tool and UI.
   * [sn0int](https://github.com/kpcyrd/sn0int) - Semi-automatic OSINT framework and package manager.
-  * [Zen](https://github.com/s0md3v/Zen) - Find email addresses of Github users
+  * [Zen](https://github.com/s0md3v/Zen) - Find email addresses of Github users.
+  
+#### Crypto OSINT Search
+  * [Blockchair](https://blockchair.com/) - Multiple blockchain explorer.
+  * [Bitcoin Who's Who](https://bitcoinwhoswho.com/) - Database of known ID information from bitcoin addresses.
+  * [Bitcoin Abuse](https://www.bitcoinabuse.com/) - Database of wallets associated with ransomware, blackmailers and fraud.
+  * [Wallet Explorer](https://www.walletexplorer.com/) - Finds all known associated bitcoin addresses from a single known address.
   
 #### Government Record Search
   * [PACER](https://www.pacer.gov/) - Public Access to Federal Court Records.
@@ -722,14 +729,8 @@ If you're new to InfoSec and are looking for a concentrated list of reasources t
   * [FOIA Search](https://www.foia.gov/search.html) - Government information request portal. 
   * [SSN Validator](https://www.ssnvalidator.com/index.aspx) - Confirms valid Social Security Numbers. 
   * [Blackbook](https://www.blackbookonline.info/index.html) - Public Records Starting Point. 
-  * [Leadferret](https://leadferret.com/search) - Detailed business and employee records. 
-  * [Zen](https://github.com/s0md3v/Zen) - Find email addresses of Github users.
-  * [Blockchair](https://blockchair.com/) - Multiple blockchain explorer.
-  * [Bitcoin Who's Who](https://bitcoinwhoswho.com/) - Database of known ID information from bitcoin addresses.
-  * [Bitcoin Abuse](https://www.bitcoinabuse.com/) - Database of wallets associated with ransomware, blackmailers and fraud.
-  * [Wallet Explorer](https://www.walletexplorer.com/) - Finds all known associated bitcoin addresses from a single known address.
+  * [Leadferret](https://leadferret.com/search) - Detailed business and employee records.
   
-
 #### National Search Engines
   *Localized search engines by country.*
 
@@ -1335,7 +1336,6 @@ If you're new to InfoSec and are looking for a concentrated list of reasources t
   * [Mad-Metasploit](https://www.hahwul.com/p/mad-metasploit.html) - Additional scripts for Metasploit.
   * [Armitage](http://fastandeasyhacking.com/) - Java-based GUI front-end for the Metasploit Framework.
   * [Faraday](https://github.com/infobyte/faraday) - Multiuser integrated pentesting environment for red teams performing cooperative penetration tests, security audits, and risk assessments.
-  * [ExploitPack](https://github.com/juansacco/exploitpack) - Graphical tool for automating penetration tests that ships with many pre-packaged exploits.
   * [Pupy](https://github.com/n1nj4sec/pupy) - Cross-platform (Windows, Linux, macOS, Android) remote administration and post-exploitation tool.
   * [AutoSploit](https://github.com/NullArray/AutoSploit) - Automated mass exploiter, which collects target by employing the Shodan.io API and programmatically chooses Metasploit exploit modules based on the Shodan query.
   * [Rupture](https://github.com/dionyziz/rupture) - Multipurpose tool capable of man-in-the-middle attacks, BREACH attacks and other compression-based crypto attacks.
@@ -1534,7 +1534,6 @@ If you're new to InfoSec and are looking for a concentrated list of reasources t
   * [Hachoir](http://hachoir3.readthedocs.io/) - Python library to view and edit a binary stream as tree of fields and tools for metadata extraction.
 
 #### Anti-Virus Evasion Tools
-  * [shellsploit](https://github.com/Exploit-install/shellsploit-framework) - Generates custom shellcode, backdoors, injectors, optionally obfuscates every byte via encoders.
   * [Hyperion](http://nullsecurity.net/tools/binary.html) - Runtime encryptor for 32-bit portable executables ("PE `.exe`s").
   * [AntiVirus Evasion Tool (AVET)](https://github.com/govolution/avet) - Post-process exploits containing executable files targeted for Windows machines to avoid being recognized by antivirus software.
   * [peCloak.py](https://www.securitysift.com/pecloak-py-an-experiment-in-av-evasion/) - Automates the process of hiding a malicious Windows executable from antivirus (AV) detection.
@@ -1580,7 +1579,6 @@ If you're new to InfoSec and are looking for a concentrated list of reasources t
   * [Mempodipper](https://www.exploit-db.com/exploits/18411/) - Linux Kernel 2.6.39 < 3.2.2 local privilege escalation script.
 
 #### macOS Utilities
-  * [Bella](https://github.com/Trietptm-on-Security/Bella) - Pure Python post-exploitation data mining and remote administration tool for macOS.
   * [Linus](https://cisofy.com/lynis/) - Security auditing tool for Linux and macOS.
 
 #### Social Engineering Tools
@@ -1737,7 +1735,6 @@ If you're new to InfoSec and are looking for a concentrated list of reasources t
   * [Cowrie Docker](https://github.com/cowrie/docker-cowrie) - Docker version of Cowrie, SSH/Telnet honeypot.
   * [Shadow Daemon](https://github.com/zecure/shadowd/) - Collection of tools to detect, record, and prevent attacks on web applications.
   * [elastichoney](https://github.com/jordan-wright/elastichoney/) - Elasticsearch honeypot.
-  * [Honeypress](https://github.com/dustyfresh/HoneyPress/) - WordPress honeypot in a docker container.
   * [wp-smart-honeypot](https://github.com/freak3dot/wp-smart-honeypot/) - WordPress plugin and honeypot designed to reduce comment spam.
   * [Wordpot](https://github.com/gbrindisi/wordpot) - WordPress honeypot.
   * [MongoDB-HoneyProxy](https://github.com/Plazmaz/MongoDB-HoneyProxy/) - MongoDB honeypot.
@@ -1936,7 +1933,6 @@ If you're new to InfoSec and are looking for a concentrated list of reasources t
   * [rastrea2r](https://github.com/aboutsecurity/rastrea2r) - allows one to scan disks and memory for IOCs using YARA on Windows, Linux and OS X.
   * [RaQet](https://raqet.github.io/) - RaQet is an unconventional remote acquisition and triaging tool that allows triage a disk of a remote computer (client) that is restarted with a purposely built forensic operating system.
   * [Stalk](https://www.percona.com/doc/percona-toolkit/2.2/pt-stalk.html) - Collect forensic data about MySQL when problems occur.
-  * [SearchGiant](https://github.com/jadacyrus/searchgiant_cli) - a commandline utility to acquire forensic data from cloud services.
   * [Stenographer](https://github.com/google/stenographer) - Stenographer is a packet capture solution which aims to quickly spool all packets to disk, then provide simple, fast access to subsets of those packets. It stores as much history as it possible, managing disk usage, and deleting when disk limits are hit. It's ideal for capturing the traffic just before and during an incident, without the need explicit need to store all of the network traffic.
   * [sqhunter](https://github.com/0x4d31/sqhunter) - a threat hunter based on osquery and Salt Open (SaltStack) that can issue ad-hoc or distributed queries without the need for osquery's tls plugin. sqhunter allows you to query open network sockets and check them against threat intelligence sources. 
   * [traceroute-circl](https://github.com/CIRCL/traceroute-circl) - traceroute-circl is an extended traceroute to support the activities of CSIRT (or CERT) operators. Usually CSIRT team have to handle incidents based on IP addresses received. Created by Computer Emergency Responce Center Luxembourg.
@@ -1948,7 +1944,6 @@ If you're new to InfoSec and are looking for a concentrated list of reasources t
   
 ### Our Open Source Tools
   * [Legion](https://github.com/GoVanguard/legion) - Legion is an open source, easy-to-use, super-extensible and semi-automated network penetration testing tool that aids in discovery, reconnaissance and exploitation of information systems.
-  * [Spearhead](https://github.com/GoVanguard/defectDojoWhiteLabel) - Private repo containing just the whitelabel components for defectDojo, also known as Spearhead.
   
 ### License
 
