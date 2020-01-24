@@ -152,6 +152,7 @@ If you're new to InfoSec and are looking for a concentrated list of reasources t
 #### Books
   * [Kali Linux Revealed](https://kali.training/downloads/Kali-Linux-Revealed-1st-edition.pdf)
   * [CompTIA Security+ SY0-501 Certification Study Guide](https://certification.comptia.org/training/self-study/books/security-sy0-501-study-guide)
+  * [Open Source Intelligence Techniques - 7th Edition by Michael Bazell, 2020](https://www.amazon.com/Open-Source-Intelligence-Techniques-Information/dp/169903530X/ref=pd_sbs_14_t_0/134-6247779-9758859?_encoding=UTF8&pd_rd_i=169903530X&pd_rd_r=07ea6cbe-1a24-456f-a999-6d26fe03a850&pd_rd_w=2zQzs&pd_rd_wg=SKR7Q&pf_rd_p=5cfcfe89-300f-47d2-b1ad-a4e27203a02a&pf_rd_r=XG6V8AJB80PK4M4K6VWE&psc=1&refRID=XG6V8AJB80PK4M4K6VWE)
   * Advanced Penetration Testing: Hacking the World's Most Secure Networks 
   * CEH Certified Ethical Hacker All-in-One Exam Guide
   * Penetration Testing: A Hands-On Introduction to Hacking
