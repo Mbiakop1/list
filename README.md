@@ -714,12 +714,22 @@ If you're new to InfoSec and are looking for a concentrated list of reasources t
   * [QuickCode](https://quickcode.io/) - Python and R data analysis environment.
   * [SecApps Recon](https://secapps.com/market/recon) - Information gathering and target reconnaissance tool and UI.
   * [sn0int](https://github.com/kpcyrd/sn0int) - Semi-automatic OSINT framework and package manager.
+  * [Zen](https://github.com/s0md3v/Zen) - Find email addresses of Github users
+  
+#### Government Record Search
+  * [PACER](https://www.pacer.gov/) - Public Access to Federal Court Records.
+  * [RECAP](https://www.courtlistener.com/recap/) - Free version of PACER. Includes browser extensions for Chrome & Firefox.
+  * [FOIA Search](https://www.foia.gov/search.html) - Government information request portal. 
+  * [SSN Validator](https://www.ssnvalidator.com/index.aspx) - Confirms valid Social Security Numbers. 
+  * [Blackbook](https://www.blackbookonline.info/index.html) - Public Records Starting Point. 
+  * [Leadferret](https://leadferret.com/search) - Detailed business and employee records. 
   * [Zen](https://github.com/s0md3v/Zen) - Find email addresses of Github users.
   * [Blockchair](https://blockchair.com/) - Multiple blockchain explorer.
   * [Bitcoin Who's Who](https://bitcoinwhoswho.com/) - Database of known ID information from bitcoin addresses.
   * [Bitcoin Abuse](https://www.bitcoinabuse.com/) - Database of wallets associated with ransomware, blackmailers and fraud.
   * [Wallet Explorer](https://www.walletexplorer.com/) - Finds all known associated bitcoin addresses from a single known address.
   
+
 #### National Search Engines
   *Localized search engines by country.*
 
