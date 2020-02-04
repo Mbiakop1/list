@@ -968,7 +968,7 @@ If you're new to InfoSec and are looking for a concentrated list of reasources t
   * [User Search](http://www.usersearch.org)
   * [Linkedin2Username](https://gitlab.com/initstring/linkedin2username) - Web scraper that uses valid LinkedIn credentials to put together a list of employees for a specified company.
 
-#### Personel Investigations
+#### Personacl Investigations
   * [Locate Family](https://www.locatefamily.com/) - Basicly a worldwide phonebook that can be manually searched. This site shows up as results on google.com so searches based on name, address, or phone number.
   * [Go Find Who](https://gofindwho.com/) - Multiple handy search tools.
   * [Sowdust Facebook Search](https://sowdust.github.io/fb-search/) - Facebook search tool.
@@ -1357,6 +1357,8 @@ If you're new to InfoSec and are looking for a concentrated list of reasources t
   * [ACSTIS](https://github.com/tijme/angularjs-csti-scanner) - Automated client-side template injection (sandbox escape/bypass) detection for AngularJS.
   * [SQLmate](https://github.com/UltimateHackers/sqlmate) - A friend of sqlmap that identifies sqli vulnerabilities based on a given dork and website (optional).
   * [ASafaWeb](https://asafaweb.com) - Free online web vulnerability scanner.
+  * [Security Headers](https://securityheaders.com/) - Free online utility for checking a website's HTTP headers for security vulnerabilities.
+  * [Observatory](https://observatory.mozilla.org/) - Free online web scanning utility.
 
 #### Web Exploitation
   * [Browser Exploitation Framework (BeEF)](https://github.com/beefproject/beef) - Command and control server for delivering exploits to commandeered Web browsers.
