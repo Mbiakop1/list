@@ -1407,7 +1407,8 @@ If you're new to InfoSec and are looking for a concentrated list of reasources t
   * [UFONet](https://github.com/epsylon/ufonet/) - Layer 7 DDoS/DoS tool.
   * [Zarp](https://github.com/hatRiot/zarp/) - Multipurpose network attack tool, both wired and wireless.
   * [FireAway](https://github.com/tcstool/Fireaway/) - Firewall audit and security bypass tool.
-  * [enumdb](https://github.com/m8r0wn/enumdb) - MySQL and MSSQL bruteforce utilityl
+  * [enumdb](https://github.com/m8r0wn/enumdb) - MySQL and MSSQL bruteforce utility
+  * [netcut](https://arcai.com/netcut/) - ARP based utility for discovering and spoofing MAC addresses and enabling/disabling network connectivity on network devices.
 
 #### Protocol Analyzers and Sniffers
   * [tcpdump/libpcap](http://www.tcpdump.org/) - Common packet analyzer that runs under the command line.
