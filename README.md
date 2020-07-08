@@ -688,6 +688,7 @@ If you're new to InfoSec and are looking for a concentrated list of reasources t
   * [Google Hacking Database](https://www.exploit-db.com/google-hacking-database/) - Database of Google dorks; can be used for recon.
   * [GooDork](https://github.com/k3170makan/GooDork) - Command line Google dorking tool.
   * [Dork-cli](https://github.com/jgor/dork-cli) - Command line Google dork tool.
+  * [PaGoDo](https://github.com/opsdisk/pagodo) - Passive, automated Google dorking tool.
   * [Censys](https://www.censys.io/) - Collects data on hosts and websites through daily ZMap and ZGrab scans.
   * [Recon-ng](https://bitbucket.org/LaNMaSteR53/recon-ng) - Full-featured Web Reconnaissance framework written in Python.
   * [Github-dorks](https://github.com/techgaun/github-dorks) - CLI tool to scan github repos/organizations for potential sensitive information leak.
