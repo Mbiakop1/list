@@ -1376,7 +1376,7 @@ If you're new to InfoSec and are looking for a concentrated list of resources to
   * [libformatstr](https://github.com/hellman/libformatstr) - Python script designed to simplify format string exploits.
   * [liffy](https://github.com/hvqzao/liffy) - LFI exploitation tool.
   * [lyncsmash](https://github.com/nyxgeek/lyncsmash) - A collection of tools to enumerate and attack self-hosted Skype for Business and Microsoft Lync installations
-  * [NoSQLmap](http://nosqlmap.net/) - Automatic NoSQL injection and database takeover tool.
+  * [NoSQLmap](https://github.com/codingo/NoSQLMap) - Automatic NoSQL injection and database takeover tool.
   * [SQLmap](http://sqlmap.org/) - Automated SQL injection and database takeover tool.
   * [sqlninja](http://sqlninja.sourceforge.net/) - Automated SQL injection and database takeover tool.
   * [sslstrip2](https://github.com/LeonardoNve/sslstrip2) - SSLStrip version to defeat HSTS.
