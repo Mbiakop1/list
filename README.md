@@ -1272,6 +1272,7 @@ If you're new to InfoSec and are looking for a concentrated list of resources to
   * [Armitage](http://www.fastandeasyhacking.com/) - Java-based GUI front-end for the Metasploit Framework.
   * [AutoSploit](https://github.com/NullArray/AutoSploit) - Automated mass exploiter, which collects target by employing the Shodan.io API and programmatically chooses Metasploit exploit modules based on the Shodan query.
   * [Faraday](https://github.com/infobyte/faraday) - Multiuser integrated pentesting environment for red teams performing cooperative penetration tests, security audits, and risk assessments.
+  * [Habu Hacking Toolkit](https://github.com/fportantier/habu) - Unified set of tools spanning passive reconnaissance, network attacks, social media monitoring, and website fingerprinting.
   * [Mad-Metasploit](https://www.hahwul.com/p/mad-metasploit.html) - Additional scripts for Metasploit.
   * [Metasploit](https://www.metasploit.com/) - Software for offensive security teams to help verify vulnerabilities and manage security assessments.
   * [Mobile Security Framework (MobSF)](https://github.com/MobSF/Mobile-Security-Framework-MobSF/) - Automated mobile application pentesting framework capable of static analysis, dynamic analysis, malware analysis, and web API testing.
