@@ -431,6 +431,7 @@ If you're new to InfoSec and are looking for a concentrated list of resources to
 
 #### Informative Youtube Channels
 * [Computerphile](https://www.youtube.com/user/Computerphile/videos?view=0&sort=p&shelf_id=2) - Information security concepts.
+* [Hacksplained](https://www.youtube.com/c/hacksplained) - Hacking guides and walkthroughs. 
 * [Hak5](https://www.youtube.com/user/Hak5Darren/featured) - Hacking tools, guides and concepts.
 * [Loi Liang Yang](https://www.youtube.com/channel/UC1szFCBUWXY3ESff8dJjjzw/videos) - Hacking guides.
 * [Motasem Hamdan](https://www.youtube.com/channel/UCNSdU_1ehXtGclimTVckHmQ/videos) - Hacking guides.
