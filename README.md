@@ -1337,10 +1337,12 @@ If you're new to InfoSec and are looking for a concentrated list of resources to
   * [FireAway](https://github.com/tcstool/Fireaway/) - Firewall audit and security bypass tool.
   * [impacket](https://github.com/SecureAuthCorp/impacket) - Collection of Python classes for working with network protocols.
   * [Intercepter-NG](http://sniff.su/) - Multifunctional network toolkit.
+  * [kerbrute](https://github.com/ropnop/kerbrute) - A tool to perform Kerberos pre-auth bruteforcing.
   * [Low Orbit Ion Cannon (LOIC)](https://github.com/NewEraCracker/LOIC/) - Open source network stress testing tool.
   * [Ncat](https://nmap.org/ncat/) - TCP/IP command line utility supporting multiple protocols.
   * [netcut](https://arcai.com/netcut/) - ARP based utility for discovering and spoofing MAC addresses and enabling/disabling network connectivity on network devices.
   * [Network-Tools.com](https://network-tools.com/) - Website offering an interface to numerous basic network utilities like `ping`, `traceroute`, `whois`, and more.
+  * [patator](https://github.com/lanjelot/patator) - Patator is a multi-purpose brute-forcer, with a modular design and a flexible usage.
   * [pig](https://github.com/rafael-santiago/pig) - GNU/Linux packet crafting tool.
   * [Praeda](http://h.foofus.net/?page_id=218) - Automated multi-function printer data harvester for gathering usable data during security assessments.
   * [Printer Exploitation Toolkit (PRET)](https://github.com/RUB-NDS/PRET) - Tool for printer security testing capable of IP and USB connectivity, fuzzing, and exploitation of PostScript, PJL, and PCL printer language features.
@@ -1517,6 +1519,7 @@ If you're new to InfoSec and are looking for a concentrated list of resources to
   * [PowerSploit](https://github.com/PowerShellMafia/PowerSploit) - PowerShell Post-Exploitation Framework.
   * [PSKernel-Primitives](https://github.com/FuzzySecurity/PSKernel-Primitives/) - Exploiting primitives for PowerShell.
   * [Redsnarf](https://github.com/nccgroup/redsnarf) - Post-exploitation tool for retrieving password hashes and credentials from Windows workstations, servers, and domain controllers.
+  * [Rubeus](https://github.com/GhostPack/Rubeus) - Rubeus is a C# toolset for raw Kerberos interaction and abuses.
   * [Sysinternals Suite](https://docs.microsoft.com/en-us/sysinternals/downloads/sysinternals-suite) - The Sysinternals Troubleshooting Utilities.
   * [Windows Credentials Editor](https://www.ampliasecurity.com/research/windows-credentials-editor/) - Inspect logon sessions and add, change, list, and delete associated credentials, including Kerberos tickets.
   * [Windows Exploit Suggester](https://github.com/AonCyberLabs/Windows-Exploit-Suggester) - Suggests Windows exploits based on patch levels.
