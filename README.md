@@ -1544,6 +1544,7 @@ If you're new to InfoSec and are looking for a concentrated list of resources to
   * [PhishingFrenzy](https://www.phishingfrenzy.com/) - Phishing Frenzy is an Open Source Ruby on Rails application that is leveraged by penetration testers to manage email phishing campaigns.
   * [SET](https://github.com/trustedsec/social-engineer-toolkit) - The Social-Engineer Toolkit from TrustedSec
   * [wifiphisher](https://github.com/wifiphisher/wifiphisher) - Automated phishing attacks against Wi-Fi networks
+  * [Canary Tokens](https://canarytokens.org/generate#) - Generate tokens to automatically alert users when triggered. 
   
 #### Anonymity Tools
   * [Freenet](https://freenetproject.org/) - Freenet is a peer-to-peer platform for censorship-resistant communication and publishing.
