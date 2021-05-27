@@ -217,6 +217,7 @@ If you're new to InfoSec and are looking for a concentrated list of resources to
 * [Advanced Persistent Threat Hacking: The Art and Science of Hacking Any Organization by Tyler Wrightson, 2014](https://www.amazon.com/dp/0071828362)
 * [Android Hackers Handbook by Joshua J. Drake et al., 2014](https://www.wiley.com/en-us/Android+Hacker%27s+Handbook-p-9781118608647)
 * [Black Hat Python: Python Programming for Hackers and Pentesters by Justin Seitz, 2014](https://www.amazon.com/dp/1593275900)
+* [Btfm: Blue Team Field Manual by Alan White and Ben Clark](https://www.amazon.com/dp/154101636X)
 * [Bug Hunter's Diary by Tobias Klein, 2011](https://nostarch.com/bughunter)
 * [CIA Lock Picking Field Operative Training Manual](https://www.scribd.com/doc/7207/CIA-Lock-Picking-Field-Operative-Training-Manual)
 * [Car Hacker's Handbook by Craig Smith, 2016]( https://nostarch.com/carhacking)
