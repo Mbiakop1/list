@@ -122,14 +122,6 @@ If you're new to InfoSec and are looking for a concentrated list of resources to
   * [Windows Evidence Collection](#windows-evidence-collection)
   * [Other](#other)
   
-- [Our Reports](#our-reports)
-  * GoVanguard sample reports
-  * Offensive Security sample pentest report
-  
-- [Our Open Source Tools](#our-open-source-tools)
-  * Legion
-  * Spearhead
-  
 - [License](#license)
 
 ---------------------------------------------------------------------------------------------------------------------------------------
