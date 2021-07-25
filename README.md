@@ -1879,11 +1879,6 @@ If you're new to InfoSec and are looking for a concentrated list of resources to
   * [Sulley](https://github.com/OpenRCE/sulley/) - Fuzzing engine and framework.
   * [traceroute-circl](https://github.com/CIRCL/traceroute-circl) - traceroute-circl is an extended traceroute to support the activities of CSIRT (or CERT) operators. Usually CSIRT team have to handle incidents based on IP addresses received. Created by Computer Emergency Responce Center Luxembourg.
   * [Zulu](https://github.com/nccgroup/Zulu/) - Interactive fuzzer.
-
-
-### Our Reports
-  * [GoVanguard sample reports](https://github.com/GoVanguard/doc-infosec-report-samples)
-  * [Offensive Security sample pentest report](https://www.offensive-security.com/reports/sample-penetration-testing-report.pdf)
   
 ### Our Open Source Tools
   * [Legion](https://github.com/GoVanguard/legion) - Legion is an open source, easy-to-use, super-extensible and semi-automated network penetration testing tool that aids in discovery, reconnaissance and exploitation of information systems.
