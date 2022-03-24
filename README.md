@@ -3,13 +3,6 @@
 This is an ongoing compilation of resources we have found helpful and tools we use.
 If you're new to InfoSec and are looking for a concentrated list of resources to get started, check out [Getting into InfoSec and Cybersecurity](https://github.com/GoVanguard/Getting-into-InfoSec-and-Cybersecurity).
 
-* Table of Contents
-* Resources
-* Tools Used
-* Our Reports
-* Our Open Source Software
-* License
-
 ## Table of Contents
 - [Resources](#resources)</summary>
   * [Information Security Certifications](#information-security-certifications)
