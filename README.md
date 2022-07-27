@@ -162,6 +162,7 @@ If you're new to InfoSec and are looking for a concentrated list of resources to
 * Hacked Again
 * Hacking Exposed 7
 * Hacking: The Art of Exploitation
+* How Linux Works: What every superuser should know 
 * Information Assurance Handbook: Effective Computer Security and Risk Management Strategies
 * Linux Shell Scripting Cookbook
 * Network Forensics: Tracking Hackers through Cyberspace
