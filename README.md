@@ -391,7 +391,6 @@ If you're new to InfoSec and are looking for a concentrated list of resources to
 * [Pentest Recon And Enu Cheatsheet](https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/#recon-and-enumeration)
 * [Reverse Shell Cheat Sheet](https://highon.coffee/blog/reverse-shell-cheat-sheet/)
 * [SQL Injection Cheat Sheet](https://www.netsparker.com/blog/web-security/sql-injection-cheat-sheet/)
-* [Windows Path Traversal Cheat Sheet](https://gracefulsecurity.com/path-traversal-cheat-sheet-windows/)
 * [XSS Cheat Sheet](https://n0p.net/penguicon/php_app_sec/mirror/xss.html)
 * [XSS Payload Cheatsheet](https://github.com/pgaijin66/XSS-Payloads/blob/master/payload/payload.txt)
   
